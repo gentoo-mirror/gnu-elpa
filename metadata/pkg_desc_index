@@ -268,7 +268,7 @@ app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
 app-emacs/realgud-node-debug 1.0.0: Realgud front-end to older node debug
 app-emacs/realgud-node-inspect 1.0.0: Realgud front-end to newer node inspect
 app-emacs/realgud-trepan-ni 1.0.1: Realgud front-end to trepan-ni
-app-emacs/realgud-trepan-xpy 1.0.0: Realgud front-end to trepan-xpy
+app-emacs/realgud-trepan-xpy 1.0.1: Realgud front-end to trepan-xpy
 app-emacs/rec-mode 1.9.1: Major mode for viewingediting rec files
 app-emacs/register-list 0.1: Interactively listedit registers
 app-emacs/relint 1.21: Elisp regexp mistake finder
@@ -309,7 +309,7 @@ app-emacs/stream 2.2.5: Implementation of streams
 app-emacs/substitute 0.1.7: Efficiently replace targets in the buffer or context
 app-emacs/svg 1.1: SVG image creation functions
 app-emacs/svg-clock 1.2: Analog clock using Scalable Vector Graphics
-app-emacs/svg-lib 0.2.5: SVG tags, progress bars icons
+app-emacs/svg-lib 0.2.6: SVG tags, progress bars icons
 app-emacs/svg-tag-mode 0.3.2: Replace keywords with SVG tags
 app-emacs/swiper 0.13.4: Isearch with an overview. Oh, man
 app-emacs/sxhkdrc-mode 1.0.0: Major mode for sxhkdrc files (Simple X Hot Key Daemon)

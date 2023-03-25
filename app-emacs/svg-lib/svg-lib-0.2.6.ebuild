@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="SVG tags, progress bars  icons"
+DESCRIPTION="SVG tags, progress bars & icons"
 
 HOMEPAGE="https://github.com/rougier/svg-lib"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

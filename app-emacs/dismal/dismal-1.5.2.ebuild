@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Dis Mode Aint Lotus Spreadsheet program Emacs"
+DESCRIPTION="Dis Mode Ain't Lotus: Spreadsheet program Emacs"
 
 HOMEPAGE="https://elpa.gnu.org/packages/dismal.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

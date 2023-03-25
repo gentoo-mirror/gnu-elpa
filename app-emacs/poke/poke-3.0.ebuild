@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs meets GNU poke"
+DESCRIPTION="Emacs meets GNU poke!"
 
 HOMEPAGE="https://www.jemarch.net/poke"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

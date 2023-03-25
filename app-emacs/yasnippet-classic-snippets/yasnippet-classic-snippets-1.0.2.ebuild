@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Classic yasnippet snippets"
+DESCRIPTION="\"Classic\" yasnippet snippets"
 
 HOMEPAGE="http://elpa.gnu.org/packages/yasnippet-classic-snippets.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

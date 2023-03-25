@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Completion style for files, minimiing directories"
+DESCRIPTION="Completion style for files, minimizing directories"
 
 HOMEPAGE="https://elpa.gnu.org/packages/uniquify-files.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

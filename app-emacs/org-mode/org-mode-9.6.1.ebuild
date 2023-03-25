@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Outline-based notes management and organier"
+DESCRIPTION="Outline-based notes management and organizer"
 
 HOMEPAGE="https://orgmode.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

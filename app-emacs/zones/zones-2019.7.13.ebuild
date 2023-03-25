@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ones of text - like multiple regions"
+DESCRIPTION="Zones of text - like multiple regions"
 
 HOMEPAGE="https://elpa.gnu.org/packages/zones.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

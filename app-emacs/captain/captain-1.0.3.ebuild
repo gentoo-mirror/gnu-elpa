@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CAPiTaliation is Automatic IN emacs"
+DESCRIPTION="CAPiTalization is Automatic IN emacs"
 
 HOMEPAGE="http://elpa.gnu.org/packages/captain.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

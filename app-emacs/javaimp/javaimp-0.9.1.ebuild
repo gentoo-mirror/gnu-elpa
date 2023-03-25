@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Add and reorder Java import statements in MavenGradle projects"
+DESCRIPTION="Add and reorder Java import statements in Maven/Gradle projects"
 
 HOMEPAGE="https://elpa.gnu.org/packages/javaimp.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

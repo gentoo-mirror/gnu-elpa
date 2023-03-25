@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="China-specific internationaliation support for EBDB"
+DESCRIPTION="China-specific internationalization support for EBDB"
 
 HOMEPAGE="https://elpa.gnu.org/packages/ebdb-i18n-chn.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Integrated environment for TeX</longdescription>
+	<longdescription>Integrated environment for *TeX*</longdescription>
 </pkgmetadata>

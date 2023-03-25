@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Update Emacss GPG keyring for GNU ELPA</longdescription>
+	<longdescription>Update Emacs's GPG keyring for GNU ELPA</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="N  N O theme"
+DESCRIPTION="N Λ N O theme"
 
 HOMEPAGE="https://github.com/rougier/nano-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

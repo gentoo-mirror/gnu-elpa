@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Forward cl-generic compatibility for Emacs25"
+DESCRIPTION="Forward cl-generic compatibility for Emacs<25"
 
 HOMEPAGE="http://elpa.gnu.org/packages/cl-generic.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Pythons flying circus support for Emacs"
+DESCRIPTION="Python's flying circus support for Emacs"
 
 HOMEPAGE="https://github.com/fgallina/python.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

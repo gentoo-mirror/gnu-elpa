@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Utilities for implementing an indentationnavigation engine using a generalied LR parser</longdescription>
+	<longdescription>Utilities for implementing an indentation/navigation engine using a generalized LR parser</longdescription>
 </pkgmetadata>

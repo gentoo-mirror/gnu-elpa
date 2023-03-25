@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Integrated environment for TeX"
+DESCRIPTION="Integrated environment for *TeX*"
 
 HOMEPAGE="https://www.gnu.org/software/auctex/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

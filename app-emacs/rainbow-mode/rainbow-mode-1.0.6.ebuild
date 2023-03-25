@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Colorie color names in buffers"
+DESCRIPTION="Colorize color names in buffers"
 
 HOMEPAGE="https://elpa.gnu.org/packages/rainbow-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

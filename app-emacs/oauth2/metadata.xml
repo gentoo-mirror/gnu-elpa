@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>OAuth 2.0 Authoriation Protocol</longdescription>
+	<longdescription>OAuth 2.0 Authorization Protocol</longdescription>
 </pkgmetadata>

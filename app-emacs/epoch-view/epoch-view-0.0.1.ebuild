@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode to visualie epoch timestamps"
+DESCRIPTION="Minor mode to visualize epoch timestamps"
 
 HOMEPAGE="http://elpa.gnu.org/packages/epoch-view.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

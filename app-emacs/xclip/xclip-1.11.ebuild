@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Copypaste GUI clipboard from text terminal"
+DESCRIPTION="Copy&paste GUI clipboard from text terminal"
 
 HOMEPAGE="https://elpa.gnu.org/packages/xclip.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Parse and browse f0 interfaces</longdescription>
+	<longdescription>Parse and browse f90 interfaces</longdescription>
 </pkgmetadata>

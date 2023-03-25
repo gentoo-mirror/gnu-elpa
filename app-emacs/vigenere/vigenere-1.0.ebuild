@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Run a vigenere cipher on a block of text "
+DESCRIPTION="Run a vigenere cipher on a block of text ;"
 
 HOMEPAGE="https://elpa.gnu.org/packages/vigenere.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

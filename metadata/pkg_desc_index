@@ -271,7 +271,7 @@ app-emacs/realgud-trepan-ni 1.0.1: Realgud front-end to trepan-ni
 app-emacs/realgud-trepan-xpy 1.0.1: Realgud front-end to trepan-xpy
 app-emacs/rec-mode 1.9.1: Major mode for viewingediting rec files
 app-emacs/register-list 0.1: Interactively listedit registers
-app-emacs/relint 1.21: Elisp regexp mistake finder
+app-emacs/relint 1.22: Elisp regexp mistake finder
 app-emacs/repology 1.2.3: Repology API access via Elisp
 app-emacs/rich-minority 1.0.3: Clean-up and Beautify the list of minor-modes.
 app-emacs/rnc-mode 0.3: Emacs mode to edit Relax-NG Compact files

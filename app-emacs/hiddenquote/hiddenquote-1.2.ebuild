@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for doing hidden quote pules"
+DESCRIPTION="Major mode for doing hidden quote puzzles"
 
 HOMEPAGE="http://mauroaranda.com/puzzles/hidden-quote-puzzle/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

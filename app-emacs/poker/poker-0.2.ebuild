@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Texas hold em poker"
+DESCRIPTION="Texas hold 'em poker"
 
 HOMEPAGE="http://elpa.gnu.org/packages/poker.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

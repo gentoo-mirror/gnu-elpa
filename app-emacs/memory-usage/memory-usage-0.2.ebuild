@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Analye the memory usage of Emacs in various ways"
+DESCRIPTION="Analyze the memory usage of Emacs in various ways"
 
 HOMEPAGE="http://elpa.gnu.org/packages/memory-usage.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

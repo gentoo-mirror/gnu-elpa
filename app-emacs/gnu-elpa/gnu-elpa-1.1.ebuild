@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Advertie GNU ELPA packages"
+DESCRIPTION="Advertize GNU ELPA packages"
 
 HOMEPAGE="http://elpa.gnu.org/packages/gnu-elpa.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

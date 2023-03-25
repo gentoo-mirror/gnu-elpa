@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing commachar separated values"
+DESCRIPTION="Major mode for editing comma/char separated values"
 
 HOMEPAGE="https://elpa.gnu.org/packages/csv-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

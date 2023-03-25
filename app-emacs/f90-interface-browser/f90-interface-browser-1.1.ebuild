@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Parse and browse f0 interfaces"
+DESCRIPTION="Parse and browse f90 interfaces"
 
 HOMEPAGE="http://github.com/wence-/f90-iface/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

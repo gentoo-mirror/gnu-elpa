@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Utilities for implementing an indentationnavigation engine using a generalied LR parser"
+DESCRIPTION="Utilities for implementing an indentation/navigation engine using a generalized LR parser"
 
 HOMEPAGE="https://stephe-leake.org/ada/wisitoken.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

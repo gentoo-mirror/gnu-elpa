@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Pythons flying circus support for Emacs</longdescription>
+	<longdescription>Python's flying circus support for Emacs</longdescription>
 </pkgmetadata>

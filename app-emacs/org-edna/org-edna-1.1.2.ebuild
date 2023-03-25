@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extensible Dependencies N Actions"
+DESCRIPTION="Extensible Dependencies 'N' Actions"
 
 HOMEPAGE="https://savannah.nongnu.org/projects/org-edna-el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

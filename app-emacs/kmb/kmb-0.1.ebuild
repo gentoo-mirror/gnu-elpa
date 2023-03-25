@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Kill buffers matching a regexp wo confirmation"
+DESCRIPTION="Kill buffers matching a regexp w/o confirmation"
 
 HOMEPAGE="http://elpa.gnu.org/packages/kmb.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

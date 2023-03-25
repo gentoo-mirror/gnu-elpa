@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Interactively listedit registers</longdescription>
+	<longdescription>Interactively list/edit registers</longdescription>
 </pkgmetadata>

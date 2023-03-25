@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="N  N O agenda"
+DESCRIPTION="N Λ N O agenda"
 
 HOMEPAGE="https://github.com/rougier/nano-agenda"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

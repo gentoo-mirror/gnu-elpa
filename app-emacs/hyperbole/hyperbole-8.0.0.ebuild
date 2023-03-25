@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="GNU Hyperbole The Everyday Hypertextual Information Manager"
+DESCRIPTION="GNU Hyperbole: The Everyday Hypertextual Information Manager"
 
 HOMEPAGE="http://www.gnu.org/software/hyperbole"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

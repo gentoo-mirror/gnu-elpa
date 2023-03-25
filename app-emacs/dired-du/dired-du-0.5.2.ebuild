@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Dired with recursive directory sies"
+DESCRIPTION="Dired with recursive directory sizes"
 
 HOMEPAGE="http://elpa.gnu.org/packages/dired-du.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

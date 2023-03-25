@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Run a vigenere cipher on a block of text </longdescription>
+	<longdescription>Run a vigenere cipher on a block of text ;</longdescription>
 </pkgmetadata>

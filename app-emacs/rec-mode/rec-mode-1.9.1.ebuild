@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for viewingediting rec files"
+DESCRIPTION="Major mode for viewing/editing rec files"
 
 HOMEPAGE="https://www.gnu.org/software/recutils/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

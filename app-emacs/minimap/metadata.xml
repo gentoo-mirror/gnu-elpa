@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Sidebar showing a mini-map of a buffer</longdescription>
+	<longdescription>Sidebar showing a \&quot;mini-map\&quot; of a buffer</longdescription>
 </pkgmetadata>

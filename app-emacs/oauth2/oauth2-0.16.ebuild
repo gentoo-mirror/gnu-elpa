@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="OAuth 2.0 Authoriation Protocol"
+DESCRIPTION="OAuth 2.0 Authorization Protocol"
 
 HOMEPAGE="https://elpa.gnu.org/packages/oauth2.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

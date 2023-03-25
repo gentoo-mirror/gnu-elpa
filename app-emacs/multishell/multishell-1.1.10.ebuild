@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Organie use of multiple shell buffers, local and remote"
+DESCRIPTION="Organize use of multiple shell buffers, local and remote"
 
 HOMEPAGE="https://github.com/kenmanheimer/EmacsMultishell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

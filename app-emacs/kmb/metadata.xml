@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Kill buffers matching a regexp wo confirmation</longdescription>
+	<longdescription>Kill buffers matching a regexp w/o confirmation</longdescription>
 </pkgmetadata>

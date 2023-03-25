@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="N  N O modeline"
+DESCRIPTION="N Λ N O modeline"
 
 HOMEPAGE="https://github.com/rougier/nano-modeline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

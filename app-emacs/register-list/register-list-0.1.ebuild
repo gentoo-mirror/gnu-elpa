@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interactively listedit registers"
+DESCRIPTION="Interactively list/edit registers"
 
 HOMEPAGE="http://elpa.gnu.org/packages/register-list.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

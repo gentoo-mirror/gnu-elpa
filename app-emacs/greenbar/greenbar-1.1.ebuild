@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mark comint output with greenbar background"
+DESCRIPTION="Mark comint output with \"greenbar\" background"
 
 HOMEPAGE="http://elpa.gnu.org/packages/greenbar.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CRiSPBrief Emacs emulator"
+DESCRIPTION="CRiSP/Brief Emacs emulator"
 
 HOMEPAGE="http://elpa.gnu.org/packages/crisp.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Update Emacss GPG keyring for GNU ELPA"
+DESCRIPTION="Update Emacs's GPG keyring for GNU ELPA"
 
 HOMEPAGE="https://elpa.gnu.org/packages/gnu-elpa-keyring-update.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

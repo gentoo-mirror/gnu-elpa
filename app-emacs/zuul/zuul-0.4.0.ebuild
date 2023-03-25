@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interface to uul"
+DESCRIPTION="Interface to Zuul"
 
 HOMEPAGE="https://sr.ht/~niklaseklund/zuul.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

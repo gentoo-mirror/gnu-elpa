@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Forward compatibility for Emacs-24.4s nadvice"
+DESCRIPTION="Forward compatibility for Emacs-24.4's nadvice"
 
 HOMEPAGE="https://elpa.gnu.org/packages/nadvice.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

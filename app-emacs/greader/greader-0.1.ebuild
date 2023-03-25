@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="gnam reader, a reader with espeak tts"
+DESCRIPTION="gnamù reader, a reader with espeak tts"
 
 HOMEPAGE="http://elpa.gnu.org/packages/greader.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

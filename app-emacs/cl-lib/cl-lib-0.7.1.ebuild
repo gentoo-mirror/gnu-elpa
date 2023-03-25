@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Forward cl-lib compatibility library for Emacs24.3"
+DESCRIPTION="Forward cl-lib compatibility library for Emacs<24.3"
 
 HOMEPAGE="https://elpa.gnu.org/packages/cl-lib.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

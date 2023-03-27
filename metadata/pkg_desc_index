@@ -164,7 +164,7 @@ app-emacs/ivy-posframe 0.6.3: Using posframe to show Ivy
 app-emacs/jarchive 0.10.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
-app-emacs/jinx 0.2: Enchanted just-in-time spell checker
+app-emacs/jinx 0.3: Enchanted Just-in-time Spell Checker
 app-emacs/jit-spell 0.2: Just-in-time spell checking
 app-emacs/js2-mode 20220710: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files

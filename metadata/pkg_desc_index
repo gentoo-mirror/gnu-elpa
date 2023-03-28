@@ -18,13 +18,13 @@ app-emacs/async 1.9.7: Asynchronous processing in Emacs
 app-emacs/auctex 13.1.10: Integrated environment for *TeX*
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
-app-emacs/auto-header 0.1.1: Automatically find the right headers
+app-emacs/auto-header 0.1.2: Automatically find the right C headers
 app-emacs/auto-overlays 0.10.10: Automatic regexp-delimited overlays
 app-emacs/autocrypt 0.4.1: Autocrypt implementation
 app-emacs/avy 0.5.0: Jump to arbitrary positions in visible text and select text quickly.
 app-emacs/bbdb 3.2.2.2: Big Brother DataBase
 app-emacs/beacon 1.3.4: Highlight the cursor whenever the window scrolls
-app-emacs/beframe 0.1.11: Isolate buffers per frame
+app-emacs/beframe 0.2.0: Isolate buffers per frame
 app-emacs/bind-key 2.4.1: A simple way to manage personal keybindings
 app-emacs/blist 0.2: Display bookmarks in an ibuffer way
 app-emacs/bluetooth 0.3.1: A Major mode for Bluetooth devices
@@ -55,7 +55,7 @@ app-emacs/compat 29.1.4.1: Emacs Lisp Compatibility Library
 app-emacs/consult 0.33: Consulting completing-read
 app-emacs/consult-recoll 0.8: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
-app-emacs/corfu 0.35: Completion Overlay Region FUnction
+app-emacs/corfu 0.36: Completion Overlay Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
 app-emacs/counsel 0.13.4: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.
@@ -164,7 +164,7 @@ app-emacs/ivy-posframe 0.6.3: Using posframe to show Ivy
 app-emacs/jarchive 0.10.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
-app-emacs/jinx 0.3: Enchanted Just-in-time Spell Checker
+app-emacs/jinx 0.4: Enchanted Just-in-time Spell Checker
 app-emacs/jit-spell 0.2: Just-in-time spell checking
 app-emacs/js2-mode 20220710: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
@@ -226,7 +226,7 @@ app-emacs/openpgp 1.0.1: Client for keys.openpgp.org
 app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
-app-emacs/org-mode 9.6.1: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.2: Outline-based notes management and organizer
 app-emacs/org-modern 0.9: Modern looks for Org
 app-emacs/org-notify 0.1.0: Notifications for Org-mode
 app-emacs/org-real 1.0.6: Keep track of real things as org-mode links

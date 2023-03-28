@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically find the right headers"
+DESCRIPTION="Automatically find the right C headers"
 
 HOMEPAGE="https://git.sr.ht/~pkal/auto-header"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

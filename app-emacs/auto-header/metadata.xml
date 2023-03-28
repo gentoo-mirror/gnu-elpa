@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Automatically find the right headers</longdescription>
+	<longdescription>Automatically find the right C headers</longdescription>
 </pkgmetadata>

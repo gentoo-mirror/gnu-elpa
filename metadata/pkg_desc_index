@@ -72,7 +72,7 @@ app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
 app-emacs/debbugs 0.35: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
 app-emacs/denote 1.2.0: Simple notes with an efficient file-naming scheme
-app-emacs/denote-menu 1.0.0: View denote files in a tabulated list.
+app-emacs/denote-menu 1.1.1: View denote files in a tabulated list.
 app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
 app-emacs/devdocs 0.5: Emacs viewer for DevDocs
 app-emacs/dict-tree 0.16: Dictionary data structure
@@ -165,7 +165,7 @@ app-emacs/jarchive 0.10.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
 app-emacs/jinx 0.4: Enchanted Just-in-time Spell Checker
-app-emacs/jit-spell 0.2: Just-in-time spell checking
+app-emacs/jit-spell 0.3: Just-in-time spell checking
 app-emacs/js2-mode 20220710: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
 app-emacs/jsonrpc 1.0.17: JSON-RPC library

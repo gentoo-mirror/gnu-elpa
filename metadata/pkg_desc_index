@@ -103,7 +103,7 @@ app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/embark 0.21.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
-app-emacs/ement 0.7: Matrix client
+app-emacs/ement 0.8.1: Matrix client
 app-emacs/emms 14: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client

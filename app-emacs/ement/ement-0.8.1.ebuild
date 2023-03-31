@@ -19,12 +19,14 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/map
+	app-emacs/persist
 	app-emacs/plz
 	app-emacs/taxy
 	app-emacs/taxy-magit-section
 	app-emacs/svg-lib
 	app-emacs/transient"
 RDEPEND="app-emacs/map
+	app-emacs/persist
 	app-emacs/plz
 	app-emacs/taxy
 	app-emacs/taxy-magit-section

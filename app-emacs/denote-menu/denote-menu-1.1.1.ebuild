@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="View denote files in a tabulated list."
 
-HOMEPAGE="https://elpa.gnu.org/packages/denote-menu.html"
+HOMEPAGE="https://github.com/namilus/denote-menu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

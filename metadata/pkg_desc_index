@@ -29,13 +29,13 @@ app-emacs/bind-key 2.4.1: A simple way to manage personal keybindings
 app-emacs/blist 0.2: Display bookmarks in an ibuffer way
 app-emacs/bluetooth 0.3.1: A Major mode for Bluetooth devices
 app-emacs/bnf-mode 0.4.5: Major mode for editing BNF grammars.
-app-emacs/boxy 1.1.2: A boxy layout framework
+app-emacs/boxy 1.1.3: A boxy layout framework
 app-emacs/boxy-headings 2.1.4: View org files in a boxy diagram
 app-emacs/brief 5.88.22.2: Brief Editor Emulator (Brief Mode)
 app-emacs/buffer-env 0.4: Buffer-local process environments
 app-emacs/buffer-expose 0.4.3: Visual buffer switching using a window grid
 app-emacs/bug-hunter 1.3.1: Hunt down errors by bisecting elisp files
-app-emacs/cape 0.13: Completion At Point Extensions
+app-emacs/cape 0.14: Completion At Point Extensions
 app-emacs/capf-autosuggest 0.3: History autosuggestions for comint and eshell
 app-emacs/caps-lock 1.0: Caps-lock as a minor mode
 app-emacs/captain 1.0.3: CAPiTalization is Automatic IN emacs
@@ -57,7 +57,7 @@ app-emacs/consult-recoll 0.8: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
 app-emacs/corfu 0.36: Completion Overlay Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
-app-emacs/counsel 0.13.4: Various completion functions using Ivy
+app-emacs/counsel 0.14.0: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.
 app-emacs/cpupower 1.0.5: cpupower command interface
 app-emacs/crdt 0.3.5: Collaborative editing using Conflict-free Replicated Data Types
@@ -84,7 +84,7 @@ app-emacs/dired-git-info 0.3.1: Show git info in dired
 app-emacs/disk-usage 1.3.3: Sort and browse disk usage listings
 app-emacs/dismal 1.5.2: Dis Mode Ain't Lotus: Spreadsheet program Emacs
 app-emacs/djvu 1.1.2: Edit and view Djvu files via djvused
-app-emacs/doc-toc 1.1: Manage outlines/table of contents of pdf and djvu documents
+app-emacs/doc-toc 1.2: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/docbook 0.1: Info-like viewer for DocBook
 app-emacs/dts-mode 1.0: Major mode for Device Tree source files
 app-emacs/easy-escape 0.2.1: Improve readability of escape characters in regular expressions
@@ -103,7 +103,7 @@ app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/embark 0.21.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
-app-emacs/ement 0.8.2: Matrix client
+app-emacs/ement 0.8.3: Matrix client
 app-emacs/emms 14: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
@@ -117,7 +117,7 @@ app-emacs/exwm 0.27: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
 app-emacs/filladapt 2.12.2: Adaptive fill
 app-emacs/flylisp 0.2: Color unbalanced parentheses and parentheses inconsistent with indentation
-app-emacs/flymake 1.2.2: A universal on-the-fly syntax checker
+app-emacs/flymake 1.3.3: A universal on-the-fly syntax checker
 app-emacs/flymake-proselint 0.3.0: Flymake backend for proselint
 app-emacs/fontaine 1.0.0: Set font configurations using presets
 app-emacs/frame-tabs 1.1: show buffer tabs in side window
@@ -156,17 +156,17 @@ app-emacs/inspector 0.28: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.7: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators
-app-emacs/ivy 0.13.4: Incremental Vertical completYon
-app-emacs/ivy-avy 0.13.4: Avy integration for Ivy
+app-emacs/ivy 0.14.0: Incremental Vertical completYon
+app-emacs/ivy-avy 0.14.0: Avy integration for Ivy
 app-emacs/ivy-explorer 0.3.2: Dynamic file browsing grid using ivy
-app-emacs/ivy-hydra 0.13.5: Additional key bindings for Ivy
+app-emacs/ivy-hydra 0.14.0: Additional key bindings for Ivy
 app-emacs/ivy-posframe 0.6.3: Using posframe to show Ivy
 app-emacs/jarchive 0.10.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
 app-emacs/jinx 0.5: Enchanted Just-in-time Spell Checker
 app-emacs/jit-spell 0.3: Just-in-time spell checking
-app-emacs/js2-mode 20220710: Improved JavaScript editing mode
+app-emacs/js2-mode 20230408: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
 app-emacs/jsonrpc 1.0.17: JSON-RPC library
 app-emacs/jumpc 3.0: jump to previous insertion points
@@ -207,7 +207,7 @@ app-emacs/myers 0.1: Random-access singly-linked lists
 app-emacs/nadvice 0.4: Forward compatibility for Emacs-24.4's nadvice
 app-emacs/nameless 1.0.2: Hide package namespace in your emacs-lisp code
 app-emacs/names 20151201.0: Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols.
-app-emacs/nano-agenda 0.2.1: N Λ N O agenda
+app-emacs/nano-agenda 0.3: N Λ N O agenda
 app-emacs/nano-modeline 0.7.2: N Λ N O modeline
 app-emacs/nano-theme 0.3.4: N Λ N O theme
 app-emacs/nftables-mode 1.1: Major mode for editing nftables
@@ -245,7 +245,7 @@ app-emacs/path-iterator 1.0: An iterator for traversing a directory path.
 app-emacs/peg 1.0.1: Parsing Expression Grammars in Emacs Lisp
 app-emacs/perl-doc 0.6: Read Perl documentation
 app-emacs/persist 0.5: Persist Variables between Emacs Sessions
-app-emacs/phps-mode 0.4.44: Major mode for PHP with code intelligence
+app-emacs/phps-mode 0.4.45: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
 app-emacs/plz 0.4: HTTP library
 app-emacs/poke 3.0: Emacs meets GNU poke!
@@ -256,7 +256,7 @@ app-emacs/project 0.9.8: Operations on the current project
 app-emacs/psgml 1.3.5: SGML-editing mode with parsing support
 app-emacs/pspp-mode 1.1: Major mode for editing PSPP files
 app-emacs/pulsar 0.5.0: Pulse highlight on demand or after select functions
-app-emacs/pyim 5.3.1: A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime.
+app-emacs/pyim 5.3.2: A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime.
 app-emacs/pyim-basedict 0.5.4: The default pinyin dict of pyim
 app-emacs/python 0.28: Python's flying circus support for Emacs
 app-emacs/quarter-plane 0.1: Minor mode for quarter-plane style editing
@@ -298,7 +298,7 @@ app-emacs/slime-volleyball 1.2.0: An SVG Slime Volleyball Game
 app-emacs/sm-c-mode 1.1: C major mode based on SMIE
 app-emacs/smalltalk-mode 4.0: Major mode for the GNU Smalltalk programming language
 app-emacs/smart-yank 0.1.1: A different approach of yank pointer handling
-app-emacs/sml-mode 6.11: Major mode for editing (Standard) ML
+app-emacs/sml-mode 6.12: Major mode for editing (Standard) ML
 app-emacs/so-long 1.1.2: Say farewell to performance problems with minified code.
 app-emacs/soap-client 3.2.1: Access SOAP web services
 app-emacs/sokoban 1.4.9: Implementation of Sokoban for Emacs.
@@ -311,12 +311,13 @@ app-emacs/srht 0.2: Sourcehut
 app-emacs/ssh-deploy 3.1.14: Deployment via Tramp, global or per directory.
 app-emacs/standard-themes 1.2.0: Like the default theme but more consistent
 app-emacs/stream 2.2.5: Implementation of streams
-app-emacs/substitute 0.1.7: Efficiently replace targets in the buffer or context
+app-emacs/substitute 0.1.8: Efficiently replace targets in the buffer or context
 app-emacs/svg 1.1: SVG image creation functions
 app-emacs/svg-clock 1.2: Analog clock using Scalable Vector Graphics
 app-emacs/svg-lib 0.2.6: SVG tags, progress bars & icons
 app-emacs/svg-tag-mode 0.3.2: Replace keywords with SVG tags
-app-emacs/swiper 0.13.4: Isearch with an overview. Oh, man!
+app-emacs/swiper 0.14.0: Isearch with an overview. Oh, man!
+app-emacs/switchy-window 1.3: A most-recently-used window switcher
 app-emacs/sxhkdrc-mode 1.0.0: Major mode for sxhkdrc files (Simple X Hot Key Daemon)
 app-emacs/system-packages 1.0.11: functions to manage system packages
 app-emacs/tNFA 0.1.1: Tagged non-deterministic finite-state automata

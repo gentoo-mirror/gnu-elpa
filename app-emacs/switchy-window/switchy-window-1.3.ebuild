@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="swiper"
+REALNAME="switchy-window"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Isearch with an overview. Oh, man!"
+DESCRIPTION="A most-recently-used window switcher"
 
-HOMEPAGE="https://github.com/abo-abo/swiper"
+HOMEPAGE="https://sr.ht/~tsdh/switchy-window/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/ivy"
-RDEPEND="app-emacs/ivy"
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"

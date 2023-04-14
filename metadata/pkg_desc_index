@@ -245,7 +245,7 @@ app-emacs/path-iterator 1.0: An iterator for traversing a directory path.
 app-emacs/peg 1.0.1: Parsing Expression Grammars in Emacs Lisp
 app-emacs/perl-doc 0.6: Read Perl documentation
 app-emacs/persist 0.5: Persist Variables between Emacs Sessions
-app-emacs/phps-mode 0.4.45: Major mode for PHP with code intelligence
+app-emacs/phps-mode 0.4.46: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
 app-emacs/plz 0.5: HTTP library
 app-emacs/poke 3.0: Emacs meets GNU poke!
@@ -263,7 +263,7 @@ app-emacs/quarter-plane 0.1: Minor mode for quarter-plane style editing
 app-emacs/queue 0.2: Queue data structure
 app-emacs/rainbow-mode 1.0.6: Colorize color names in buffers
 app-emacs/rbit 0.1: Red-black persistent interval trees
-app-emacs/rcirc-color 0.4.4: color nicks
+app-emacs/rcirc-color 0.4.5: color nicks
 app-emacs/rcirc-menu 1.1: A menu of all your rcirc connections
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-ipdb 1.0.0: Realgud front-end to ipdb

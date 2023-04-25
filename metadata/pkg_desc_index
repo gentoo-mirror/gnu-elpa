@@ -15,7 +15,7 @@ app-emacs/ampc 0.2: Asynchronous Music Player Controller
 app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
 app-emacs/async 1.9.7: Asynchronous processing in Emacs
-app-emacs/auctex 13.1.10: Integrated environment for *TeX*
+app-emacs/auctex 13.2.0: Integrated environment for *TeX*
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers

@@ -95,7 +95,7 @@ app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for E
 app-emacs/ediprolog 2.2: Emacs Does Interactive Prolog
 app-emacs/eev 20230127: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
 app-emacs/ef-themes 0.11.0: Colorful and legible themes
-app-emacs/eglot 1.14: The Emacs Client for LSP servers
+app-emacs/eglot 1.15: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.14.0: Show function arglist or variable docstring in echo area
 app-emacs/eldoc-eval 0.2: Enable eldoc support when minibuffer is in use.
@@ -115,6 +115,7 @@ app-emacs/expand-region 0.11.0: Increase selected region by semantic units.
 app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.27: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
+app-emacs/face-shift 0.2.1: Shift the colour of certain faces
 app-emacs/filladapt 2.12.2: Adaptive fill
 app-emacs/flylisp 0.2: Color unbalanced parentheses and parentheses inconsistent with indentation
 app-emacs/flymake 1.3.4: A universal on-the-fly syntax checker
@@ -152,7 +153,7 @@ app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
 app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 8.0.0: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/ilist 0.1: Display a list in an ibuffer way.
-app-emacs/inspector 0.28: Tool for inspection of Emacs Lisp objects
+app-emacs/inspector 0.29: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.7: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators
@@ -164,7 +165,7 @@ app-emacs/ivy-posframe 0.6.3: Using posframe to show Ivy
 app-emacs/jarchive 0.10.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
-app-emacs/jinx 0.7: Enchanted Spell Checker
+app-emacs/jinx 0.8: Enchanted Spell Checker
 app-emacs/jit-spell 0.3: Just-in-time spell checking
 app-emacs/js2-mode 20230408: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
@@ -226,7 +227,7 @@ app-emacs/openpgp 1.0.1: Client for keys.openpgp.org
 app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
-app-emacs/org-mode 9.6.4: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.5: Outline-based notes management and organizer
 app-emacs/org-modern 0.9: Modern looks for Org
 app-emacs/org-notify 0.1.0: Notifications for Org-mode
 app-emacs/org-real 1.0.6: Keep track of real things as org-mode links
@@ -235,7 +236,7 @@ app-emacs/org-transclusion 1.3.2: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
 app-emacs/orgalist 1.13: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
-app-emacs/osm 0.11: OpenStreetMap viewer
+app-emacs/osm 0.12: OpenStreetMap viewer
 app-emacs/other-frame-window 1.0.6: Minor mode to enable global prefix keys for other frame/window buffer placement
 app-emacs/pabbrev 4.2.2: Predictive abbreviation expansion
 app-emacs/paced 1.1.3: Predictive Abbreviation Completion and Expansion using Dictionaries
@@ -331,7 +332,7 @@ app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs
 app-emacs/tmr 0.4.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
-app-emacs/tramp 2.6.0.3: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.6.0.4: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

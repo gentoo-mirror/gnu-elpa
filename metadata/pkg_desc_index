@@ -153,7 +153,7 @@ app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
 app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 8.0.0: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/ilist 0.1: Display a list in an ibuffer way.
-app-emacs/inspector 0.29: Tool for inspection of Emacs Lisp objects
+app-emacs/inspector 0.30: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.7: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators
@@ -338,6 +338,7 @@ app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
 app-emacs/transient 0.3.7: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
+app-emacs/tree-inspector 0.3: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.5: Trie data structure
 app-emacs/triples 0.2.7: A flexible triple-based database for use in apps
 app-emacs/typo 1.0.1: Completion style using typo analysis

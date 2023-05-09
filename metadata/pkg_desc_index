@@ -346,6 +346,8 @@ app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table
 app-emacs/uniquify-files 1.0.4: Completion style for files, minimizing directories
 app-emacs/url-http-ntlm 2.0.4: NTLM authentication for the url library
+app-emacs/url-http-oauth 0.8.1: OAuth 2.0 for URL library
+app-emacs/url-http-oauth-demo 1.0.1: Demo url-http-oauth
 app-emacs/url-scgi 0.9: SCGI support for url.el
 app-emacs/use-package 2.4.5: A configuration macro for simplifying your .emacs
 app-emacs/validate 1.0.4: Schema validation for Emacs-lisp

@@ -110,7 +110,7 @@ app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps
 app-emacs/erc 5.5: An Emacs Internet Relay Chat client
 app-emacs/ergoemacs-mode 5.16.10.12: Emacs mode based on common modern interface and ergonomics.
-app-emacs/excorporate 1.0.0: Exchange Web Services (EWS) integration
+app-emacs/excorporate 1.1.0: Exchange Web Services (EWS) integration
 app-emacs/expand-region 0.11.0: Increase selected region by semantic units.
 app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.27: Emacs X Window Manager
@@ -301,7 +301,7 @@ app-emacs/smalltalk-mode 4.0: Major mode for the GNU Smalltalk programming langu
 app-emacs/smart-yank 0.1.1: A different approach of yank pointer handling
 app-emacs/sml-mode 6.12: Major mode for editing (Standard) ML
 app-emacs/so-long 1.1.2: Say farewell to performance problems with minified code.
-app-emacs/soap-client 3.2.1: Access SOAP web services
+app-emacs/soap-client 3.2.2: Access SOAP web services
 app-emacs/sokoban 1.4.9: Implementation of Sokoban for Emacs.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
 app-emacs/spinner 1.7.4: Add spinners and progress-bars to the mode-line for ongoing operations
@@ -336,7 +336,7 @@ app-emacs/tramp 2.6.0.4: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
-app-emacs/transient 0.3.7: Transient commands
+app-emacs/transient 0.4.0: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.3: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.5: Trie data structure
@@ -346,8 +346,7 @@ app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table
 app-emacs/uniquify-files 1.0.4: Completion style for files, minimizing directories
 app-emacs/url-http-ntlm 2.0.4: NTLM authentication for the url library
-app-emacs/url-http-oauth 0.8.2: OAuth 2.0 for URL library
-app-emacs/url-http-oauth-demo 1.0.2: Demo url-http-oauth
+app-emacs/url-http-oauth 0.8.3: OAuth 2.0 for URL library
 app-emacs/url-scgi 0.9: SCGI support for url.el
 app-emacs/use-package 2.4.5: A configuration macro for simplifying your .emacs
 app-emacs/validate 1.0.4: Schema validation for Emacs-lisp

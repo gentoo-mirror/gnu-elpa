@@ -103,7 +103,7 @@ app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/embark 0.22.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
-app-emacs/ement 0.8.3: Matrix client
+app-emacs/ement 0.9.2: Matrix client
 app-emacs/emms 15: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
@@ -175,6 +175,7 @@ app-emacs/kind-icon 0.2.0: Completion kind icons
 app-emacs/kiwix 1.1.5: Searching offline Wikipedia through Kiwix.
 app-emacs/kmb 0.1: Kill buffers matching a regexp w/o confirmation
 app-emacs/landmark 1.0: Neural-network robot that learns landmarks
+app-emacs/latex-table-wizard 1.5.1: Magic editing of LaTeX tables
 app-emacs/leaf 4.5.5: Simplify your init.el configuration, extended use-package
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.1: Lexical analyser construction
@@ -227,7 +228,7 @@ app-emacs/openpgp 1.0.1: Client for keys.openpgp.org
 app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
-app-emacs/org-mode 9.6.5: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.6: Outline-based notes management and organizer
 app-emacs/org-modern 0.9: Modern looks for Org
 app-emacs/org-notify 0.1.0: Notifications for Org-mode
 app-emacs/org-real 1.0.6: Keep track of real things as org-mode links
@@ -301,7 +302,7 @@ app-emacs/smalltalk-mode 4.0: Major mode for the GNU Smalltalk programming langu
 app-emacs/smart-yank 0.1.1: A different approach of yank pointer handling
 app-emacs/sml-mode 6.12: Major mode for editing (Standard) ML
 app-emacs/so-long 1.1.2: Say farewell to performance problems with minified code.
-app-emacs/soap-client 3.2.2: Access SOAP web services
+app-emacs/soap-client 3.2.3: Access SOAP web services
 app-emacs/sokoban 1.4.9: Implementation of Sokoban for Emacs.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
 app-emacs/spinner 1.7.4: Add spinners and progress-bars to the mode-line for ongoing operations
@@ -345,6 +346,7 @@ app-emacs/typo 1.0.1: Completion style using typo analysis
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table
 app-emacs/uniquify-files 1.0.4: Completion style for files, minimizing directories
+app-emacs/urgrep 0.1.0: Universal recursive grep
 app-emacs/url-http-ntlm 2.0.4: NTLM authentication for the url library
 app-emacs/url-http-oauth 0.8.3: OAuth 2.0 for URL library
 app-emacs/url-scgi 0.9: SCGI support for url.el

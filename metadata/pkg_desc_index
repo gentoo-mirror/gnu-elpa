@@ -111,7 +111,7 @@ app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps
 app-emacs/erc 5.5: An Emacs Internet Relay Chat client
 app-emacs/ergoemacs-mode 5.16.10.12: Emacs mode based on common modern interface and ergonomics.
-app-emacs/excorporate 1.1.0: Exchange Web Services (EWS) integration
+app-emacs/excorporate 1.1.1: Exchange Web Services (EWS) integration
 app-emacs/expand-region 0.11.0: Increase selected region by semantic units.
 app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.27: Emacs X Window Manager
@@ -202,7 +202,7 @@ app-emacs/minibuffer-header 0.5: Minibuffer header line
 app-emacs/minibuffer-line 0.1: Display status info in the minibuffer window
 app-emacs/minimap 1.4: Sidebar showing a "mini-map" of a buffer
 app-emacs/mmm-mode 0.5.9: Allow Multiple Major Modes in a buffer
-app-emacs/modus-themes 4.1.1: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 4.2.0: Elegant, highly legible and customizable themes
 app-emacs/multi-mode 1.14: support for multiple major modes
 app-emacs/multishell 1.1.10: Organize use of multiple shell buffers, local and remote
 app-emacs/muse 3.20.2: Authoring and publishing tool for Emacs

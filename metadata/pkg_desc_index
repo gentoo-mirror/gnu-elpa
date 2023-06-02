@@ -118,6 +118,7 @@ app-emacs/exwm 0.27: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
 app-emacs/face-shift 0.2.1: Shift the colour of certain faces
 app-emacs/filladapt 2.12.2: Adaptive fill
+app-emacs/firefox-javascript-repl 0.9.3: Jack into Firefox
 app-emacs/flylisp 0.2: Color unbalanced parentheses and parentheses inconsistent with indentation
 app-emacs/flymake 1.3.4: A universal on-the-fly syntax checker
 app-emacs/flymake-proselint 0.3.0: Flymake backend for proselint
@@ -211,7 +212,7 @@ app-emacs/nadvice 0.4: Forward compatibility for Emacs-24.4's nadvice
 app-emacs/nameless 1.0.2: Hide package namespace in your emacs-lisp code
 app-emacs/names 20151201.0: Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols.
 app-emacs/nano-agenda 0.3: N Λ N O agenda
-app-emacs/nano-modeline 0.7.2: N Λ N O modeline
+app-emacs/nano-modeline 1.0.0: N Λ N O modeline
 app-emacs/nano-theme 0.3.4: N Λ N O theme
 app-emacs/nftables-mode 1.1: Major mode for editing nftables
 app-emacs/nhexl-mode 1.5: Minor mode to edit files via hex-dump format
@@ -344,6 +345,7 @@ app-emacs/tree-inspector 0.3: Inspector tool for Emacs Lisp object that uses a t
 app-emacs/trie 0.5: Trie data structure
 app-emacs/triples 0.2.7: A flexible triple-based database for use in apps
 app-emacs/typo 1.0.1: Completion style using typo analysis
+app-emacs/ulisp-repl 1.0.1: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table
 app-emacs/uniquify-files 1.0.4: Completion style for files, minimizing directories

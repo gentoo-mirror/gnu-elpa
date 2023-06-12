@@ -102,6 +102,7 @@ app-emacs/eldoc 1.14.0: Show function arglist or variable docstring in echo area
 app-emacs/eldoc-eval 0.2: Enable eldoc support when minibuffer is in use.
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
+app-emacs/emacs-gc-stats 1.1: Collect Emacs GC statistics
 app-emacs/embark 0.22.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
 app-emacs/ement 0.9.3: Matrix client
@@ -344,7 +345,7 @@ app-emacs/transient 0.4.1: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.3: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.5: Trie data structure
-app-emacs/triples 0.3: A flexible triple-based database for use in apps
+app-emacs/triples 0.3.1: A flexible triple-based database for use in apps
 app-emacs/typo 1.0.1: Completion style using typo analysis
 app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree

@@ -102,7 +102,7 @@ app-emacs/eldoc 1.14.0: Show function arglist or variable docstring in echo area
 app-emacs/eldoc-eval 0.2: Enable eldoc support when minibuffer is in use.
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
-app-emacs/emacs-gc-stats 1.2.3: Collect Emacs GC statistics
+app-emacs/emacs-gc-stats 1.3: Collect Emacs GC statistics
 app-emacs/embark 0.22.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
 app-emacs/ement 0.10: Matrix client
@@ -188,7 +188,7 @@ app-emacs/load-dir 0.0.5: Load all Emacs Lisp files in a given directory
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.2: keep track of positions even after buffer changes
 app-emacs/loccur 1.2.4: Perform an occur-like folding in current buffer
-app-emacs/logos 1.0.1: Simple focus mode and extras
+app-emacs/logos 1.1.0: Simple focus mode and extras
 app-emacs/luwak 1.0.0: Web browser based on lynx -dump.
 app-emacs/lv 0.15.0: Other echo area
 app-emacs/map 3.3.1: Map manipulation functions

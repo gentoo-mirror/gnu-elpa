@@ -213,7 +213,7 @@ app-emacs/nadvice 0.4: Forward compatibility for Emacs-24.4's nadvice
 app-emacs/nameless 1.0.2: Hide package namespace in your emacs-lisp code
 app-emacs/names 20151201.0: Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols.
 app-emacs/nano-agenda 0.3: N Λ N O agenda
-app-emacs/nano-modeline 1.0.0: N Λ N O modeline
+app-emacs/nano-modeline 1.0.1: N Λ N O modeline
 app-emacs/nano-theme 0.3.4: N Λ N O theme
 app-emacs/nftables-mode 1.1: Major mode for editing nftables
 app-emacs/nhexl-mode 1.5: Minor mode to edit files via hex-dump format

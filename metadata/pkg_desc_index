@@ -188,7 +188,7 @@ app-emacs/load-dir 0.0.5: Load all Emacs Lisp files in a given directory
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.2: keep track of positions even after buffer changes
 app-emacs/loccur 1.2.4: Perform an occur-like folding in current buffer
-app-emacs/logos 1.1.0: Simple focus mode and extras
+app-emacs/logos 1.1.1: Simple focus mode and extras
 app-emacs/luwak 1.0.0: Web browser based on lynx -dump.
 app-emacs/lv 0.15.0: Other echo area
 app-emacs/map 3.3.1: Map manipulation functions

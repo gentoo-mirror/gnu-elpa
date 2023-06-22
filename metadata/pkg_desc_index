@@ -345,7 +345,7 @@ app-emacs/transient 0.4.1: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.3: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.5: Trie data structure
-app-emacs/triples 0.3.2: A flexible triple-based database for use in apps
+app-emacs/triples 0.3.3: A flexible triple-based database for use in apps
 app-emacs/typo 1.0.1: Completion style using typo analysis
 app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree

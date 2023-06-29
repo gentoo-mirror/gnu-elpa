@@ -378,6 +378,7 @@ app-emacs/web-server 0.1.2: Emacs Web Server
 app-emacs/webfeeder 1.1.2: Build RSS and Atom webfeeds from HTML files
 app-emacs/websocket 1.14: Emacs WebSocket client and server
 app-emacs/which-key 3.6.0: Display available keybindings in popup
+app-emacs/window-commander 3.0.1: Simply execute commands on windows
 app-emacs/windower 0.0.1: Helper functions for window manipulation.
 app-emacs/windresize 0.1: Resize windows interactively
 app-emacs/wisi 4.2.2: Utilities for implementing an indentation/navigation engine using a generalized LR parser

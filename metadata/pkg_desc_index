@@ -95,7 +95,7 @@ app-emacs/ebdb-gnorb 1.0.2: Utilities for connecting EBDB to Gnorb
 app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for EBDB
 app-emacs/ediprolog 2.2: Emacs Does Interactive Prolog
 app-emacs/eev 20230127: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
-app-emacs/ef-themes 1.1.1: Colorful and legible themes
+app-emacs/ef-themes 1.2.0: Colorful and legible themes
 app-emacs/eglot 1.15: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.14.0: Show function arglist or variable docstring in echo area

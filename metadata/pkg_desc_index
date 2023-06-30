@@ -219,7 +219,7 @@ app-emacs/nftables-mode 1.1: Major mode for editing nftables
 app-emacs/nhexl-mode 1.5: Minor mode to edit files via hex-dump format
 app-emacs/nlinum 1.9: Show line numbers in the margin
 app-emacs/notes-mode 1.30: Indexing system for on-line note-taking
-app-emacs/notmuch-indicator 0.2.2: Display mode line indicator with notmuch-count(1) output
+app-emacs/notmuch-indicator 1.0.0: Display mode line indicator with notmuch-count(1) output
 app-emacs/ntlm 2.1.0: NTLM (NT LanManager) authentication support
 app-emacs/num3-mode 1.5: highlight groups of digits in long numbers
 app-emacs/oauth2 0.16: OAuth 2.0 Authorization Protocol
@@ -378,7 +378,7 @@ app-emacs/web-server 0.1.2: Emacs Web Server
 app-emacs/webfeeder 1.1.2: Build RSS and Atom webfeeds from HTML files
 app-emacs/websocket 1.14: Emacs WebSocket client and server
 app-emacs/which-key 3.6.0: Display available keybindings in popup
-app-emacs/window-commander 3.0.1: Simply execute commands on windows
+app-emacs/window-commander 3.0.2: Simply execute commands on windows
 app-emacs/windower 0.0.1: Helper functions for window manipulation.
 app-emacs/windresize 0.1: Resize windows interactively
 app-emacs/wisi 4.2.2: Utilities for implementing an indentation/navigation engine using a generalized LR parser

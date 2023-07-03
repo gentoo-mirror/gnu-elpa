@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Completion Overlay Region FUnction"
+DESCRIPTION="COmpletion in Region FUnction"
 
 HOMEPAGE="https://github.com/minad/corfu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -317,7 +317,7 @@ app-emacs/srht 0.2: Sourcehut
 app-emacs/ssh-deploy 3.1.16: Deployment via Tramp, global or per directory.
 app-emacs/standard-themes 1.2.0: Like the default theme but more consistent
 app-emacs/stream 2.2.5: Implementation of streams
-app-emacs/substitute 0.2.0: Efficiently replace targets in the buffer or context
+app-emacs/substitute 0.2.1: Efficiently replace targets in the buffer or context
 app-emacs/svg 1.1: SVG image creation functions
 app-emacs/svg-clock 1.2: Analog clock using Scalable Vector Graphics
 app-emacs/svg-lib 0.2.7: SVG tags, progress bars & icons

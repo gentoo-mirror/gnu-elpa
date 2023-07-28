@@ -108,7 +108,7 @@ app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
 app-emacs/embark 0.22.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
 app-emacs/ement 0.10: Matrix client
-app-emacs/emms 15: The Emacs Multimedia System
+app-emacs/emms 16: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps
@@ -221,7 +221,7 @@ app-emacs/nftables-mode 1.1: Major mode for editing nftables
 app-emacs/nhexl-mode 1.5: Minor mode to edit files via hex-dump format
 app-emacs/nlinum 1.9: Show line numbers in the margin
 app-emacs/notes-mode 1.30: Indexing system for on-line note-taking
-app-emacs/notmuch-indicator 1.0.0: Display mode line indicator with notmuch-count(1) output
+app-emacs/notmuch-indicator 1.0.1: Display mode line indicator with notmuch-count(1) output
 app-emacs/ntlm 2.1.0: NTLM (NT LanManager) authentication support
 app-emacs/num3-mode 1.5: highlight groups of digits in long numbers
 app-emacs/oauth2 0.16: OAuth 2.0 Authorization Protocol

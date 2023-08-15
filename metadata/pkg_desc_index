@@ -37,7 +37,7 @@ app-emacs/buffer-expose 0.4.3: Visual buffer switching using a window grid
 app-emacs/bug-hunter 1.3.1: Hunt down errors by bisecting elisp files
 app-emacs/buildbot 0.0.1: A Buildbot client for emacs
 app-emacs/calibre 1.3.3: Interact with Calibre libraries from Emacs
-app-emacs/cape 0.16: Completion At Point Extensions
+app-emacs/cape 0.17: Completion At Point Extensions
 app-emacs/capf-autosuggest 0.3: History autosuggestions for comint and eshell
 app-emacs/caps-lock 1.0: Caps-lock as a minor mode
 app-emacs/captain 1.0.3: CAPiTalization is Automatic IN emacs
@@ -57,7 +57,7 @@ app-emacs/compat 29.1.4.2: Emacs Lisp Compatibility Library
 app-emacs/consult 0.35: Consulting completing-read
 app-emacs/consult-recoll 0.8: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
-app-emacs/corfu 0.37: COmpletion in Region FUnction
+app-emacs/corfu 0.38: COmpletion in Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
 app-emacs/counsel 0.14.0: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.

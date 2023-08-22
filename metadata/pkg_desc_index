@@ -107,7 +107,7 @@ app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
 app-emacs/embark 0.22.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
-app-emacs/ement 0.10: Matrix client
+app-emacs/ement 0.11: Matrix client
 app-emacs/emms 16: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
@@ -159,7 +159,7 @@ app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
 app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 8.0.0: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/ilist 0.1: Display a list in an ibuffer way.
-app-emacs/inspector 0.32: Tool for inspection of Emacs Lisp objects
+app-emacs/inspector 0.33: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.7: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators
@@ -181,7 +181,7 @@ app-emacs/kind-icon 0.2.0: Completion kind icons
 app-emacs/kiwix 1.1.5: Searching offline Wikipedia through Kiwix.
 app-emacs/kmb 0.1: Kill buffers matching a regexp w/o confirmation
 app-emacs/landmark 1.0: Neural-network robot that learns landmarks
-app-emacs/latex-table-wizard 1.5.2: Magic editing of LaTeX tables
+app-emacs/latex-table-wizard 1.5.3: Magic editing of LaTeX tables
 app-emacs/leaf 4.5.5: Simplify your init.el configuration, extended use-package
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.1: Lexical analyser construction

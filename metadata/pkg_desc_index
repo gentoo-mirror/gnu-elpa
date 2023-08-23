@@ -234,7 +234,7 @@ app-emacs/openpgp 1.0.1: Client for keys.openpgp.org
 app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
-app-emacs/org-mode 9.6.7: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.8: Outline-based notes management and organizer
 app-emacs/org-modern 0.10: Modern looks for Org
 app-emacs/org-notify 0.1.0: Notifications for Org-mode
 app-emacs/org-real 1.0.6: Keep track of real things as org-mode links

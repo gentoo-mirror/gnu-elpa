@@ -117,7 +117,7 @@ app-emacs/erc 5.5: An Emacs Internet Relay Chat client
 app-emacs/ergoemacs-mode 5.16.10.12: Emacs mode based on common modern interface and ergonomics.
 app-emacs/excorporate 1.1.1: Exchange Web Services (EWS) integration
 app-emacs/expand-region 0.11.0: Increase selected region by semantic units.
-app-emacs/expreg 1.1.0: Simple expand region
+app-emacs/expreg 1.2.0: Simple expand region
 app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.27: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
@@ -341,7 +341,7 @@ app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs
 app-emacs/tmr 0.4.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
-app-emacs/tramp 2.6.1.1.1: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.6.1.2: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

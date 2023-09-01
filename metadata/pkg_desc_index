@@ -355,7 +355,7 @@ app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table
 app-emacs/uniquify-files 1.0.4: Completion style for files, minimizing directories
-app-emacs/urgrep 0.1.1: Universal recursive grep
+app-emacs/urgrep 0.2.0: Universal recursive grep
 app-emacs/url-http-ntlm 2.0.4: NTLM authentication for the url library
 app-emacs/url-http-oauth 0.8.3: OAuth 2.0 for URL library
 app-emacs/url-scgi 0.9: SCGI support for url.el

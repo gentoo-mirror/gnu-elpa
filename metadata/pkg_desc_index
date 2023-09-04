@@ -182,7 +182,7 @@ app-emacs/kind-icon 0.2.0: Completion kind icons
 app-emacs/kiwix 1.1.5: Searching offline Wikipedia through Kiwix.
 app-emacs/kmb 0.1: Kill buffers matching a regexp w/o confirmation
 app-emacs/landmark 1.0: Neural-network robot that learns landmarks
-app-emacs/latex-table-wizard 1.5.3: Magic editing of LaTeX tables
+app-emacs/latex-table-wizard 1.5.4: Magic editing of LaTeX tables
 app-emacs/leaf 4.5.5: Simplify your init.el configuration, extended use-package
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.1: Lexical analyser construction

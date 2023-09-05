@@ -295,7 +295,7 @@ app-emacs/satchel 0.2: A bag for your files, separated by git branches
 app-emacs/scanner 0.2: Scan documents and images
 app-emacs/scroll-restore 1.0: restore original position after scrolling
 app-emacs/sed-mode 1.1: Major mode to edit sed scripts
-app-emacs/seq 2.23: Sequence manipulation functions
+app-emacs/seq 2.24: Sequence manipulation functions
 app-emacs/setup 1.3.2: Helpful Configuration Macro
 app-emacs/shelisp 1.0.0: execute elisp in shell
 app-emacs/shell-command+ 2.4.2: An extended shell-command

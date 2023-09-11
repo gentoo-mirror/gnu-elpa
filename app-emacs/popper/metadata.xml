@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>gnamù reader, send buffer contents to a speech engine.</longdescription>
+	<longdescription>Summon and dismiss buffers as popups</longdescription>
 </pkgmetadata>

@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="gnamù reader, a reader with espeak tts"
+DESCRIPTION="gnamù reader, send buffer contents to a speech engine."
 
-HOMEPAGE="http://elpa.gnu.org/packages/greader.html"
+HOMEPAGE="https://elpa.gnu.org/packages/greader.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

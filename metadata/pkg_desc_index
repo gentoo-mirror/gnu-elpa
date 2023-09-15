@@ -109,7 +109,7 @@ app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
 app-emacs/embark 0.22.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.7: Consult integration for Embark
-app-emacs/ement 0.11: Matrix client
+app-emacs/ement 0.12: Matrix client
 app-emacs/emms 16: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
@@ -161,7 +161,7 @@ app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
 app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 8.0.0: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/ilist 0.1: Display a list in an ibuffer way.
-app-emacs/inspector 0.33: Tool for inspection of Emacs Lisp objects
+app-emacs/inspector 0.34: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.7: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators

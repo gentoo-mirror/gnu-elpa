@@ -107,8 +107,8 @@ app-emacs/eldoc-eval 0.2: Enable eldoc support when minibuffer is in use.
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
-app-emacs/embark 0.22.1: Conveniently act on minibuffer completions
-app-emacs/embark-consult 0.7: Consult integration for Embark
+app-emacs/embark 0.23: Conveniently act on minibuffer completions
+app-emacs/embark-consult 0.8: Consult integration for Embark
 app-emacs/ement 0.12: Matrix client
 app-emacs/emms 16: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
@@ -209,7 +209,7 @@ app-emacs/minibuffer-header 0.5: Minibuffer header line
 app-emacs/minibuffer-line 0.1: Display status info in the minibuffer window
 app-emacs/minimap 1.4: Sidebar showing a "mini-map" of a buffer
 app-emacs/mmm-mode 0.5.10: Allow Multiple Major Modes in a buffer
-app-emacs/modus-themes 4.2.0: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 4.3.0: Elegant, highly legible and customizable themes
 app-emacs/multi-mode 1.14: support for multiple major modes
 app-emacs/multishell 1.1.10: Organize use of multiple shell buffers, local and remote
 app-emacs/muse 3.20.2: Authoring and publishing tool for Emacs

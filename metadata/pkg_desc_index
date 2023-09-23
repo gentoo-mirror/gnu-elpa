@@ -10,7 +10,7 @@ app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code al
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry).
 app-emacs/aircon-theme 0.0.6: Cool and legible light theme
 app-emacs/all 1.0: Edit all lines matching a given regexp
-app-emacs/altcaps 1.1.0: Apply alternating letter casing to convey sarcasm or mockery
+app-emacs/altcaps 1.2.0: Apply alternating letter casing to convey sarcasm or mockery
 app-emacs/ampc 0.2: Asynchronous Music Player Controller
 app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
@@ -148,7 +148,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.3: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.3: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.4.0: gnamù reader, send buffer contents to a speech engine.
+app-emacs/greader 0.4.1: gnamù reader, send buffer contents to a speech engine.
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.0: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
@@ -319,7 +319,7 @@ app-emacs/spacious-padding 0.1.0: Increase the padding/spacing of frames and win
 app-emacs/spinner 1.7.4: Add spinners and progress-bars to the mode-line for ongoing operations
 app-emacs/sql-beeline 0.2: Beeline support for sql.el
 app-emacs/sql-cassandra 0.2.2: Cassandra support for sql.el
-app-emacs/sql-indent 1.6: Support for indenting code in SQL files.
+app-emacs/sql-indent 1.7: Support for indenting code in SQL files.
 app-emacs/srht 0.2: Sourcehut
 app-emacs/ssh-deploy 3.1.16: Deployment via Tramp, global or per directory.
 app-emacs/standard-themes 1.2.0: Like the default theme but more consistent

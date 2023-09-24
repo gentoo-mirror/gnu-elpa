@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minibuffer and Completions in Tandem"
+DESCRIPTION="Minibuffer Confines Transcended"
 
-HOMEPAGE="https://gitlab.com/protesilaos/mct"
+HOMEPAGE="https://git.sr.ht/~protesilaos/mct"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -109,7 +109,7 @@ app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
 app-emacs/embark 0.23: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.8: Consult integration for Embark
-app-emacs/ement 0.12: Matrix client
+app-emacs/ement 0.13: Matrix client
 app-emacs/emms 16: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
@@ -304,7 +304,7 @@ app-emacs/shelisp 1.0.0: execute elisp in shell
 app-emacs/shell-command+ 2.4.2: An extended shell-command
 app-emacs/shen-mode 0.1: A major mode for editing shen source code
 app-emacs/sisu-mode 7.1.8: Major mode for SiSU markup text
-app-emacs/site-lisp 0.1.1: Manage site-lisp directories
+app-emacs/site-lisp 0.1.2: Manage site-lisp directories
 app-emacs/sketch-mode 1.0.4: Quickly create svg sketches using keyboard and mouse
 app-emacs/slime-volleyball 1.2.0: An SVG Slime Volleyball Game
 app-emacs/sm-c-mode 1.1: C major mode based on SMIE

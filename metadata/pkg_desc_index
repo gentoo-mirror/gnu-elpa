@@ -15,7 +15,7 @@ app-emacs/ampc 0.2: Asynchronous Music Player Controller
 app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
 app-emacs/async 1.9.7: Asynchronous processing in Emacs
-app-emacs/auctex 13.2.1: Integrated environment for *TeX*
+app-emacs/auctex 13.2.2: Integrated environment for *TeX*
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
@@ -170,7 +170,7 @@ app-emacs/ivy-avy 0.14.0: Avy integration for Ivy
 app-emacs/ivy-explorer 0.3.2: Dynamic file browsing grid using ivy
 app-emacs/ivy-hydra 0.14.0: Additional key bindings for Ivy
 app-emacs/ivy-posframe 0.6.3: Using posframe to show Ivy
-app-emacs/jarchive 0.10.0: Open project dependencies in jar archives
+app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
 app-emacs/jinx 0.9: Enchanted Spell Checker

@@ -246,7 +246,7 @@ app-emacs/org-transclusion 1.3.2: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
 app-emacs/orgalist 1.13: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
-app-emacs/osm 0.13: OpenStreetMap viewer
+app-emacs/osm 0.14: OpenStreetMap viewer
 app-emacs/other-frame-window 1.0.6: Minor mode to enable global prefix keys for other frame/window buffer placement
 app-emacs/pabbrev 4.2.2: Predictive abbreviation expansion
 app-emacs/paced 1.1.3: Predictive Abbreviation Completion and Expansion using Dictionaries

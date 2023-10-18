@@ -103,7 +103,6 @@ app-emacs/ef-themes 1.3.0: Colorful and legible themes
 app-emacs/eglot 1.15: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.14.0: Show function arglist or variable docstring in echo area
-app-emacs/eldoc-eval 0.2: Enable eldoc support when minibuffer is in use.
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
@@ -403,6 +402,6 @@ app-emacs/xref 1.6.3: Cross-referencing commands
 app-emacs/xref-union 0.1.1: Combine multiple Xref backends
 app-emacs/yasnippet 0.14.0: Yet another snippet extension for Emacs
 app-emacs/yasnippet-classic-snippets 1.0.2: "Classic" yasnippet snippets
-app-emacs/zones 2019.7.13: Zones of text - like multiple regions
+app-emacs/zones 2023.6.11: Zones of text - like multiple regions
 app-emacs/ztree 1.0.6: Text mode directory tree
 app-emacs/zuul 0.4.0: Interface to Zuul

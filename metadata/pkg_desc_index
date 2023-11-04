@@ -54,7 +54,7 @@ app-emacs/company 0.10.2: Modular text completion framework
 app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-mode
 app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and latex tags
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
-app-emacs/compat 29.1.4.2: Emacs Lisp Compatibility Library
+app-emacs/compat 29.1.4.3: Emacs Lisp Compatibility Library
 app-emacs/consult 0.35: Consulting completing-read
 app-emacs/consult-recoll 0.8: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope

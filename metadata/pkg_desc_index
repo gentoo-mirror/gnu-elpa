@@ -55,7 +55,7 @@ app-emacs/company 0.10.2: Modular text completion framework
 app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-mode
 app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and latex tags
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
-app-emacs/compat 29.1.4.3: Emacs Lisp Compatibility Library
+app-emacs/compat 29.1.4.4: Emacs Lisp Compatibility Library
 app-emacs/consult 0.35: Consulting completing-read
 app-emacs/consult-recoll 0.8: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
@@ -75,7 +75,7 @@ app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
 app-emacs/debbugs 0.37: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
-app-emacs/denote 2.0.0: Simple notes with an efficient file-naming scheme
+app-emacs/denote 2.1.0: Simple notes with an efficient file-naming scheme
 app-emacs/denote-menu 1.2.0: View denote files in a tabulated list.
 app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
 app-emacs/devdocs 0.5: Emacs viewer for DevDocs
@@ -93,6 +93,7 @@ app-emacs/djvu 1.1.2: Edit and view Djvu files via djvused
 app-emacs/do-at-point 0.1.1: Generic context-sensitive action dispatcher.
 app-emacs/doc-toc 1.2: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/docbook 0.1: Info-like viewer for DocBook
+app-emacs/drepl 0.1: REPL protocol for the dumb terminal
 app-emacs/dts-mode 1.0: Major mode for Device Tree source files
 app-emacs/easy-escape 0.2.1: Improve readability of escape characters in regular expressions
 app-emacs/easy-kill 0.9.5: kill & mark things easily

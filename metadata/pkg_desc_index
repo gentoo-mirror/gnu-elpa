@@ -148,7 +148,7 @@ app-emacs/gnu-elpa-keyring-update 2022.12: Update Emacs's GPG keyring for GNU EL
 app-emacs/gnugo 3.1.2: play GNU Go in a buffer
 app-emacs/gnus-mock 0.5: Mock Gnus installation for testing
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
-app-emacs/gpr-mode 1.0.4: Major mode for editing GNAT project files
+app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
 app-emacs/greader 0.6.0: gnamù reader, send buffer contents to a speech engine.
@@ -379,7 +379,7 @@ app-emacs/vcl-mode 1.1: Major mode for Varnish Configuration Language
 app-emacs/vdiff 0.2.4: A diff tool similar to vimdiff
 app-emacs/verilog-mode 2023.6.6.141322628: major mode for editing verilog source in Emacs
 app-emacs/vertico 1.4: VERTical Interactive COmpletion
-app-emacs/vertico-posframe 0.7.3: Using posframe to show Vertico
+app-emacs/vertico-posframe 0.7.4: Using posframe to show Vertico
 app-emacs/vigenere 1.0: Run a vigenere cipher on a block of text ;
 app-emacs/visual-filename-abbrev 1.2: Visually abbreviate filenames
 app-emacs/visual-fill 0.1: Auto-refill paragraphs without modifying the buffer

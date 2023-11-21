@@ -290,7 +290,7 @@ app-emacs/realgud-node-debug 1.0.0: Realgud front-end to older "node debug"
 app-emacs/realgud-node-inspect 1.0.0: Realgud front-end to newer "node inspect"
 app-emacs/realgud-trepan-ni 1.0.1: Realgud front-end to trepan-ni
 app-emacs/realgud-trepan-xpy 1.0.1: Realgud front-end to trepan-xpy
-app-emacs/rec-mode 1.9.1: Major mode for viewing/editing rec files
+app-emacs/rec-mode 1.9.3: Major mode for viewing/editing rec files
 app-emacs/register-list 0.1: Interactively list/edit registers
 app-emacs/relint 1.24: Elisp regexp mistake finder
 app-emacs/repology 1.2.3: Repology API access via Elisp
@@ -379,7 +379,7 @@ app-emacs/vcl-mode 1.1: Major mode for Varnish Configuration Language
 app-emacs/vdiff 0.2.4: A diff tool similar to vimdiff
 app-emacs/verilog-mode 2023.6.6.141322628: major mode for editing verilog source in Emacs
 app-emacs/vertico 1.4: VERTical Interactive COmpletion
-app-emacs/vertico-posframe 0.7.4: Using posframe to show Vertico
+app-emacs/vertico-posframe 0.7.5: Using posframe to show Vertico
 app-emacs/vigenere 1.0: Run a vigenere cipher on a block of text ;
 app-emacs/visual-filename-abbrev 1.2: Visually abbreviate filenames
 app-emacs/visual-fill 0.1: Auto-refill paragraphs without modifying the buffer

@@ -320,7 +320,7 @@ app-emacs/so-long 1.1.2: Say farewell to performance problems with minified code
 app-emacs/soap-client 3.2.3: Access SOAP web services
 app-emacs/sokoban 1.4.9: Implementation of Sokoban for Emacs.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
-app-emacs/spacious-padding 0.2.1: Increase the padding/spacing of frames and windows
+app-emacs/spacious-padding 0.2.2: Increase the padding/spacing of frames and windows
 app-emacs/spinner 1.7.4: Add spinners and progress-bars to the mode-line for ongoing operations
 app-emacs/sql-beeline 0.2: Beeline support for sql.el
 app-emacs/sql-cassandra 0.2.2: Cassandra support for sql.el

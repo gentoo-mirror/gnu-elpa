@@ -70,6 +70,7 @@ app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csv-mode 1.22: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
+app-emacs/dape 0.2: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
@@ -112,7 +113,7 @@ app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
 app-emacs/embark 0.23: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.8: Consult integration for Embark
 app-emacs/ement 0.13: Matrix client
-app-emacs/emms 16: The Emacs Multimedia System
+app-emacs/emms 17: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps
@@ -296,7 +297,7 @@ app-emacs/relint 1.24: Elisp regexp mistake finder
 app-emacs/repology 1.2.3: Repology API access via Elisp
 app-emacs/rich-minority 1.0.3: Clean-up and Beautify the list of minor-modes.
 app-emacs/rnc-mode 0.3: Emacs mode to edit Relax-NG Compact files
-app-emacs/rt-liberation 5: Emacs interface to RT
+app-emacs/rt-liberation 6: Emacs interface to RT
 app-emacs/ruby-end 0.4.3: Automatic insertion of end blocks for Ruby
 app-emacs/rudel 0.3.2: A collaborative editing framework for Emacs
 app-emacs/satchel 0.2: A bag for your files, separated by git branches
@@ -345,7 +346,7 @@ app-emacs/taxy-magit-section 0.12.2: View Taxy structs in a Magit Section buffer
 app-emacs/temp-buffer-browse 1.5: temp buffer browse mode
 app-emacs/tempel 1.0: Tempo templates/snippets with in-buffer field editing
 app-emacs/test-simple 1.3.0: Simple Unit Test Framework for Emacs Lisp
-app-emacs/theme-buffet 0.1.0: Time based theme switcher
+app-emacs/theme-buffet 0.1.1: Time based theme switcher
 app-emacs/timerfunctions 1.4.2: Enhanced versions of some timer.el functions
 app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs
 app-emacs/tmr 0.4.0: Set timers using a convenient notation

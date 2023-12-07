@@ -15,7 +15,7 @@ app-emacs/ampc 0.2: Asynchronous Music Player Controller
 app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
 app-emacs/async 1.9.8: Asynchronous processing in Emacs
-app-emacs/auctex 13.2.2: Integrated environment for *TeX*
+app-emacs/auctex 13.2.3: Integrated environment for *TeX*
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
@@ -70,7 +70,7 @@ app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csv-mode 1.22: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
-app-emacs/dape 0.2: Debug Adapter Protocol for Emacs
+app-emacs/dape 0.2.2: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
@@ -106,10 +106,10 @@ app-emacs/eev 20230127: Support for e-scripts (eepitch blocks, elisp hyperlinks,
 app-emacs/ef-themes 1.4.0: Colorful and legible themes
 app-emacs/eglot 1.15: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
-app-emacs/eldoc 1.14.0: Show function arglist or variable docstring in echo area
+app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
-app-emacs/emacs-gc-stats 1.4.1: Collect Emacs GC statistics
+app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 0.23: Conveniently act on minibuffer completions
 app-emacs/embark-consult 0.8: Consult integration for Embark
 app-emacs/ement 0.13: Matrix client
@@ -356,7 +356,7 @@ app-emacs/tramp 2.6.1.5: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
-app-emacs/transient 0.5.0: Transient commands
+app-emacs/transient 0.5.2: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure

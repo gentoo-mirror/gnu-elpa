@@ -103,15 +103,15 @@ app-emacs/ebdb-gnorb 1.0.2: Utilities for connecting EBDB to Gnorb
 app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for EBDB
 app-emacs/ediprolog 2.2: Emacs Does Interactive Prolog
 app-emacs/eev 20230127: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
-app-emacs/ef-themes 1.4.0: Colorful and legible themes
+app-emacs/ef-themes 1.4.1: Colorful and legible themes
 app-emacs/eglot 1.15: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
-app-emacs/embark 0.23: Conveniently act on minibuffer completions
-app-emacs/embark-consult 0.8: Consult integration for Embark
+app-emacs/embark 1.0: Conveniently act on minibuffer completions
+app-emacs/embark-consult 1.0: Consult integration for Embark
 app-emacs/ement 0.13: Matrix client
 app-emacs/emms 17: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats

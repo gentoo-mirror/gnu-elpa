@@ -76,7 +76,7 @@ app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
 app-emacs/debbugs 0.37: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
-app-emacs/denote 2.1.1: Simple notes with an efficient file-naming scheme
+app-emacs/denote 2.2.0: Simple notes with an efficient file-naming scheme
 app-emacs/denote-menu 1.2.0: View denote files in a tabulated list.
 app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
 app-emacs/devdocs 0.5: Emacs viewer for DevDocs

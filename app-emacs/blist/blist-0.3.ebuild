@@ -12,11 +12,11 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display bookmarks in an ibuffer way"
 
-HOMEPAGE="https://elpa.gnu.org/packages/blist.html"
+HOMEPAGE="https://gitlab.com/mmemmew/blist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/ilist"
+RDEPEND="app-emacs/ilist"

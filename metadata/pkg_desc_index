@@ -109,7 +109,7 @@ app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
-app-emacs/ellama 0.4.0: Tool for interacting with LLMs
+app-emacs/ellama 0.4.2: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.0: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.0: Consult integration for Embark

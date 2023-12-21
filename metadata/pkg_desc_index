@@ -182,7 +182,7 @@ app-emacs/jinx 1.0: Enchanted Spell Checker
 app-emacs/jit-spell 0.3: Just-in-time spell checking
 app-emacs/js2-mode 20230408: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
-app-emacs/jsonrpc 1.0.20: JSON-RPC library
+app-emacs/jsonrpc 1.0.21: JSON-RPC library
 app-emacs/jumpc 3.1: jump to previous insertion points
 app-emacs/kind-icon 0.2.1: Completion kind icons
 app-emacs/kiwix 1.1.5: Searching offline Wikipedia through Kiwix.

@@ -15,7 +15,7 @@ app-emacs/ampc 0.2: Asynchronous Music Player Controller
 app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
 app-emacs/async 1.9.8: Asynchronous processing in Emacs
-app-emacs/auctex 13.2.3: Integrated environment for *TeX*
+app-emacs/auctex 13.2.4: Integrated environment for *TeX*
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
@@ -295,7 +295,7 @@ app-emacs/realgud-trepan-xpy 1.0.1: Realgud front-end to trepan-xpy
 app-emacs/rec-mode 1.9.3: Major mode for viewing/editing rec files
 app-emacs/register-list 0.1: Interactively list/edit registers
 app-emacs/relint 1.24: Elisp regexp mistake finder
-app-emacs/repology 1.2.3: Repology API access via Elisp
+app-emacs/repology 1.2.4: Repology API access via Elisp
 app-emacs/rich-minority 1.0.3: Clean-up and Beautify the list of minor-modes.
 app-emacs/rnc-mode 0.3: Emacs mode to edit Relax-NG Compact files
 app-emacs/rt-liberation 6: Emacs interface to RT

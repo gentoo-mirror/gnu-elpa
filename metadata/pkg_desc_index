@@ -103,7 +103,7 @@ app-emacs/ebdb-gnorb 1.0.2: Utilities for connecting EBDB to Gnorb
 app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for EBDB
 app-emacs/ediprolog 2.2: Emacs Does Interactive Prolog
 app-emacs/eev 20240107: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
-app-emacs/ef-themes 1.4.1: Colorful and legible themes
+app-emacs/ef-themes 1.5.0: Colorful and legible themes
 app-emacs/eglot 1.16: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
@@ -250,7 +250,7 @@ app-emacs/org-real 1.0.7: Keep track of real things as org-mode links
 app-emacs/org-remark 1.2.1: Highlight & annotate any text files
 app-emacs/org-transclusion 1.3.2: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
-app-emacs/orgalist 1.13: Manage Org-like lists in non-Org buffers
+app-emacs/orgalist 1.14: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
 app-emacs/osm 1.2: OpenStreetMap viewer
 app-emacs/other-frame-window 1.0.6: Minor mode to enable global prefix keys for other frame/window buffer placement

@@ -67,7 +67,7 @@ app-emacs/cpupower 1.0.5: cpupower command interface
 app-emacs/crdt 0.3.5: Collaborative editing using Conflict-free Replicated Data Types
 app-emacs/crisp 1.3.6: CRiSP/Brief Emacs emulator
 app-emacs/csharp-mode 2.0.0: C# mode derived mode
-app-emacs/csv-mode 1.22: Major mode for editing comma/char separated values
+app-emacs/csv-mode 1.23: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
 app-emacs/dape 0.3.0: Debug Adapter Protocol for Emacs
@@ -114,7 +114,7 @@ app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.0: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.0: Consult integration for Embark
 app-emacs/ement 0.13: Matrix client
-app-emacs/emms 17: The Emacs Multimedia System
+app-emacs/emms 18: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps
@@ -264,7 +264,7 @@ app-emacs/perl-doc 0.81: Read Perl documentation
 app-emacs/persist 0.6: Persist Variables between Emacs Sessions
 app-emacs/phps-mode 0.4.46: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
-app-emacs/plz 0.7.1: HTTP library
+app-emacs/plz 0.7.2: HTTP library
 app-emacs/plz-see 0.1: Interactive HTTP client
 app-emacs/poke 3.2: Emacs meets GNU poke!
 app-emacs/poke-mode 3.1: Major mode for editing Poke programs

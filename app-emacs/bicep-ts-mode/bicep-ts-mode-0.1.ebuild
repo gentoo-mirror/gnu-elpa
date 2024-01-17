@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="dape"
+REALNAME="bicep-ts-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Debug Adapter Protocol for Emacs"
+DESCRIPTION="tree-sitter support for Bicep"
 
-HOMEPAGE="https://github.com/svaante/dape"
+HOMEPAGE="https://elpa.gnu.org/packages/bicep-ts-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

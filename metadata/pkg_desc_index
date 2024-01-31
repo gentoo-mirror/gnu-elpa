@@ -179,6 +179,7 @@ app-emacs/ivy-avy 0.14.2: Avy integration for Ivy
 app-emacs/ivy-explorer 0.3.2: Dynamic file browsing grid using ivy
 app-emacs/ivy-hydra 0.14.2: Additional key bindings for Ivy
 app-emacs/ivy-posframe 0.6.3: Using posframe to show Ivy
+app-emacs/jami-bot 0.0.3: An extendable chat bot for the private messenger GNU Jami
 app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
@@ -357,7 +358,7 @@ app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs
 app-emacs/tmr 0.4.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
-app-emacs/tramp 2.6.2.0: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.6.2.1: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Suspend/resume sets of windows, frames, and buffers"
+DESCRIPTION="Save/restore sets of windows, tabs/frames, and their buffers"
 
-HOMEPAGE="https://elpa.gnu.org/packages/activities.html"
+HOMEPAGE="https://github.com/alphapapa/activities.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

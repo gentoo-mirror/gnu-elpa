@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="tree-sitter support for Bicep"
 
-HOMEPAGE="https://elpa.gnu.org/packages/bicep-ts-mode.html"
+HOMEPAGE="https://github.com/josteink/bicep-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

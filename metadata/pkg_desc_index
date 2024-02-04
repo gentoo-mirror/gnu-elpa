@@ -112,7 +112,7 @@ app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
-app-emacs/ellama 0.7.2: Tool for interacting with LLMs
+app-emacs/ellama 0.7.4: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.0: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.0: Consult integration for Embark
@@ -179,7 +179,7 @@ app-emacs/ivy-avy 0.14.2: Avy integration for Ivy
 app-emacs/ivy-explorer 0.3.2: Dynamic file browsing grid using ivy
 app-emacs/ivy-hydra 0.14.2: Additional key bindings for Ivy
 app-emacs/ivy-posframe 0.6.3: Using posframe to show Ivy
-app-emacs/jami-bot 0.0.3: An extendable chat bot for the private messenger GNU Jami
+app-emacs/jami-bot 0.0.4: An extendable chat bot for the private messenger GNU Jami
 app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files

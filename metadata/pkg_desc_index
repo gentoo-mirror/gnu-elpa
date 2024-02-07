@@ -59,6 +59,7 @@ app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and l
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 29.1.4.4: Emacs Lisp Compatibility Library
 app-emacs/consult 1.2: Consulting completing-read
+app-emacs/consult-hoogle 0.1.1: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
 app-emacs/corfu 1.2: COmpletion in Region FUnction
@@ -131,6 +132,7 @@ app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.28: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
 app-emacs/face-shift 0.2.1: Shift the colour of certain faces
+app-emacs/filechooser 0.1.1: An xdg-desktop-portal filechooser
 app-emacs/filladapt 2.12.2: Adaptive fill
 app-emacs/firefox-javascript-repl 0.9.5: Jack into Firefox
 app-emacs/flylisp 0.2: Color unbalanced parentheses and parentheses inconsistent with indentation
@@ -260,7 +262,7 @@ app-emacs/orgalist 1.14: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
 app-emacs/osm 1.3: OpenStreetMap viewer
 app-emacs/other-frame-window 1.0.6: Minor mode to enable global prefix keys for other frame/window buffer placement
-app-emacs/pabbrev 4.2.2: Predictive abbreviation expansion
+app-emacs/pabbrev 4.2.3: Predictive abbreviation expansion
 app-emacs/paced 1.1.3: Predictive Abbreviation Completion and Expansion using Dictionaries
 app-emacs/parsec 0.1.3: Parser combinator library
 app-emacs/parser-generator 0.2.0: Parser Generator library

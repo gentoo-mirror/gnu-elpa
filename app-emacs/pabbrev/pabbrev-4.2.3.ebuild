@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Predictive abbreviation expansion"
 
-HOMEPAGE="https://elpa.gnu.org/packages/pabbrev.html"
+HOMEPAGE="https://github.com/phillord/pabbrev"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -262,7 +262,7 @@ app-emacs/orgalist 1.14: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
 app-emacs/osm 1.3: OpenStreetMap viewer
 app-emacs/other-frame-window 1.0.6: Minor mode to enable global prefix keys for other frame/window buffer placement
-app-emacs/pabbrev 4.2.3: Predictive abbreviation expansion
+app-emacs/pabbrev 4.3.0: Predictive abbreviation expansion
 app-emacs/paced 1.1.3: Predictive Abbreviation Completion and Expansion using Dictionaries
 app-emacs/parsec 0.1.3: Parser combinator library
 app-emacs/parser-generator 0.2.0: Parser Generator library

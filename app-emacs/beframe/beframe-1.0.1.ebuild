@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Isolate buffers per frame"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/beframe"
+HOMEPAGE="https://github.com/protesilaos/beframe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -1,6 +1,6 @@
 app-emacs/ace-window 0.10.0: Quickly switch windows.
 app-emacs/ack 1.11: interface to ack-like tools
-app-emacs/activities 0.4: Save/restore sets of windows, tabs/frames, and their buffers
+app-emacs/activities 0.5.1: Save/restore sets of windows, tabs/frames, and their buffers
 app-emacs/ada-mode 8.1.0: major-mode for editing Ada sources
 app-emacs/ada-ref-man 2020.1: Ada Reference Manual 2012
 app-emacs/adaptive-wrap 0.8: Smart line-wrapping with wrap-prefix
@@ -73,7 +73,7 @@ app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csv-mode 1.23: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
-app-emacs/dape 0.6.0: Debug Adapter Protocol for Emacs
+app-emacs/dape 0.6.1: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
@@ -113,7 +113,7 @@ app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
-app-emacs/ellama 0.7.7: Tool for interacting with LLMs
+app-emacs/ellama 0.8.1: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.0: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.0: Consult integration for Embark
@@ -251,7 +251,7 @@ app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.6.18: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.19: Outline-based notes management and organizer
 app-emacs/org-modern 1.1: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.7: Keep track of real things as org-mode links

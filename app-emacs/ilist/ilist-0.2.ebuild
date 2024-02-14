@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display a list in an ibuffer way."
 
-HOMEPAGE="https://elpa.gnu.org/packages/ilist.html"
+HOMEPAGE="https://gitlab.com/mmemmew/ilist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

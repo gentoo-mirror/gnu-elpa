@@ -113,7 +113,7 @@ app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
-app-emacs/ellama 0.8.1: Tool for interacting with LLMs
+app-emacs/ellama 0.8.2: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.0: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.0: Consult integration for Embark
@@ -171,7 +171,7 @@ app-emacs/hook-helpers 1.1.1: Anonymous, modifiable hook functions
 app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
 app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 8.0.0: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/ilist 0.1: Display a list in an ibuffer way.
+app-emacs/ilist 0.2: Display a list in an ibuffer way.
 app-emacs/inspector 0.36: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.7: Control isearch from the minibuffer

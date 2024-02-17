@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lexical analyser construction"
 
-HOMEPAGE="http://elpa.gnu.org/packages/lex.html"
+HOMEPAGE="https://elpa.gnu.org/packages/lex.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

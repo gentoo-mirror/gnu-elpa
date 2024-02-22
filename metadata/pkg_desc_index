@@ -221,7 +221,7 @@ app-emacs/mines 1.6: Minesweeper game
 app-emacs/minibuffer-header 0.5: Minibuffer header line
 app-emacs/minibuffer-line 0.1: Display status info in the minibuffer window
 app-emacs/minimap 1.4: Sidebar showing a "mini-map" of a buffer
-app-emacs/mmm-mode 0.5.10: Allow Multiple Major Modes in a buffer
+app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/modus-themes 4.3.0: Elegant, highly legible and customizable themes
 app-emacs/multi-mode 1.14: support for multiple major modes
 app-emacs/multishell 1.1.10: Organize use of multiple shell buffers, local and remote

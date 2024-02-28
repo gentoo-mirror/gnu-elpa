@@ -159,7 +159,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.9.13: gnamù reader, send buffer contents to a speech engine.
+app-emacs/greader 0.9.14: gnamù reader, send buffer contents to a speech engine.
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.0: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
@@ -252,7 +252,7 @@ app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.6.19: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.20: Outline-based notes management and organizer
 app-emacs/org-modern 1.1: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.7: Keep track of real things as org-mode links

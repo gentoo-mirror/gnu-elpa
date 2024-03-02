@@ -51,7 +51,7 @@ app-emacs/cl-lib 0.7.1: Forward cl-lib compatibility library for Emacs<24.3
 app-emacs/clipboard-collector 0.3: Collect clipboard entries according to regex rules
 app-emacs/cobol-mode 1.1: Mode for editing COBOL code
 app-emacs/code-cells 0.4: Lightweight notebooks with support for ipynb files
-app-emacs/comint-mime 0.3: Display content of various MIME types in comint buffers
+app-emacs/comint-mime 0.4: Display content of various MIME types in comint buffers
 app-emacs/compact-docstrings 0.2: Shrink blank lines in docstrings and doc comments
 app-emacs/company 0.10.2: Modular text completion framework
 app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-mode
@@ -390,7 +390,7 @@ app-emacs/vc-hgcmd 1.14.1: VC mercurial backend that uses hg command server
 app-emacs/vcard 0.2.2: Package for handling vCard files
 app-emacs/vcl-mode 1.1: Major mode for Varnish Configuration Language
 app-emacs/vdiff 0.2.4: A diff tool similar to vimdiff
-app-emacs/verilog-mode 2023.6.6.141322628: major mode for editing verilog source in Emacs
+app-emacs/verilog-mode 2024.3.1.121933719: major mode for editing verilog source in Emacs
 app-emacs/vertico 1.7: VERTical Interactive COmpletion
 app-emacs/vertico-posframe 0.7.7: Using posframe to show Vertico
 app-emacs/vigenere 1.0: Run a vigenere cipher on a block of text ;

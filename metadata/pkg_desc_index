@@ -210,6 +210,7 @@ app-emacs/loccur 1.2.4: Perform an occur-like folding in current buffer
 app-emacs/logos 1.1.1: Simple focus mode and extras
 app-emacs/luwak 1.0.0: Web browser based on lynx -dump.
 app-emacs/lv 0.15.0: Other echo area
+app-emacs/m-buffer 0.16: List-Oriented, Functional Buffer Manipulation
 app-emacs/map 3.3.1: Map manipulation functions
 app-emacs/marginalia 1.5: Enrich existing commands with completion annotations
 app-emacs/markchars 0.2.2: Mark chars fitting certain characteristics

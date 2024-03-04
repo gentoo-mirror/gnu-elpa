@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="spacious-padding"
+REALNAME="lentic"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Increase the padding/spacing of frames and windows"
+DESCRIPTION="One buffer as a view of another"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/spacious-padding"
+HOMEPAGE="https://elpa.gnu.org/packages/lentic.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/m-buffer
+	app-emacs/dash"
+RDEPEND="app-emacs/m-buffer
+	app-emacs/dash"

@@ -15,6 +15,7 @@ app-emacs/altcaps 1.2.0: Apply alternating letter casing to convey sarcasm or mo
 app-emacs/ampc 0.2: Asynchronous Music Player Controller
 app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
+app-emacs/assess 0.7: Test support functions
 app-emacs/async 1.9.8: Asynchronous processing in Emacs
 app-emacs/auctex 14.0.3: Integrated environment for *TeX*
 app-emacs/aumix-mode 7: run the aumix program in a buffer
@@ -159,7 +160,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.9.16: gnamù reader, send buffer contents to a speech engine.
+app-emacs/greader 0.9.17: gnamù reader, send buffer contents to a speech engine.
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.0: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
@@ -197,6 +198,7 @@ app-emacs/kmb 0.1: Kill buffers matching a regexp w/o confirmation
 app-emacs/landmark 1.0: Neural-network robot that learns landmarks
 app-emacs/latex-table-wizard 1.5.4: Magic editing of LaTeX tables
 app-emacs/leaf 4.5.5: Simplify your init.el configuration, extended use-package
+app-emacs/lentic 0.12: One buffer as a view of another
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.2: Lexical analyser construction
 app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs
@@ -333,7 +335,7 @@ app-emacs/so-long 1.1.2: Say farewell to performance problems with minified code
 app-emacs/soap-client 3.2.3: Access SOAP web services
 app-emacs/sokoban 1.4.9: Implementation of Sokoban for Emacs.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
-app-emacs/spacious-padding 0.3.0: Increase the padding/spacing of frames and windows
+app-emacs/spacious-padding 0.4.0: Increase the padding/spacing of frames and windows
 app-emacs/spinner 1.7.4: Add spinners and progress-bars to the mode-line for ongoing operations
 app-emacs/sql-beeline 0.2: Beeline support for sql.el
 app-emacs/sql-cassandra 0.2.2: Cassandra support for sql.el

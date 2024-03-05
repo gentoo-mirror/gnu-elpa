@@ -1,6 +1,6 @@
 app-emacs/ace-window 0.10.0: Quickly switch windows.
 app-emacs/ack 1.11: interface to ack-like tools
-app-emacs/activities 0.5.1: Save/restore sets of windows, tabs/frames, and their buffers
+app-emacs/activities 0.6: Save/restore sets of windows, tabs/frames, and their buffers
 app-emacs/ada-mode 8.1.0: major-mode for editing Ada sources
 app-emacs/ada-ref-man 2020.1: Ada Reference Manual 2012
 app-emacs/adaptive-wrap 0.8: Smart line-wrapping with wrap-prefix

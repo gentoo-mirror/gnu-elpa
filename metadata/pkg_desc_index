@@ -202,7 +202,7 @@ app-emacs/lentic 0.12: One buffer as a view of another
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.2: Lexical analyser construction
 app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs
-app-emacs/listen 0.4: Audio/Music player
+app-emacs/listen 0.5: Audio/Music player
 app-emacs/llm 0.10.0: Interface to pluggable llm backends
 app-emacs/lmc 1.4: Little Man Computer in Elisp
 app-emacs/load-dir 0.0.5: Load all Emacs Lisp files in a given directory

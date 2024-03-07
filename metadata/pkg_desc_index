@@ -160,7 +160,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.9.17: gnamù reader, send buffer contents to a speech engine.
+app-emacs/greader 0.9.18: gnamù reader, send buffer contents to a speech engine.
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.0: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
@@ -311,7 +311,7 @@ app-emacs/relint 1.24: Elisp regexp mistake finder
 app-emacs/repology 1.2.4: Repology API access via Elisp
 app-emacs/rich-minority 1.0.3: Clean-up and Beautify the list of minor-modes.
 app-emacs/rnc-mode 0.3: Emacs mode to edit Relax-NG Compact files
-app-emacs/rt-liberation 6: Emacs interface to RT
+app-emacs/rt-liberation 7: Emacs interface to RT
 app-emacs/ruby-end 0.4.3: Automatic insertion of end blocks for Ruby
 app-emacs/rudel 0.3.2: A collaborative editing framework for Emacs
 app-emacs/satchel 0.2: A bag for your files, separated by git branches

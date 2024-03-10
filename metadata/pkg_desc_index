@@ -60,7 +60,7 @@ app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and l
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 29.1.4.4: Emacs Lisp Compatibility Library
 app-emacs/consult 1.4: Consulting completing-read
-app-emacs/consult-hoogle 0.1.1: Hoogle frontend using consult
+app-emacs/consult-hoogle 0.2.0: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
 app-emacs/corfu 1.2: COmpletion in Region FUnction
@@ -133,7 +133,7 @@ app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.28: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
 app-emacs/face-shift 0.2.1: Shift the colour of certain faces
-app-emacs/filechooser 0.1.2: An xdg-desktop-portal filechooser
+app-emacs/filechooser 0.2.0: An xdg-desktop-portal filechooser
 app-emacs/filladapt 2.12.2: Adaptive fill
 app-emacs/firefox-javascript-repl 0.9.5: Jack into Firefox
 app-emacs/flylisp 0.2: Color unbalanced parentheses and parentheses inconsistent with indentation
@@ -175,7 +175,7 @@ app-emacs/hyperbole 9.0.0: GNU Hyperbole: The Everyday Hypertextual Information 
 app-emacs/ilist 0.3: Display a list in an ibuffer way.
 app-emacs/inspector 0.36: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
-app-emacs/isearch-mb 0.7: Control isearch from the minibuffer
+app-emacs/isearch-mb 0.8: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators
 app-emacs/ivy 0.14.2: Incremental Vertical completYon
 app-emacs/ivy-avy 0.14.2: Avy integration for Ivy

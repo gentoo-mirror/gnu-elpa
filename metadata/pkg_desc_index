@@ -108,7 +108,7 @@ app-emacs/ebdb-gnorb 1.0.2: Utilities for connecting EBDB to Gnorb
 app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for EBDB
 app-emacs/ediprolog 2.2: Emacs Does Interactive Prolog
 app-emacs/eev 20240309: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
-app-emacs/ef-themes 1.5.1: Colorful and legible themes
+app-emacs/ef-themes 1.6.0: Colorful and legible themes
 app-emacs/eglot 1.17: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
@@ -171,7 +171,7 @@ app-emacs/highlight-escape-sequences 0.4: Highlight escape sequences
 app-emacs/hook-helpers 1.1.1: Anonymous, modifiable hook functions
 app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
 app-emacs/hydra 0.15.0: Make bindings that stick around.
-app-emacs/hyperbole 9.0.0: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperbole 9.0.1: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/ilist 0.3: Display a list in an ibuffer way.
 app-emacs/inspector 0.36: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
@@ -186,7 +186,7 @@ app-emacs/jami-bot 0.0.4: An extendable chat bot for the private messenger GNU J
 app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
-app-emacs/jinx 1.3: Enchanted Spell Checker
+app-emacs/jinx 1.4: Enchanted Spell Checker
 app-emacs/jit-spell 0.3: Just-in-time spell checking
 app-emacs/js2-mode 20231224: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
@@ -335,7 +335,7 @@ app-emacs/so-long 1.1.2: Say farewell to performance problems with minified code
 app-emacs/soap-client 3.2.3: Access SOAP web services
 app-emacs/sokoban 1.4.9: Implementation of Sokoban for Emacs.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
-app-emacs/spacious-padding 0.4.0: Increase the padding/spacing of frames and windows
+app-emacs/spacious-padding 0.4.1: Increase the padding/spacing of frames and windows
 app-emacs/spinner 1.7.4: Add spinners and progress-bars to the mode-line for ongoing operations
 app-emacs/sql-beeline 0.2: Beeline support for sql.el
 app-emacs/sql-cassandra 0.2.2: Cassandra support for sql.el
@@ -380,7 +380,7 @@ app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table
 app-emacs/uniquify-files 1.0.4: Completion style for files, minimizing directories
-app-emacs/urgrep 0.4.0: Universal recursive grep
+app-emacs/urgrep 0.4.1: Universal recursive grep
 app-emacs/url-http-ntlm 2.0.5: NTLM authentication for the url library
 app-emacs/url-http-oauth 0.8.3: OAuth 2.0 for URL library
 app-emacs/url-scgi 0.9: SCGI support for url.el

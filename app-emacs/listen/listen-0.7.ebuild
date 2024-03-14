@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/persist
 	app-emacs/taxy
-	app-emacs/taxy-magit-section"
+	app-emacs/taxy-magit-section
+	app-emacs/transient"
 RDEPEND="app-emacs/persist
 	app-emacs/taxy
-	app-emacs/taxy-magit-section"
+	app-emacs/taxy-magit-section
+	app-emacs/transient"

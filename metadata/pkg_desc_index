@@ -74,7 +74,7 @@ app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csv-mode 1.23: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
-app-emacs/dape 0.7.0: Debug Adapter Protocol for Emacs
+app-emacs/dape 0.8.1: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
@@ -202,7 +202,7 @@ app-emacs/lentic 0.12: One buffer as a view of another
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.2: Lexical analyser construction
 app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs
-app-emacs/listen 0.6: Audio/Music player
+app-emacs/listen 0.7: Audio/Music player
 app-emacs/llm 0.10.0: Interface to pluggable llm backends
 app-emacs/lmc 1.4: Little Man Computer in Elisp
 app-emacs/load-dir 0.0.5: Load all Emacs Lisp files in a given directory

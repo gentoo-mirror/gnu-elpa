@@ -199,6 +199,7 @@ app-emacs/landmark 1.0: Neural-network robot that learns landmarks
 app-emacs/latex-table-wizard 1.5.4: Magic editing of LaTeX tables
 app-emacs/leaf 4.5.5: Simplify your init.el configuration, extended use-package
 app-emacs/lentic 0.12: One buffer as a view of another
+app-emacs/lentic-server 0.2: Web Server for Emacs Literate Source
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.2: Lexical analyser construction
 app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs

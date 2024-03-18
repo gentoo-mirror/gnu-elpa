@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elegant, highly legible and customizable themes"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/modus-themes"
+HOMEPAGE="https://github.com/protesilaos/modus-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

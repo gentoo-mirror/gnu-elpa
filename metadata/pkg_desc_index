@@ -108,7 +108,7 @@ app-emacs/ebdb-gnorb 1.0.2: Utilities for connecting EBDB to Gnorb
 app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for EBDB
 app-emacs/ediprolog 2.2: Emacs Does Interactive Prolog
 app-emacs/eev 20240309: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
-app-emacs/ef-themes 1.6.0: Colorful and legible themes
+app-emacs/ef-themes 1.6.1: Colorful and legible themes
 app-emacs/eglot 1.17: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
@@ -257,7 +257,7 @@ app-emacs/orderless 1.1: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.6.21: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.22: Outline-based notes management and organizer
 app-emacs/org-modern 1.2: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.7: Keep track of real things as org-mode links

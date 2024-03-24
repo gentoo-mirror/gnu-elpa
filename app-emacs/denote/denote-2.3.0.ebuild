@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple notes with an efficient file-naming scheme"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/denote"
+HOMEPAGE="https://github.com/protesilaos/denote"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

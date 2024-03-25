@@ -204,7 +204,7 @@ app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their name
 app-emacs/lex 1.2: Lexical analyser construction
 app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs
 app-emacs/listen 0.8: Audio/Music player
-app-emacs/llm 0.12.1: Interface to pluggable llm backends
+app-emacs/llm 0.12.2: Interface to pluggable llm backends
 app-emacs/lmc 1.4: Little Man Computer in Elisp
 app-emacs/load-dir 0.0.5: Load all Emacs Lisp files in a given directory
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)

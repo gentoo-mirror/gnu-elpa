@@ -261,7 +261,7 @@ app-emacs/org-mode 9.6.23: Outline-based notes management and organizer
 app-emacs/org-modern 1.2: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.7: Keep track of real things as org-mode links
-app-emacs/org-remark 1.2.1: Highlight & annotate any text files
+app-emacs/org-remark 1.2.2: Highlight & annotate text, Info, EPUB, EWW
 app-emacs/org-transclusion 1.3.2: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
 app-emacs/orgalist 1.14: Manage Org-like lists in non-Org buffers

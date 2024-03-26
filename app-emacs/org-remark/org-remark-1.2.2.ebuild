@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight & annotate any text files"
+DESCRIPTION="Highlight & annotate text, Info, EPUB, EWW"
 
 HOMEPAGE="https://github.com/nobiot/org-remark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

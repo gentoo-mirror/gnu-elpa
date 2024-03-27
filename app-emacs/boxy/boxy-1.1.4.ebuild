@@ -4,15 +4,15 @@
 EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
-SOURCE_TYPE="single"
-REALNAME="omn-mode"
+SOURCE_TYPE="tar"
+REALNAME="boxy"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Support for OWL Manchester Notation"
+DESCRIPTION="A boxy layout framework"
 
-HOMEPAGE="http://elpa.gnu.org/packages/omn-mode.html"
+HOMEPAGE="https://gitlab.com/grinn.amy/boxy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

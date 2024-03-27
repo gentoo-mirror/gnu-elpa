@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="View org files in a boxy diagram"
 
-HOMEPAGE="https://gitlab.com/tygrdev/boxy-headings"
+HOMEPAGE="https://gitlab.com/grinn.amy/boxy-headings"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

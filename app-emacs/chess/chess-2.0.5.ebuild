@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Play chess in GNU Emacs"
 
-HOMEPAGE="http://elpa.gnu.org/packages/chess.html"
+HOMEPAGE="https://elpa.gnu.org/packages/chess.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

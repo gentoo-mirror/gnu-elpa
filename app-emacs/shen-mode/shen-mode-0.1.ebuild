@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing shen source code"
 
-HOMEPAGE="http://elpa.gnu.org/packages/shen-mode.html"
+HOMEPAGE="https://elpa.gnu.org/packages/shen-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

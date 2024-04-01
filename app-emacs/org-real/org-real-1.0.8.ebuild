@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Keep track of real things as org-mode links"
 
-HOMEPAGE="https://gitlab.com/tygrdev/org-real"
+HOMEPAGE="https://gitlab.com/grinn.amy/org-real"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

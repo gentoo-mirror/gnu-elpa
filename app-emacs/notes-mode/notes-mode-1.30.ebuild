@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Indexing system for on-line note-taking"
 
-HOMEPAGE="http://elpa.gnu.org/packages/notes-mode.html"
+HOMEPAGE="https://elpa.gnu.org/packages/notes-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

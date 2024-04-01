@@ -4,15 +4,15 @@
 EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="quarter-plane"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for quarter-plane style editing"
+DESCRIPTION="editing using quarter-plane screen model"
 
-HOMEPAGE="http://elpa.gnu.org/packages/quarter-plane.html"
+HOMEPAGE="https://elpa.gnu.org/packages/quarter-plane.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An iterator for traversing a directory path."
 
-HOMEPAGE="http://elpa.gnu.org/packages/path-iterator.html"
+HOMEPAGE="https://elpa.gnu.org/packages/path-iterator.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

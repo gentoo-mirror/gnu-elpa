@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Operate on Git branches like dired"
 
-HOMEPAGE="http://elpa.gnu.org/packages/gited.html"
+HOMEPAGE="https://elpa.gnu.org/packages/gited.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

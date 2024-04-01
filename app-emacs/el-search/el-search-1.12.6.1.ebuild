@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Expression based interactive search for Emacs Lisp"
 
-HOMEPAGE="http://elpa.gnu.org/packages/el-search.html"
+HOMEPAGE="https://elpa.gnu.org/packages/el-search.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -4,7 +4,7 @@
 EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="landmark"
 DIGEST_SOURCES="yes"
 
@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Neural-network robot that learns landmarks"
 
-HOMEPAGE="http://elpa.gnu.org/packages/landmark.html"
+HOMEPAGE="https://elpa.gnu.org/packages/landmark.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

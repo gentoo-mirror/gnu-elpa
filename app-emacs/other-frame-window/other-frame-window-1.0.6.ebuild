@@ -4,7 +4,7 @@
 EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="other-frame-window"
 DIGEST_SOURCES="yes"
 
@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to enable global prefix keys for other frame/window buffer placement"
 
-HOMEPAGE="http://elpa.gnu.org/packages/other-frame-window.html"
+HOMEPAGE="https://elpa.gnu.org/packages/other-frame-window.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

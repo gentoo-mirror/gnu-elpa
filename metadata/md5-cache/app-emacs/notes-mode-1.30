@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DESCRIPTION=Indexing system for on-line note-taking
 EAPI=8
-HOMEPAGE=http://elpa.gnu.org/packages/notes-mode.html
+HOMEPAGE=https://elpa.gnu.org/packages/notes-mode.html
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://elpa.gnu.org/packages/notes-mode-1.30.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0cbc386ea9e0af2ec46bb275f294d3e7
+_md5_=4b17d53b636146f4eedeba37711c3b22

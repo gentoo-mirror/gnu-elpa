@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Realgud front-end to ipdb"
+DESCRIPTION="realgud front-end to ipdb"
 
 HOMEPAGE="http://github.com/rocky/realgud-ipdb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -18,7 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/realgud
-	app-emacs/load-relative"
-RDEPEND="app-emacs/realgud
-	app-emacs/load-relative"
+DEPEND="app-emacs/realgud"
+RDEPEND="app-emacs/realgud"

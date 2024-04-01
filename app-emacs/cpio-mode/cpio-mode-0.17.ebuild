@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Handle cpio archives in the style of dired."
 
-HOMEPAGE="http://elpa.gnu.org/packages/cpio-mode.html"
+HOMEPAGE="https://elpa.gnu.org/packages/cpio-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

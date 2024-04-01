@@ -4,7 +4,7 @@
 EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="transcribe"
 DIGEST_SOURCES="yes"
 
@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Package for audio transcriptions"
 
-HOMEPAGE="http://elpa.gnu.org/packages/transcribe.html"
+HOMEPAGE="https://elpa.gnu.org/packages/transcribe.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

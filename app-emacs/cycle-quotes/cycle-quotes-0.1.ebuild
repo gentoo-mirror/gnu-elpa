@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cycle between quote styles"
 
-HOMEPAGE="http://elpa.gnu.org/packages/cycle-quotes.html"
+HOMEPAGE="https://elpa.gnu.org/packages/cycle-quotes.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

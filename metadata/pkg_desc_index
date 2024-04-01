@@ -35,7 +35,7 @@ app-emacs/bnf-mode 0.4.5: Major mode for editing BNF grammars.
 app-emacs/boxy 1.1.4: A boxy layout framework
 app-emacs/boxy-headings 2.1.5: View org files in a boxy diagram
 app-emacs/breadcrumb 1.0.1: project and imenu-based breadcrumb paths
-app-emacs/brief 5.90: Brief Editor Emulator (Brief Mode)
+app-emacs/brief 5.91: Brief Editor Emulator (Brief Mode)
 app-emacs/buffer-env 0.6: Buffer-local process environments
 app-emacs/buffer-expose 0.4.3: Visual buffer switching using a window grid
 app-emacs/bufferlo 0.6: Manage frame/tab-local buffer lists
@@ -80,17 +80,17 @@ app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
 app-emacs/debbugs 0.40: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
-app-emacs/denote 2.3.2: Simple notes with an efficient file-naming scheme
+app-emacs/denote 2.3.5: Simple notes with an efficient file-naming scheme
 app-emacs/denote-menu 1.2.0: View denote files in a tabulated list.
 app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
-app-emacs/devdocs 0.6: Emacs viewer for DevDocs
+app-emacs/devdocs 0.6.1: Emacs viewer for DevDocs
 app-emacs/devicetree-ts-mode 0.3: Tree-sitter support for DTS
 app-emacs/dict-tree 0.17: Dictionary data structure
 app-emacs/diff-hl 1.9.2: Highlight uncommitted changes using VC
 app-emacs/diffview 1.0: View diffs in side-by-side format
 app-emacs/diminish 0.46: Diminished modes are minor modes with no modeline display
 app-emacs/dired-du 0.5.2: Dired with recursive directory sizes
-app-emacs/dired-duplicates 0.3: Find duplicate files locally and remotely
+app-emacs/dired-duplicates 0.4: Find duplicate files locally and remotely
 app-emacs/dired-git-info 0.3.1: Show git info in dired
 app-emacs/dired-preview 0.1.1: Automatically preview file at point in Dired
 app-emacs/disk-usage 1.3.3: Sort and browse disk usage listings
@@ -162,7 +162,7 @@ app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
 app-emacs/greader 0.9.19: gnamù reader, send buffer contents to a speech engine.
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
-app-emacs/gtags-mode 1.1: GNU Global integration with xref, project and imenu.
+app-emacs/gtags-mode 1.2: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
 app-emacs/hcel 1.0.0: Haskell codebase explorer / cross referencer
 app-emacs/heap 0.5: Heap (a.k.a. priority queue) data structure
@@ -203,8 +203,8 @@ app-emacs/lentic-server 0.2: Web Server for Emacs Literate Source
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.2: Lexical analyser construction
 app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs
-app-emacs/listen 0.8: Audio/Music player
-app-emacs/llm 0.12.2: Interface to pluggable llm backends
+app-emacs/listen 0.9: Audio/Music player
+app-emacs/llm 0.12.3: Interface to pluggable llm backends
 app-emacs/lmc 1.4: Little Man Computer in Elisp
 app-emacs/load-dir 0.0.5: Load all Emacs Lisp files in a given directory
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
@@ -257,10 +257,10 @@ app-emacs/orderless 1.1: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.6.23: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.24: Outline-based notes management and organizer
 app-emacs/org-modern 1.2: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
-app-emacs/org-real 1.0.7: Keep track of real things as org-mode links
+app-emacs/org-real 1.0.8: Keep track of real things as org-mode links
 app-emacs/org-remark 1.2.2: Highlight & annotate text, Info, EPUB, EWW
 app-emacs/org-transclusion 1.3.2: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
@@ -278,7 +278,7 @@ app-emacs/perl-doc 0.81: Read Perl documentation
 app-emacs/persist 0.6: Persist Variables between Emacs Sessions
 app-emacs/phps-mode 0.4.48: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
-app-emacs/plz 0.7.2: HTTP library
+app-emacs/plz 0.7.3: HTTP library
 app-emacs/plz-see 0.1: Interactive HTTP client
 app-emacs/poke 3.2: Emacs meets GNU poke!
 app-emacs/poke-mode 3.1: Major mode for editing Poke programs
@@ -293,7 +293,7 @@ app-emacs/pulsar 1.0.1: Pulse highlight on demand or after select functions
 app-emacs/pyim 5.3.3: A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime.
 app-emacs/pyim-basedict 0.5.4: The default pinyin dict of pyim
 app-emacs/python 0.28: Python's flying circus support for Emacs
-app-emacs/quarter-plane 0.1: Minor mode for quarter-plane style editing
+app-emacs/quarter-plane 0.1: editing using quarter-plane screen model
 app-emacs/queue 0.2: Queue data structure
 app-emacs/rainbow-mode 1.0.6: Colorize color names in buffers
 app-emacs/rbit 0.1: Red-black persistent interval trees
@@ -301,7 +301,7 @@ app-emacs/rcirc-color 0.4.5: color nicks
 app-emacs/rcirc-menu 1.1: A menu of all your rcirc connections
 app-emacs/rcirc-sqlite 0.1.4: rcirc logging in SQLite
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
-app-emacs/realgud-ipdb 1.0.0: Realgud front-end to ipdb
+app-emacs/realgud-ipdb 1.0.0: realgud front-end to ipdb
 app-emacs/realgud-jdb 1.0.0: Realgud front-end to Java's jdb debugger"
 app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
 app-emacs/realgud-node-debug 1.0.0: Realgud front-end to older "node debug"
@@ -369,7 +369,7 @@ app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs
 app-emacs/tmr 0.4.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
-app-emacs/tramp 2.6.2.2: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.6.3: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

@@ -63,7 +63,7 @@ app-emacs/consult 1.4: Consulting completing-read
 app-emacs/consult-hoogle 0.2.0: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
-app-emacs/corfu 1.2: COmpletion in Region FUnction
+app-emacs/corfu 1.3: COmpletion in Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
 app-emacs/counsel 0.14.2: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.
@@ -74,7 +74,7 @@ app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csv-mode 1.23: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
-app-emacs/dape 0.9.0: Debug Adapter Protocol for Emacs
+app-emacs/dape 0.10.0: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
@@ -99,7 +99,7 @@ app-emacs/djvu 1.1.2: Edit and view Djvu files via djvused
 app-emacs/do-at-point 0.1.1: Generic context-sensitive action dispatcher.
 app-emacs/doc-toc 1.2: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/docbook 0.1: Info-like viewer for DocBook
-app-emacs/drepl 0.1: REPL protocol for the dumb terminal
+app-emacs/drepl 0.2: REPL protocol for the dumb terminal
 app-emacs/dts-mode 1.0: Major mode for Device Tree source files
 app-emacs/easy-escape 0.2.1: Improve readability of escape characters in regular expressions
 app-emacs/easy-kill 0.9.5: kill & mark things easily
@@ -330,7 +330,7 @@ app-emacs/sisu-mode 7.1.8: Major mode for SiSU markup text
 app-emacs/site-lisp 0.1.2: Manage site-lisp directories
 app-emacs/sketch-mode 1.0.4: Quickly create svg sketches using keyboard and mouse
 app-emacs/slime-volleyball 1.2.0: An SVG Slime Volleyball Game
-app-emacs/sm-c-mode 1.1: C major mode based on SMIE
+app-emacs/sm-c-mode 1.2: C major mode based on SMIE
 app-emacs/smalltalk-mode 4.0: Major mode for the GNU Smalltalk programming language
 app-emacs/smart-yank 0.1.1: A different approach of yank pointer handling
 app-emacs/sml-mode 6.12: Major mode for editing (Standard) ML

@@ -22,7 +22,7 @@ app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
 app-emacs/auto-overlays 0.10.10: Automatic regexp-delimited overlays
-app-emacs/autocrypt 0.4.1: Autocrypt implementation
+app-emacs/autocrypt 0.4.2: Autocrypt implementation
 app-emacs/avy 0.5.0: Jump to arbitrary positions in visible text and select text quickly.
 app-emacs/bbdb 3.2.2.4: Big Brother DataBase
 app-emacs/beacon 1.3.4: Highlight the cursor whenever the window scrolls

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Set font configurations using presets"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/fontaine"
+HOMEPAGE="https://github.com/protesilaos/fontaine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -118,7 +118,7 @@ app-emacs/ellama 0.9.1: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.0: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.0: Consult integration for Embark
-app-emacs/ement 0.14: Matrix client
+app-emacs/ement 0.15: Matrix client
 app-emacs/emms 19: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
@@ -299,7 +299,7 @@ app-emacs/rainbow-mode 1.0.6: Colorize color names in buffers
 app-emacs/rbit 0.1: Red-black persistent interval trees
 app-emacs/rcirc-color 0.4.5: color nicks
 app-emacs/rcirc-menu 1.1: A menu of all your rcirc connections
-app-emacs/rcirc-sqlite 0.1.4: rcirc logging in SQLite
+app-emacs/rcirc-sqlite 1.0.0: rcirc logging in SQLite
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-ipdb 1.0.0: realgud front-end to ipdb
 app-emacs/realgud-jdb 1.0.0: Realgud front-end to Java's jdb debugger"

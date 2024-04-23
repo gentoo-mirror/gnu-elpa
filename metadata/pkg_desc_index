@@ -299,7 +299,7 @@ app-emacs/rainbow-mode 1.0.6: Colorize color names in buffers
 app-emacs/rbit 0.1: Red-black persistent interval trees
 app-emacs/rcirc-color 0.4.5: color nicks
 app-emacs/rcirc-menu 1.1: A menu of all your rcirc connections
-app-emacs/rcirc-sqlite 1.0.0: rcirc logging in SQLite
+app-emacs/rcirc-sqlite 1.0.1: rcirc logging in SQLite
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-ipdb 1.0.0: realgud front-end to ipdb
 app-emacs/realgud-jdb 1.0.0: Realgud front-end to Java's jdb debugger"

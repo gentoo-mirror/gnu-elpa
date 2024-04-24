@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="\"Classic\" yasnippet snippets"
 
-HOMEPAGE="http://elpa.gnu.org/packages/yasnippet-classic-snippets.html"
+HOMEPAGE="https://elpa.gnu.org/packages/yasnippet-classic-snippets.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

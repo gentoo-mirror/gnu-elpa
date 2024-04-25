@@ -162,7 +162,7 @@ app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
 app-emacs/greader 0.9.20: gnamù reader, send buffer contents to a speech engine.
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
-app-emacs/gtags-mode 1.2: GNU Global integration with xref, project and imenu.
+app-emacs/gtags-mode 1.5: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
 app-emacs/hcel 1.0.0: Haskell codebase explorer / cross referencer
 app-emacs/heap 0.5: Heap (a.k.a. priority queue) data structure
@@ -398,7 +398,7 @@ app-emacs/vcard 0.2.2: Package for handling vCard files
 app-emacs/vcl-mode 1.1: Major mode for Varnish Configuration Language
 app-emacs/vdiff 0.2.4: A diff tool similar to vimdiff
 app-emacs/verilog-mode 2024.3.1.121933719: major mode for editing verilog source in Emacs
-app-emacs/vertico 1.7: VERTical Interactive COmpletion
+app-emacs/vertico 1.8: VERTical Interactive COmpletion
 app-emacs/vertico-posframe 0.7.7: Using posframe to show Vertico
 app-emacs/vigenere 1.0: Run a vigenere cipher on a block of text ;
 app-emacs/visual-filename-abbrev 1.2: Visually abbreviate filenames

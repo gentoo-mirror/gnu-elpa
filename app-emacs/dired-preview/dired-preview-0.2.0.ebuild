@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically preview file at point in Dired"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/dired-preview"
+HOMEPAGE="https://github.com/protesilaos/dired-preview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Automatically preview file at point in Dired
+DESCRIPTION=wrapped, non-incremental search
 EAPI=8
-HOMEPAGE=https://git.sr.ht/~protesilaos/dired-preview
+HOMEPAGE=https://dataswamp.org/~incal/emacs-init/wrap-search.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.gnu.org/packages/dired-preview-0.1.1.tar
+SRC_URI=https://elpa.gnu.org/packages/wrap-search-4.15.11.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=4e30924786ba7ed1dbcae15e274d2bf6
+_md5_=3fc3beb913a1b184bc218da232687e6b

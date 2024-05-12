@@ -61,6 +61,7 @@ app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and l
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 29.1.4.5: Emacs Lisp Compatibility Library
 app-emacs/consult 1.5: Consulting completing-read
+app-emacs/consult-denote 0.0.0: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.2.1: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
@@ -100,7 +101,7 @@ app-emacs/djvu 1.1.2: Edit and view Djvu files via djvused
 app-emacs/do-at-point 0.1.1: Generic context-sensitive action dispatcher.
 app-emacs/doc-toc 1.2: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/docbook 0.1: Info-like viewer for DocBook
-app-emacs/drepl 0.2: REPL protocol for the dumb terminal
+app-emacs/drepl 0.3: REPL protocol for the dumb terminal
 app-emacs/dts-mode 1.0: Major mode for Device Tree source files
 app-emacs/easy-escape 0.2.1: Improve readability of escape characters in regular expressions
 app-emacs/easy-kill 0.9.5: kill & mark things easily
@@ -163,7 +164,7 @@ app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
 app-emacs/greader 0.9.20: gnamù reader, send buffer contents to a speech engine.
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
-app-emacs/gtags-mode 1.5: GNU Global integration with xref, project and imenu.
+app-emacs/gtags-mode 1.6: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
 app-emacs/hcel 1.0.0: Haskell codebase explorer / cross referencer
 app-emacs/heap 0.5: Heap (a.k.a. priority queue) data structure
@@ -244,7 +245,7 @@ app-emacs/nftables-mode 1.1: Major mode for editing nftables
 app-emacs/nhexl-mode 1.5: Minor mode to edit files via hex-dump format
 app-emacs/nlinum 1.9: Show line numbers in the margin
 app-emacs/notes-mode 1.31: Indexing system for on-line note-taking
-app-emacs/notmuch-indicator 1.1.0: Display mode line indicator with notmuch-count(1) output
+app-emacs/notmuch-indicator 1.2.0: Display mode line indicator with notmuch-count(1) output
 app-emacs/ntlm 2.1.0: NTLM (NT LanManager) authentication support
 app-emacs/num3-mode 1.5: highlight groups of digits in long numbers
 app-emacs/oauth2 0.16: OAuth 2.0 Authorization Protocol
@@ -258,7 +259,7 @@ app-emacs/orderless 1.1: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.6.29: Outline-based notes management and organizer
+app-emacs/org-mode 9.6.30: Outline-based notes management and organizer
 app-emacs/org-modern 1.2: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.9: Keep track of real things as org-mode links
@@ -385,7 +386,7 @@ app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table
 app-emacs/uniquify-files 1.0.4: Completion style for files, minimizing directories
-app-emacs/urgrep 0.4.1: Universal recursive grep
+app-emacs/urgrep 0.5.0: Universal recursive grep
 app-emacs/url-http-ntlm 2.0.5: NTLM authentication for the url library
 app-emacs/url-http-oauth 0.8.3: OAuth 2.0 for URL library
 app-emacs/url-scgi 0.9: SCGI support for url.el

@@ -60,7 +60,7 @@ app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-
 app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and latex tags
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 29.1.4.5: Emacs Lisp Compatibility Library
-app-emacs/consult 1.5: Consulting completing-read
+app-emacs/consult 1.6: Consulting completing-read
 app-emacs/consult-denote 0.0.0: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.2.1: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
@@ -115,7 +115,7 @@ app-emacs/eglot 1.17: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
-app-emacs/elisp-benchmarks 1.14: elisp benchmarks collection
+app-emacs/elisp-benchmarks 1.15: elisp benchmarks collection
 app-emacs/ellama 0.9.3: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
@@ -188,7 +188,7 @@ app-emacs/jami-bot 0.0.4: An extendable chat bot for the private messenger GNU J
 app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
-app-emacs/jinx 1.6: Enchanted Spell Checker
+app-emacs/jinx 1.7: Enchanted Spell Checker
 app-emacs/jit-spell 0.4: Just-in-time spell checking
 app-emacs/js2-mode 20231224: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files

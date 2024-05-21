@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="substitute"
+REALNAME="window-tool-bar"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Efficiently replace targets in the buffer or context"
+DESCRIPTION="Add tool bars inside windows"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/substitute"
+HOMEPAGE="https://elpa.gnu.org/packages/window-tool-bar.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

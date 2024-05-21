@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="llm"
+REALNAME="substitute"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interface to pluggable llm backends"
+DESCRIPTION="Efficiently replace targets in the buffer or context"
 
-HOMEPAGE="https://github.com/ahyatt/llm"
+HOMEPAGE="https://github.com/protesilaos/substitute"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

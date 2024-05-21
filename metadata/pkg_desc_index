@@ -17,7 +17,7 @@ app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
 app-emacs/assess 0.7: Test support functions
 app-emacs/async 1.9.8: Asynchronous processing in Emacs
-app-emacs/auctex 14.0.4: Integrated environment for *TeX*
+app-emacs/auctex 14.0.5: Integrated environment for *TeX*
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
@@ -38,7 +38,7 @@ app-emacs/breadcrumb 1.0.1: project and imenu-based breadcrumb paths
 app-emacs/brief 5.91: Brief Editor Emulator (Brief Mode)
 app-emacs/buffer-env 0.6: Buffer-local process environments
 app-emacs/buffer-expose 0.4.3: Visual buffer switching using a window grid
-app-emacs/bufferlo 0.7: Manage frame/tab-local buffer lists
+app-emacs/bufferlo 0.8: Manage frame/tab-local buffer lists
 app-emacs/bug-hunter 1.3.1: Hunt down errors by bisecting elisp files
 app-emacs/buildbot 0.0.1: A Buildbot client for emacs
 app-emacs/calibre 1.4.1: Interact with Calibre libraries from Emacs
@@ -115,8 +115,8 @@ app-emacs/eglot 1.17: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
-app-emacs/elisp-benchmarks 1.15: elisp benchmarks collection
-app-emacs/ellama 0.9.3: Tool for interacting with LLMs
+app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
+app-emacs/ellama 0.9.4: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
@@ -206,7 +206,7 @@ app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their name
 app-emacs/lex 1.2: Lexical analyser construction
 app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs
 app-emacs/listen 0.9: Audio/Music player
-app-emacs/llm 0.14.2: Interface to pluggable llm backends
+app-emacs/llm 0.15.0: Interface to pluggable llm backends
 app-emacs/lmc 1.4: Little Man Computer in Elisp
 app-emacs/load-dir 0.0.5: Load all Emacs Lisp files in a given directory
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
@@ -264,7 +264,7 @@ app-emacs/org-modern 1.2: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.9: Keep track of real things as org-mode links
 app-emacs/org-remark 1.2.2: Highlight & annotate text, Info, EPUB, EWW
-app-emacs/org-transclusion 1.3.2: Transclude text content via links
+app-emacs/org-transclusion 1.4.0: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
 app-emacs/orgalist 1.14: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
@@ -349,7 +349,7 @@ app-emacs/srht 0.4: Sourcehut
 app-emacs/ssh-deploy 3.1.16: Deployment via Tramp, global or per directory.
 app-emacs/standard-themes 2.0.1: Like the default theme but more consistent
 app-emacs/stream 2.3.0: Implementation of streams
-app-emacs/substitute 0.2.1: Efficiently replace targets in the buffer or context
+app-emacs/substitute 0.3.0: Efficiently replace targets in the buffer or context
 app-emacs/svg 1.1: SVG image creation functions
 app-emacs/svg-clock 1.2: Analog clock using Scalable Vector Graphics
 app-emacs/svg-lib 0.3: SVG tags, progress bars & icons
@@ -414,12 +414,13 @@ app-emacs/webfeeder 1.1.2: Build RSS and Atom webfeeds from HTML files
 app-emacs/websocket 1.15: Emacs WebSocket client and server
 app-emacs/which-key 3.6.0: Display available keybindings in popup
 app-emacs/window-commander 3.0.2: Simply execute commands on windows
+app-emacs/window-tool-bar 0.2: Add tool bars inside windows
 app-emacs/windower 0.0.1: Helper functions for window manipulation.
 app-emacs/windresize 0.1: Resize windows interactively
 app-emacs/wisi 4.3.2: Utilities for implementing an indentation/navigation engine using a generalized LR parser
 app-emacs/wisitoken-grammar-mode 1.3.0: Major mode for editing WisiToken grammar files
 app-emacs/wpuzzle 1.1: find as many word in a given time
-app-emacs/wrap-search 4.15.11: wrapped, non-incremental search
+app-emacs/wrap-search 4.16.13: wrapped, non-incremental search
 app-emacs/xclip 1.11: Copy&paste GUI clipboard from text terminal
 app-emacs/xeft 3.3: Deft feat. Xapian
 app-emacs/xelb 0.18: X protocol Emacs Lisp Binding

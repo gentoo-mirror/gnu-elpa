@@ -60,12 +60,12 @@ app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-
 app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and latex tags
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 29.1.4.5: Emacs Lisp Compatibility Library
-app-emacs/consult 1.6: Consulting completing-read
+app-emacs/consult 1.7: Consulting completing-read
 app-emacs/consult-denote 0.0.0: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.2.1: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
-app-emacs/corfu 1.3: COmpletion in Region FUnction
+app-emacs/corfu 1.4: COmpletion in Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
 app-emacs/counsel 0.14.2: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.

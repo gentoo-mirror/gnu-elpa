@@ -12,11 +12,11 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="X protocol Emacs Lisp Binding"
 
-HOMEPAGE="https://github.com/ch11ng/xelb"
+HOMEPAGE="https://github.com/emacs-exwm/xelb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/cl-generic"
-RDEPEND="app-emacs/cl-generic"
+DEPEND=""
+RDEPEND=""

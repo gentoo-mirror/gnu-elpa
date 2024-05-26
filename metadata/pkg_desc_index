@@ -73,7 +73,7 @@ app-emacs/cpupower 1.0.5: cpupower command interface
 app-emacs/crdt 0.3.5: Collaborative editing using Conflict-free Replicated Data Types
 app-emacs/crisp 1.3.6: CRiSP/Brief Emacs emulator
 app-emacs/csharp-mode 2.0.0: C# mode derived mode
-app-emacs/csv-mode 1.23: Major mode for editing comma/char separated values
+app-emacs/csv-mode 1.24: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
 app-emacs/dape 0.11.1: Debug Adapter Protocol for Emacs
@@ -155,7 +155,7 @@ app-emacs/gnat-compiler 1.0.3: Support for running GNAT tools
 app-emacs/gnome-c-style 0.1: minor mode for editing GNOME-style C source code
 app-emacs/gnorb 1.6.11: Glue code between Gnus, Org, and BBDB
 app-emacs/gnu-elpa 1.1: Advertize GNU ELPA packages
-app-emacs/gnu-elpa-keyring-update 2022.12: Update Emacs's GPG keyring for GNU ELPA
+app-emacs/gnu-elpa-keyring-update 2022.12.1: Update Emacs's GPG keyring for GNU ELPA
 app-emacs/gnugo 3.1.2: play GNU Go in a buffer
 app-emacs/gnus-mock 0.5: Mock Gnus installation for testing
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
@@ -231,7 +231,7 @@ app-emacs/minibuffer-line 0.1: Display status info in the minibuffer window
 app-emacs/minimap 1.4: Sidebar showing a "mini-map" of a buffer
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/modus-themes 4.4.0: Elegant, highly legible and customizable themes
-app-emacs/mpdired 1: A dired-like client for Music Player Daemon
+app-emacs/mpdired 2: A dired-like client for Music Player Daemon
 app-emacs/multi-mode 1.14: support for multiple major modes
 app-emacs/multishell 1.1.10: Organize use of multiple shell buffers, local and remote
 app-emacs/muse 3.20.2: Authoring and publishing tool for Emacs

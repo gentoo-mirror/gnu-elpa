@@ -73,7 +73,7 @@ app-emacs/cpupower 1.0.5: cpupower command interface
 app-emacs/crdt 0.3.5: Collaborative editing using Conflict-free Replicated Data Types
 app-emacs/crisp 1.3.6: CRiSP/Brief Emacs emulator
 app-emacs/csharp-mode 2.0.0: C# mode derived mode
-app-emacs/csv-mode 1.24: Major mode for editing comma/char separated values
+app-emacs/csv-mode 1.25: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
 app-emacs/dape 0.12.0: Debug Adapter Protocol for Emacs
@@ -116,7 +116,7 @@ app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 0.9.4: Tool for interacting with LLMs
+app-emacs/ellama 0.9.5: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark

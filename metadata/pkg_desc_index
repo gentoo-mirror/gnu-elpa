@@ -120,7 +120,7 @@ app-emacs/ellama 0.9.7: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
-app-emacs/ement 0.15: Matrix client
+app-emacs/ement 0.15.1: Matrix client
 app-emacs/emms 19: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
@@ -260,7 +260,7 @@ app-emacs/orderless 1.1: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.7.2: Outline-based notes management and organizer
+app-emacs/org-mode 9.7.3: Outline-based notes management and organizer
 app-emacs/org-modern 1.3: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.9: Keep track of real things as org-mode links
@@ -302,7 +302,7 @@ app-emacs/rainbow-mode 1.0.6: Colorize color names in buffers
 app-emacs/rbit 0.1: Red-black persistent interval trees
 app-emacs/rcirc-color 0.4.5: color nicks
 app-emacs/rcirc-menu 1.1: A menu of all your rcirc connections
-app-emacs/rcirc-sqlite 1.0.1: rcirc logging in SQLite
+app-emacs/rcirc-sqlite 1.0.2: rcirc logging in SQLite
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-ipdb 1.0.0: realgud front-end to ipdb
 app-emacs/realgud-jdb 1.0.0: Realgud front-end to Java's jdb debugger"

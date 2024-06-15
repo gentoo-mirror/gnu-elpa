@@ -289,7 +289,7 @@ app-emacs/poker 0.2: Texas hold 'em poker
 app-emacs/popper 0.4.6: Summon and dismiss buffers as popups
 app-emacs/posframe 1.4.3: Pop a posframe (just a frame) at point
 app-emacs/pq 0.2: libpq binding
-app-emacs/project 0.11.0: Operations on the current project
+app-emacs/project 0.11.1: Operations on the current project
 app-emacs/psgml 1.3.5: SGML-editing mode with parsing support
 app-emacs/pspp-mode 1.1: Major mode for editing PSPP files
 app-emacs/pulsar 1.0.1: Pulse highlight on demand or after select functions

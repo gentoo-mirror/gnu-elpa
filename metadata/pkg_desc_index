@@ -18,6 +18,8 @@ app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
 app-emacs/assess 0.7: Test support functions
 app-emacs/async 1.9.8: Asynchronous processing in Emacs
 app-emacs/auctex 14.0.5: Integrated environment for *TeX*
+app-emacs/auctex-cont-latexmk 0.2: run latexmk continuously, report errors via Flymake
+app-emacs/auctex-label-numbers 0.2: Numbering for LaTeX previews and folds
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
@@ -267,7 +269,7 @@ app-emacs/org-real 1.0.9: Keep track of real things as org-mode links
 app-emacs/org-remark 1.2.2: Highlight & annotate text, Info, EPUB, EWW
 app-emacs/org-transclusion 1.4.0: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
-app-emacs/orgalist 1.14: Manage Org-like lists in non-Org buffers
+app-emacs/orgalist 1.16: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
 app-emacs/osm 1.3: OpenStreetMap viewer
 app-emacs/other-frame-window 1.0.6: Minor mode to enable global prefix keys for other frame/window buffer placement
@@ -289,6 +291,8 @@ app-emacs/poker 0.2: Texas hold 'em poker
 app-emacs/popper 0.4.6: Summon and dismiss buffers as popups
 app-emacs/posframe 1.4.3: Pop a posframe (just a frame) at point
 app-emacs/pq 0.2: libpq binding
+app-emacs/preview-auto 0.3: Automatic previews in AUCTeX
+app-emacs/preview-tailor 0.2: Tailor AUCTeX preview scale to monitor/text scale
 app-emacs/project 0.11.1: Operations on the current project
 app-emacs/psgml 1.3.5: SGML-editing mode with parsing support
 app-emacs/pspp-mode 1.1: Major mode for editing PSPP files
@@ -366,6 +370,8 @@ app-emacs/taxy-magit-section 0.13: View Taxy structs in a Magit Section buffer
 app-emacs/temp-buffer-browse 1.5: temp buffer browse mode
 app-emacs/tempel 1.1: Tempo templates/snippets with in-buffer field editing
 app-emacs/test-simple 1.3.0: Simple Unit Test Framework for Emacs Lisp
+app-emacs/tex-item 0.1: Commands for working with tex items
+app-emacs/tex-parens 0.2: like lisp.el but for tex
 app-emacs/theme-buffet 0.1.2: Time based theme switcher
 app-emacs/timerfunctions 1.4.2: Enhanced versions of some timer.el functions
 app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs
@@ -377,7 +383,7 @@ app-emacs/tramp 2.6.3: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
-app-emacs/transient 0.6.0: Transient commands
+app-emacs/transient 0.7.0: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure

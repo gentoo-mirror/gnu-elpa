@@ -191,7 +191,7 @@ app-emacs/jami-bot 0.0.4: An extendable chat bot for the private messenger GNU J
 app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
-app-emacs/jinx 1.7: Enchanted Spell Checker
+app-emacs/jinx 1.8: Enchanted Spell Checker
 app-emacs/jit-spell 0.4: Just-in-time spell checking
 app-emacs/js2-mode 20231224: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
@@ -383,7 +383,7 @@ app-emacs/tramp 2.6.3: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
-app-emacs/transient 0.7.0: Transient commands
+app-emacs/transient 0.7.1: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure

@@ -54,7 +54,7 @@ app-emacs/cl-lib 0.7.1: Forward cl-lib compatibility library for Emacs<24.3
 app-emacs/clipboard-collector 0.3: Collect clipboard entries according to regex rules
 app-emacs/cobol-mode 1.1: Mode for editing COBOL code
 app-emacs/code-cells 0.4: Lightweight notebooks with support for ipynb files
-app-emacs/colorful-mode 1.0.3: Preview any color in your buffer in real time
+app-emacs/colorful-mode 1.0.4: Preview any color in your buffer in real time
 app-emacs/comint-mime 0.4: Display content of various MIME types in comint buffers
 app-emacs/compact-docstrings 0.2: Shrink blank lines in docstrings and doc comments
 app-emacs/company 0.10.2: Modular text completion framework

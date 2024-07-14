@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="xelb"
+REALNAME="exwm"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="X protocol Emacs Lisp Binding"
+DESCRIPTION="Emacs X Window Manager"
 
-HOMEPAGE="https://github.com/emacs-exwm/xelb"
+HOMEPAGE="https://github.com/emacs-exwm/exwm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/xelb
+	app-emacs/compat"
+RDEPEND="app-emacs/xelb
+	app-emacs/compat"

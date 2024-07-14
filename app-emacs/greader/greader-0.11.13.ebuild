@@ -10,13 +10,15 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="gnamù reader, send buffer contents to a speech engine."
+DESCRIPTION="Gnamù reader, send buffer contents to a speech engine"
 
-HOMEPAGE="https://elpa.gnu.org/packages/greader.html"
+HOMEPAGE="https://gitlab.com/michelangelo-rodriguez/greader"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/seq
+	app-emacs/compat"
+RDEPEND="app-emacs/seq
+	app-emacs/compat"

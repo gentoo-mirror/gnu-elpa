@@ -78,7 +78,7 @@ app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csv-mode 1.25: Major mode for editing comma/char separated values
 app-emacs/cursory 1.0.1: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
-app-emacs/dape 0.13.0: Debug Adapter Protocol for Emacs
+app-emacs/dape 0.14.0: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
@@ -118,7 +118,7 @@ app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 0.11.9: Tool for interacting with LLMs
+app-emacs/ellama 0.11.10: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark

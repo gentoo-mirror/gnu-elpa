@@ -84,7 +84,7 @@ app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
 app-emacs/debbugs 0.40: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
-app-emacs/denote 3.0.6: Simple notes with an efficient file-naming scheme
+app-emacs/denote 3.0.7: Simple notes with an efficient file-naming scheme
 app-emacs/denote-menu 1.2.0: View denote files in a tabulated list.
 app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
 app-emacs/devdocs 0.6.1: Emacs viewer for DevDocs
@@ -111,14 +111,15 @@ app-emacs/ebdb 0.8.22: Contact management package
 app-emacs/ebdb-gnorb 1.0.2: Utilities for connecting EBDB to Gnorb
 app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for EBDB
 app-emacs/ediprolog 2.2: Emacs Does Interactive Prolog
-app-emacs/eev 20240710: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
+app-emacs/eev 20240718: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
 app-emacs/ef-themes 1.7.0: Colorful and legible themes
 app-emacs/eglot 1.17: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
+app-emacs/elisa 1.0.2: Emacs Lisp Information System Assistant
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 0.11.10: Tool for interacting with LLMs
+app-emacs/ellama 0.11.11: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark

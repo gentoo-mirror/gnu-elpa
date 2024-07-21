@@ -119,7 +119,7 @@ app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisa 1.0.3: Emacs Lisp Information System Assistant
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 0.11.11: Tool for interacting with LLMs
+app-emacs/ellama 0.11.12: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
@@ -412,7 +412,7 @@ app-emacs/verilog-mode 2024.3.1.121933719: major mode for editing verilog source
 app-emacs/vertico 1.8: VERTical Interactive COmpletion
 app-emacs/vertico-posframe 0.7.7: Using posframe to show Vertico
 app-emacs/vigenere 1.0: Run a vigenere cipher on a block of text ;
-app-emacs/visual-filename-abbrev 1.2: Visually abbreviate filenames
+app-emacs/visual-filename-abbrev 1.3: Visually abbreviate filenames
 app-emacs/visual-fill 0.2: Auto-refill paragraphs without modifying the buffer
 app-emacs/vlf 1.7.2: View Large Files
 app-emacs/vundo 2.3.0: Visual undo tree
@@ -421,7 +421,7 @@ app-emacs/wconf 0.2.1: Minimal window layout manager
 app-emacs/web-server 0.1.2: Emacs Web Server
 app-emacs/webfeeder 1.1.2: Build RSS and Atom webfeeds from HTML files
 app-emacs/websocket 1.15: Emacs WebSocket client and server
-app-emacs/which-key 3.6.0: Display available keybindings in popup
+app-emacs/which-key 3.6.1: Display available keybindings in popup
 app-emacs/window-commander 3.0.2: Simply execute commands on windows
 app-emacs/window-tool-bar 0.2.1: Add tool bars inside windows
 app-emacs/windower 0.0.1: Helper functions for window manipulation.

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display available keybindings in popup"
 
-HOMEPAGE="https://github.com/justbur/emacs-which-key"
+HOMEPAGE="https://elpa.gnu.org/packages/which-key.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

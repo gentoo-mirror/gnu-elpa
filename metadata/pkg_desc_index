@@ -117,9 +117,9 @@ app-emacs/eglot 1.17: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
-app-emacs/elisa 1.0.3: Emacs Lisp Information System Assistant
+app-emacs/elisa 1.0.4: Emacs Lisp Information System Assistant
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 0.11.12: Tool for interacting with LLMs
+app-emacs/ellama 0.11.13: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark

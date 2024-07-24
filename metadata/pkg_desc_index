@@ -264,7 +264,7 @@ app-emacs/orderless 1.1: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.7.7: Outline-based notes management and organizer
+app-emacs/org-mode 9.7.8: Outline-based notes management and organizer
 app-emacs/org-modern 1.3: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.9: Keep track of real things as org-mode links
@@ -273,7 +273,7 @@ app-emacs/org-transclusion 1.4.0: Transclude text content via links
 app-emacs/org-translate 0.1.4: Org-based translation environment
 app-emacs/orgalist 1.16: Manage Org-like lists in non-Org buffers
 app-emacs/osc 0.4: Open Sound Control protocol library
-app-emacs/osm 1.3: OpenStreetMap viewer
+app-emacs/osm 1.4: OpenStreetMap viewer
 app-emacs/other-frame-window 1.0.6: Minor mode to enable global prefix keys for other frame/window buffer placement
 app-emacs/pabbrev 4.3.0: Predictive abbreviation expansion
 app-emacs/paced 1.1.3: Predictive Abbreviation Completion and Expansion using Dictionaries
@@ -370,7 +370,7 @@ app-emacs/tam 0.1: Manage use of slots in a fixed size table
 app-emacs/taxy 0.10.1: Programmable taxonomical grouping for arbitrary objects
 app-emacs/taxy-magit-section 0.13: View Taxy structs in a Magit Section buffer
 app-emacs/temp-buffer-browse 1.5: temp buffer browse mode
-app-emacs/tempel 1.1: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 1.2: Tempo templates/snippets with in-buffer field editing
 app-emacs/test-simple 1.3.0: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-item 0.1: Commands for working with tex items
 app-emacs/tex-parens 0.4: like lisp.el but for tex

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="wrapped, non-incremental search"
 
-HOMEPAGE="https://dataswamp.org/~incal/emacs-init/wrap-search.el"
+HOMEPAGE="https://dataswamp.org/~incal/elpa/wrap-search.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -209,7 +209,7 @@ app-emacs/lentic 0.12: One buffer as a view of another
 app-emacs/lentic-server 0.2: Web Server for Emacs Literate Source
 app-emacs/let-alist 1.0.6: Easily let-bind values of an assoc-list by their names
 app-emacs/lex 1.2: Lexical analyser construction
-app-emacs/lin 1.0.0: Make `hl-line-mode' more suitable for selection UIs
+app-emacs/lin 1.1.0: Make `hl-line-mode' more suitable for selection UIs
 app-emacs/listen 0.9: Audio/Music player
 app-emacs/literate-scratch 1.0: Lisp Interaction w/ text paragraphs
 app-emacs/llm 0.17.1: Interface to pluggable llm backends
@@ -386,7 +386,7 @@ app-emacs/tramp 2.7.1.1: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
-app-emacs/transient 0.7.3: Transient commands
+app-emacs/transient 0.7.4: Transient commands
 app-emacs/transient-cycles 1.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure

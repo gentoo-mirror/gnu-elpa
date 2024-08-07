@@ -166,7 +166,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.11.14: Gnamù reader, send buffer contents to a speech engine
+app-emacs/greader 0.11.15: Gnamù reader, send buffer contents to a speech engine
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.8: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
@@ -179,7 +179,7 @@ app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
 app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 9.0.1: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/idlwave 6.5.1: IDL editing mode for GNU Emacs
-app-emacs/ilist 0.3: Display a list in an ibuffer way.
+app-emacs/ilist 0.4: Display a list in an ibuffer way.
 app-emacs/inspector 0.37: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.8: Control isearch from the minibuffer
@@ -202,6 +202,7 @@ app-emacs/jumpc 3.1: jump to previous insertion points
 app-emacs/kind-icon 0.2.2: Completion kind icons
 app-emacs/kiwix 1.1.5: Searching offline Wikipedia through Kiwix.
 app-emacs/kmb 0.1: Kill buffers matching a regexp w/o confirmation
+app-emacs/kubed 0.3.1: Kubernetes, Emacs, done!
 app-emacs/landmark 1.0: Neural-network robot that learns landmarks
 app-emacs/latex-table-wizard 1.5.4: Magic editing of LaTeX tables
 app-emacs/leaf 4.5.5: Simplify your init.el configuration, extended use-package

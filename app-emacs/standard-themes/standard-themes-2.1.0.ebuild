@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Like the default theme but more consistent"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/standard-themes"
+HOMEPAGE="https://github.com/protesilaos/standard-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -288,6 +288,7 @@ app-emacs/persist 0.6.1: Persist Variables between Emacs Sessions
 app-emacs/phps-mode 0.4.49: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
 app-emacs/plz 0.9: HTTP library
+app-emacs/plz-media-type 0.1.0: Plz Media Types
 app-emacs/plz-see 0.1: Interactive HTTP client
 app-emacs/poke 3.2: Emacs meets GNU poke!
 app-emacs/poke-mode 3.1: Major mode for editing Poke programs

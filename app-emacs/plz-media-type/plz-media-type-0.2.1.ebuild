@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="plz-event-source"
+REALNAME="plz-media-type"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Plz Event Source"
+DESCRIPTION="Plz Media Types"
 
-HOMEPAGE="https://github.com/r0man/plz-event-source.el"
+HOMEPAGE="https://github.com/r0man/plz-media-type"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/plz-media-type"
-RDEPEND="app-emacs/plz-media-type"
+DEPEND="app-emacs/plz"
+RDEPEND="app-emacs/plz"

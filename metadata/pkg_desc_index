@@ -287,7 +287,7 @@ app-emacs/perl-doc 0.81: Read Perl documentation
 app-emacs/persist 0.6.1: Persist Variables between Emacs Sessions
 app-emacs/phps-mode 0.4.49: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
-app-emacs/plz 0.9: HTTP library
+app-emacs/plz 0.9.1: HTTP library
 app-emacs/plz-event-source 0.1.1: Plz Event Source
 app-emacs/plz-media-type 0.2.1: Plz Media Types
 app-emacs/plz-see 0.1: Interactive HTTP client
@@ -371,8 +371,8 @@ app-emacs/sxhkdrc-mode 1.0.0: Major mode for sxhkdrc files (Simple X Hot Key Dae
 app-emacs/system-packages 1.0.13: functions to manage system packages
 app-emacs/tNFA 0.1.1: Tagged non-deterministic finite-state automata
 app-emacs/tam 0.1: Manage use of slots in a fixed size table
-app-emacs/taxy 0.10.1: Programmable taxonomical grouping for arbitrary objects
-app-emacs/taxy-magit-section 0.13: View Taxy structs in a Magit Section buffer
+app-emacs/taxy 0.10.2: Programmable taxonomical grouping for arbitrary objects
+app-emacs/taxy-magit-section 0.14: View Taxy structs in a Magit Section buffer
 app-emacs/temp-buffer-browse 1.5: temp buffer browse mode
 app-emacs/tempel 1.2: Tempo templates/snippets with in-buffer field editing
 app-emacs/test-simple 1.3.0: Simple Unit Test Framework for Emacs Lisp

@@ -16,7 +16,7 @@ app-emacs/ampc 0.2: Asynchronous Music Player Controller
 app-emacs/arbitools 0.977: Package for chess tournaments administration
 app-emacs/ascii-art-to-unicode 1.13: a small artist adjunct
 app-emacs/assess 0.7: Test support functions
-app-emacs/async 1.9.8: Asynchronous processing in Emacs
+app-emacs/async 1.9.9: Asynchronous processing in Emacs
 app-emacs/auctex 14.0.6: Integrated environment for *TeX*
 app-emacs/auctex-cont-latexmk 0.2: run latexmk continuously, report errors via Flymake
 app-emacs/auctex-label-numbers 0.2: Numbering for LaTeX previews and folds
@@ -236,7 +236,7 @@ app-emacs/minibuffer-header 0.5: Minibuffer header line
 app-emacs/minibuffer-line 0.1: Display status info in the minibuffer window
 app-emacs/minimap 1.4: Sidebar showing a "mini-map" of a buffer
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
-app-emacs/modus-themes 4.4.0: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 4.5.0: Elegant, highly legible and customizable themes
 app-emacs/mpdired 2: A dired-like client for Music Player Daemon
 app-emacs/multi-mode 1.14: support for multiple major modes
 app-emacs/multishell 1.1.10: Organize use of multiple shell buffers, local and remote
@@ -285,6 +285,7 @@ app-emacs/path-iterator 1.0: An iterator for traversing a directory path.
 app-emacs/peg 1.0.1: Parsing Expression Grammars in Emacs Lisp
 app-emacs/perl-doc 0.81: Read Perl documentation
 app-emacs/persist 0.6.1: Persist Variables between Emacs Sessions
+app-emacs/phpinspect 1: PHP parsing and code intelligence package
 app-emacs/phps-mode 0.4.49: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
 app-emacs/plz 0.9.1: HTTP library
@@ -403,7 +404,7 @@ app-emacs/urgrep 0.5.0: Universal recursive grep
 app-emacs/url-http-ntlm 2.0.5: NTLM authentication for the url library
 app-emacs/url-http-oauth 0.8.3: OAuth 2.0 for URL library
 app-emacs/url-scgi 0.9: SCGI support for url.el
-app-emacs/use-package 2.4.5: A configuration macro for simplifying your .emacs
+app-emacs/use-package 2.4.6: A configuration macro for simplifying your .emacs
 app-emacs/validate 1.0.4: Schema validation for Emacs-lisp
 app-emacs/valign 3.1.1: Visually align tables
 app-emacs/vc-backup 1.1.0: VC backend for versioned backups

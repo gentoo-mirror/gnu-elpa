@@ -202,7 +202,7 @@ app-emacs/jumpc 3.1: jump to previous insertion points
 app-emacs/kind-icon 0.2.2: Completion kind icons
 app-emacs/kiwix 1.1.5: Searching offline Wikipedia through Kiwix.
 app-emacs/kmb 0.1: Kill buffers matching a regexp w/o confirmation
-app-emacs/kubed 0.3.2: Kubernetes, Emacs, done!
+app-emacs/kubed 0.4.0: Kubernetes, Emacs, done!
 app-emacs/landmark 1.0: Neural-network robot that learns landmarks
 app-emacs/latex-table-wizard 1.5.4: Magic editing of LaTeX tables
 app-emacs/leaf 4.5.5: Simplify your init.el configuration, extended use-package

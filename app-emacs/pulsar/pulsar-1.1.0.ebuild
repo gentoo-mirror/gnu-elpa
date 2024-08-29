@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pulse highlight on demand or after select functions"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/pulsar"
+HOMEPAGE="https://github.com/protesilaos/pulsar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

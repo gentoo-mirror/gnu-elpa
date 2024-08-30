@@ -323,7 +323,7 @@ app-emacs/realgud-node-debug 1.0.0: Realgud front-end to older "node debug"
 app-emacs/realgud-node-inspect 1.0.0: Realgud front-end to newer "node inspect"
 app-emacs/realgud-trepan-ni 1.0.1: Realgud front-end to trepan-ni
 app-emacs/realgud-trepan-xpy 1.0.1: Realgud front-end to trepan-xpy
-app-emacs/rec-mode 1.9.3: Major mode for viewing/editing rec files
+app-emacs/rec-mode 1.9.4: Major mode for viewing/editing rec files
 app-emacs/register-list 0.1: Interactively list/edit registers
 app-emacs/relint 2.0: Elisp regexp mistake finder
 app-emacs/repology 1.2.4: Repology API access via Elisp

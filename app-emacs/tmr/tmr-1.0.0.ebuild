@@ -12,11 +12,11 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Set timers using a convenient notation"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/tmr"
+HOMEPAGE="https://github.com/protesilaos/tmr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"

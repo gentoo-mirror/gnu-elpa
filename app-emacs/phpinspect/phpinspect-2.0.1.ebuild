@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="PHP parsing and code intelligence package"
 
-HOMEPAGE="https://elpa.gnu.org/packages/phpinspect.html"
+HOMEPAGE="https://github.com/hugot/phpinspect.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

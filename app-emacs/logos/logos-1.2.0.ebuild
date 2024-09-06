@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple focus mode and extras"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/logos"
+HOMEPAGE="https://github.com/protesilaos/logos"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

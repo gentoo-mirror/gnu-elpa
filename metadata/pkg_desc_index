@@ -64,7 +64,7 @@ app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 30.0.0.0: Emacs Lisp Compatibility Library
 app-emacs/constants 2.11.1: Enter definition of constants into source code
 app-emacs/consult 1.8: Consulting completing-read
-app-emacs/consult-denote 0.1.1: Use Consult in tandem with Denote
+app-emacs/consult-denote 0.1.2: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.2.1: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope

@@ -181,7 +181,7 @@ app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 9.0.1: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/idlwave 6.5.1: IDL editing mode for GNU Emacs
 app-emacs/ilist 0.4: Display a list in an ibuffer way.
-app-emacs/inspector 0.37: Tool for inspection of Emacs Lisp objects
+app-emacs/inspector 0.38: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.8: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators
@@ -263,7 +263,7 @@ app-emacs/objed 0.8.3: Navigate and edit text objects.
 app-emacs/omn-mode 1.3: Support for OWL Manchester Notation
 app-emacs/on-screen 1.3.3: guide your eyes while scrolling
 app-emacs/openpgp 1.0.2: Client for keys.openpgp.org
-app-emacs/orderless 1.1: Completion style for matching regexps in any order
+app-emacs/orderless 1.2: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode

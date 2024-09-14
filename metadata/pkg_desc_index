@@ -78,7 +78,7 @@ app-emacs/crisp 1.3.6: CRiSP/Brief Emacs emulator
 app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csv-mode 1.27: Major mode for editing comma/char separated values
 app-emacs/cursor-undo 1.1.5: Undo Cursor Movement
-app-emacs/cursory 1.0.1: Manage cursor styles using presets
+app-emacs/cursory 1.1.0: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
 app-emacs/dape 0.15.0: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing

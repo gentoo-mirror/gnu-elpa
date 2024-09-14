@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage cursor styles using presets"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/cursory"
+HOMEPAGE="https://github.com/protesilaos/cursory"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

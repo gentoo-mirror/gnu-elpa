@@ -64,7 +64,7 @@ app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 30.0.0.0: Emacs Lisp Compatibility Library
 app-emacs/constants 2.11.1: Enter definition of constants into source code
 app-emacs/consult 1.8: Consulting completing-read
-app-emacs/consult-denote 0.1.2: Use Consult in tandem with Denote
+app-emacs/consult-denote 0.2.1: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.2.1: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
@@ -167,7 +167,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.11.16: Gnamù reader, send buffer contents to a speech engine
+app-emacs/greader 0.11.17: Gnamù reader, send buffer contents to a speech engine
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.8.1: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection
@@ -286,7 +286,7 @@ app-emacs/path-iterator 1.0: An iterator for traversing a directory path.
 app-emacs/peg 1.0.1: Parsing Expression Grammars in Emacs Lisp
 app-emacs/perl-doc 0.81: Read Perl documentation
 app-emacs/persist 0.6.1: Persist Variables between Emacs Sessions
-app-emacs/phpinspect 2.0.1: PHP parsing and code intelligence package
+app-emacs/phpinspect 2.1.0: PHP parsing and code intelligence package
 app-emacs/phps-mode 0.4.49: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
 app-emacs/plz 0.9.1: HTTP library

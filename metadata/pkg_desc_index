@@ -57,7 +57,7 @@ app-emacs/code-cells 0.4: Lightweight notebooks with support for ipynb files
 app-emacs/colorful-mode 1.0.4: Preview any color in your buffer in real time
 app-emacs/comint-mime 0.5: Display content of various MIME types in comint buffers
 app-emacs/compact-docstrings 0.2: Shrink blank lines in docstrings and doc comments
-app-emacs/company 0.10.2: Modular text completion framework
+app-emacs/company 1.0.1: Modular text completion framework
 app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-mode
 app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and latex tags
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
@@ -167,7 +167,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.11.17: Gnamù reader, send buffer contents to a speech engine
+app-emacs/greader 0.11.18: Gnamù reader, send buffer contents to a speech engine
 app-emacs/greenbar 1.1: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.8.1: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection

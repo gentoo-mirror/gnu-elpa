@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="pyim-basedict"
+REALNAME="consult-hoogle"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The default pinyin dict of pyim"
+DESCRIPTION="Hoogle frontend using consult"
 
-HOMEPAGE="https://github.com/tumashu/pyim-basedict"
+HOMEPAGE="https://codeberg.org/rahguzar/consult-hoogle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/consult
+	app-emacs/haskell-mode"
+RDEPEND="app-emacs/consult
+	app-emacs/haskell-mode"

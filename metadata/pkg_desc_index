@@ -389,7 +389,7 @@ app-emacs/tmr 1.0.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/track-changes 1.2: API to react to buffer modifications
-app-emacs/tramp 2.7.1.2: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.7.1.3: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.2: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
@@ -437,7 +437,7 @@ app-emacs/windresize 0.1: Resize windows interactively
 app-emacs/wisi 4.3.2: Utilities for implementing an indentation/navigation engine using a generalized LR parser
 app-emacs/wisitoken-grammar-mode 1.3.0: Major mode for editing WisiToken grammar files
 app-emacs/wpuzzle 1.1: find as many word in a given time
-app-emacs/wrap-search 4.16.19: wrapped, non-incremental search
+app-emacs/wrap-search 4.17.6: wrapped, non-incremental search
 app-emacs/xclip 1.11.1: Copy&paste GUI clipboard from text terminal
 app-emacs/xeft 3.3: Deft feat. Xapian
 app-emacs/xelb 0.20: X protocol Emacs Lisp Binding

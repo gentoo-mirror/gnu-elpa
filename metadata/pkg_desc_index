@@ -381,7 +381,7 @@ app-emacs/temp-buffer-browse 1.5: temp buffer browse mode
 app-emacs/tempel 1.2: Tempo templates/snippets with in-buffer field editing
 app-emacs/test-simple 1.3.0: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-item 0.1: Commands for working with tex items
-app-emacs/tex-parens 0.5: like lisp.el but for tex
+app-emacs/tex-parens 0.6: like lisp.el but for tex
 app-emacs/theme-buffet 0.1.2: Time based theme switcher
 app-emacs/timerfunctions 1.4.2: Enhanced versions of some timer.el functions
 app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs

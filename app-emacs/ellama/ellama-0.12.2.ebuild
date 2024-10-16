@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/llm
 	app-emacs/spinner
+	app-emacs/transient
 	app-emacs/compat"
 RDEPEND="app-emacs/llm
 	app-emacs/spinner
+	app-emacs/transient
 	app-emacs/compat"

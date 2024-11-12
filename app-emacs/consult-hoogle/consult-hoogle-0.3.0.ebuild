@@ -18,7 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/consult
-	app-emacs/haskell-mode"
-RDEPEND="app-emacs/consult
-	app-emacs/haskell-mode"
+DEPEND="app-emacs/consult"
+RDEPEND="app-emacs/consult"

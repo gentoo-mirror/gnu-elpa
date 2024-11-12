@@ -5,18 +5,22 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="llm"
+REALNAME="bluetooth"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interface to pluggable llm backends"
+DESCRIPTION="A mode for interacting with Bluetooth devices"
 
-HOMEPAGE="https://github.com/ahyatt/llm"
+HOMEPAGE="https://codeberg.org/rstocker/emacs-bluetooth"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/plz"
-RDEPEND="app-emacs/plz"
+DEPEND="app-emacs/dash
+	app-emacs/compat
+	app-emacs/transient"
+RDEPEND="app-emacs/dash
+	app-emacs/compat
+	app-emacs/transient"

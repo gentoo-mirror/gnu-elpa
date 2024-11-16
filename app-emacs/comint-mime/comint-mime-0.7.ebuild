@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ef-themes"
+REALNAME="comint-mime"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Colorful and legible themes"
+DESCRIPTION="Display content of various MIME types in comint buffers"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/ef-themes"
+HOMEPAGE="https://github.com/astoff/comint-mime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat
+	app-emacs/mathjax"
+RDEPEND="app-emacs/compat
+	app-emacs/mathjax"

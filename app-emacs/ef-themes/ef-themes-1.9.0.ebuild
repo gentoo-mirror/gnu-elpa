@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="comint-mime"
+REALNAME="ef-themes"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display content of various MIME types in comint buffers"
+DESCRIPTION="Colorful and legible themes"
 
-HOMEPAGE="https://github.com/astoff/comint-mime"
+HOMEPAGE="https://github.com/protesilaos/ef-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

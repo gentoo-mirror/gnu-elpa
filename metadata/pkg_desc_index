@@ -55,7 +55,7 @@ app-emacs/clipboard-collector 0.3: Collect clipboard entries according to regex 
 app-emacs/cobol-mode 1.1: Mode for editing COBOL code
 app-emacs/code-cells 0.4: Lightweight notebooks with support for ipynb files
 app-emacs/colorful-mode 1.0.4: Preview any color in your buffer in real time
-app-emacs/comint-mime 0.6: Display content of various MIME types in comint buffers
+app-emacs/comint-mime 0.7: Display content of various MIME types in comint buffers
 app-emacs/compact-docstrings 0.2: Shrink blank lines in docstrings and doc comments
 app-emacs/company 1.0.2: Modular text completion framework
 app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-mode
@@ -114,7 +114,7 @@ app-emacs/ebdb-gnorb 1.0.2: Utilities for connecting EBDB to Gnorb
 app-emacs/ebdb-i18n-chn 1.3.2: China-specific internationalization support for EBDB
 app-emacs/ediprolog 2.3: Emacs Does Interactive Prolog
 app-emacs/eev 20241022: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
-app-emacs/ef-themes 1.8.0: Colorful and legible themes
+app-emacs/ef-themes 1.9.0: Colorful and legible themes
 app-emacs/eglot 1.17: The Emacs Client for LSP servers
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for sxhkdrc files (Simple X Hot Key Daemon)"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/sxhkdrc-mode"
+HOMEPAGE="https://github.com/protesilaos/sxhkdrc-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -35,7 +35,7 @@ app-emacs/blist 0.4: Display bookmarks in an ibuffer way
 app-emacs/bluetooth 0.4.1: A mode for interacting with Bluetooth devices
 app-emacs/bnf-mode 0.4.5: Major mode for editing BNF grammars.
 app-emacs/boxy 2.0.0: A boxy layout framework
-app-emacs/boxy-headings 2.1.8: View org files in a boxy diagram
+app-emacs/boxy-headings 2.1.9: View org files in a boxy diagram
 app-emacs/breadcrumb 1.0.1: project and imenu-based breadcrumb paths
 app-emacs/brief 5.92: Brief Editor Emulator (Brief Mode)
 app-emacs/buffer-env 0.6: Buffer-local process environments
@@ -64,7 +64,7 @@ app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 30.0.2.0: Emacs Lisp Compatibility Library
 app-emacs/constants 2.11.1: Enter definition of constants into source code
 app-emacs/consult 1.9: Consulting completing-read
-app-emacs/consult-denote 0.2.2: Use Consult in tandem with Denote
+app-emacs/consult-denote 0.2.4: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.3.0: Hoogle frontend using consult
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
@@ -80,7 +80,7 @@ app-emacs/csv-mode 1.27: Major mode for editing comma/char separated values
 app-emacs/cursor-undo 1.1.5: Undo Cursor Movement
 app-emacs/cursory 1.1.0: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
-app-emacs/dape 0.19.0: Debug Adapter Protocol for Emacs
+app-emacs/dape 0.20.0: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.

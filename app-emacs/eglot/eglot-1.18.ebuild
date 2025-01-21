@@ -18,17 +18,21 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/jsonrpc
-	app-emacs/flymake
-	app-emacs/project
-	app-emacs/xref
+DEPEND="app-emacs/compat
 	app-emacs/eldoc
-	app-emacs/seq
-	app-emacs/external-completion"
-RDEPEND="app-emacs/jsonrpc
+	app-emacs/external-completion
 	app-emacs/flymake
+	app-emacs/jsonrpc
 	app-emacs/project
-	app-emacs/xref
-	app-emacs/eldoc
 	app-emacs/seq
-	app-emacs/external-completion"
+	app-emacs/track-changes
+	app-emacs/xref"
+RDEPEND="app-emacs/compat
+	app-emacs/eldoc
+	app-emacs/external-completion
+	app-emacs/flymake
+	app-emacs/jsonrpc
+	app-emacs/project
+	app-emacs/seq
+	app-emacs/track-changes
+	app-emacs/xref"

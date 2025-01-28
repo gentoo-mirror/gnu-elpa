@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Apply alternating letter casing to convey sarcasm or mockery"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/altcaps"
+HOMEPAGE="https://github.com/protesilaos/altcaps"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

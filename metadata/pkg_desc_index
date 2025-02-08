@@ -1,3 +1,4 @@
+app-emacs/a68-mode 1.0: Major mode for editing Algol 68 code
 app-emacs/ace-window 0.10.0: Quickly switch windows.
 app-emacs/ack 1.11: interface to ack-like tools
 app-emacs/activities 0.7.2: Save/restore sets of windows, tabs/frames, and their buffers
@@ -21,6 +22,7 @@ app-emacs/auctex 14.0.8: Integrated environment for *TeX*
 app-emacs/auctex-cont-latexmk 0.3: run latexmk continuously, report errors via Flymake
 app-emacs/auctex-label-numbers 0.2: Numbering for LaTeX previews and folds
 app-emacs/aumix-mode 7: run the aumix program in a buffer
+app-emacs/auth-source-xoauth2-plugin 0.1: authentication source plugin for xoauth2
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
 app-emacs/auto-overlays 0.10.10: Automatic regexp-delimited overlays
@@ -54,7 +56,7 @@ app-emacs/cl-lib 0.7.1: Forward cl-lib compatibility library for Emacs<24.3
 app-emacs/clipboard-collector 0.3: Collect clipboard entries according to regex rules
 app-emacs/cobol-mode 1.1: Mode for editing COBOL code
 app-emacs/code-cells 0.5: Lightweight notebooks with support for ipynb files
-app-emacs/colorful-mode 1.0.4: Preview any color in your buffer in real time
+app-emacs/colorful-mode 1.1.0: Preview any color in your buffer in real time
 app-emacs/comint-mime 0.7: Display content of various MIME types in comint buffers
 app-emacs/compact-docstrings 0.2: Shrink blank lines in docstrings and doc comments
 app-emacs/company 1.0.2: Modular text completion framework
@@ -66,7 +68,7 @@ app-emacs/constants 2.11.1: Enter definition of constants into source code
 app-emacs/consult 2.0: Consulting completing-read
 app-emacs/consult-denote 0.2.4: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.4.1: Hoogle frontend using consult
-app-emacs/consult-recoll 0.8.1: Recoll queries using consult
+app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
 app-emacs/corfu 1.7: COmpletion in Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
@@ -449,7 +451,7 @@ app-emacs/xpm 1.0.5: edit XPM images
 app-emacs/xr 2.1: Convert string regexp to rx notation
 app-emacs/xref 1.7.0: Cross-referencing commands
 app-emacs/xref-union 0.2.0: Combine multiple Xref backends
-app-emacs/yaml 1.0.0: YAML parser for Elisp
+app-emacs/yaml 1.1.0: YAML parser for Elisp
 app-emacs/yasnippet 0.14.1: Yet another snippet extension for Emacs
 app-emacs/yasnippet-classic-snippets 1.0.2: "Classic" yasnippet snippets
 app-emacs/zones 2023.6.11: Zones of text - like multiple regions

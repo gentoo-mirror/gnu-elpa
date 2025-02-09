@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add tool bars inside windows"
 
-HOMEPAGE="https://elpa.gnu.org/packages/window-tool-bar.html"
+HOMEPAGE="http://github.com/chaosemer/window-tool-bar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

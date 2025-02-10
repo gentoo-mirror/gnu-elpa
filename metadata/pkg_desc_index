@@ -27,13 +27,14 @@ app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
 app-emacs/auto-overlays 0.10.10: Automatic regexp-delimited overlays
 app-emacs/autocrypt 0.4.2: Autocrypt implementation
+app-emacs/autorevert-tail-truncate 1.0.1: auto-revert-tail your files with RAM control
 app-emacs/avy 0.5.0: Jump to arbitrary positions in visible text and select text quickly.
 app-emacs/bbdb 3.2.2.4: Big Brother DataBase
 app-emacs/beacon 1.3.4: Highlight the cursor whenever the window scrolls
 app-emacs/beframe 1.3.0: Isolate buffers per frame
 app-emacs/bicep-ts-mode 0.1.3: tree-sitter support for Bicep
 app-emacs/bind-key 2.4.1: A simple way to manage personal keybindings
-app-emacs/blist 0.4: Display bookmarks in an ibuffer way
+app-emacs/blist 0.6: Display bookmarks in an ibuffer way
 app-emacs/bluetooth 0.4.1: A mode for interacting with Bluetooth devices
 app-emacs/bnf-mode 0.4.5: Major mode for editing BNF grammars.
 app-emacs/boxy 2.0.0: A boxy layout framework
@@ -124,7 +125,7 @@ app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisa 1.1.7: Emacs Lisp Information System Assistant
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 0.13.5: Tool for interacting with LLMs
+app-emacs/ellama 0.13.11: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
@@ -339,7 +340,7 @@ app-emacs/rt-liberation 7: Emacs interface to RT
 app-emacs/ruby-end 0.4.3: Automatic insertion of end blocks for Ruby
 app-emacs/rudel 0.3.2: A collaborative editing framework for Emacs
 app-emacs/satchel 0.2: A bag for your files, separated by git branches
-app-emacs/scanner 0.2: Scan documents and images
+app-emacs/scanner 0.3: Scan documents and images
 app-emacs/scroll-restore 1.0: restore original position after scrolling
 app-emacs/sed-mode 1.1: Major mode to edit sed scripts
 app-emacs/seq 2.24: Sequence manipulation functions
@@ -451,7 +452,7 @@ app-emacs/xpm 1.0.5: edit XPM images
 app-emacs/xr 2.1: Convert string regexp to rx notation
 app-emacs/xref 1.7.0: Cross-referencing commands
 app-emacs/xref-union 0.2.0: Combine multiple Xref backends
-app-emacs/yaml 1.1.0: YAML parser for Elisp
+app-emacs/yaml 1.2.0: YAML parser for Elisp
 app-emacs/yasnippet 0.14.1: Yet another snippet extension for Emacs
 app-emacs/yasnippet-classic-snippets 1.0.2: "Classic" yasnippet snippets
 app-emacs/zones 2023.6.11: Zones of text - like multiple regions

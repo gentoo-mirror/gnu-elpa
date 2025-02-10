@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="scanner"
+REALNAME="autorevert-tail-truncate"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Scan documents and images"
+DESCRIPTION="auto-revert-tail your files with RAM control"
 
-HOMEPAGE="https://gitlab.com/rstocker/scanner.git"
+HOMEPAGE="https://github.com/shipmints/autorevert-tail-truncate.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash"
-RDEPEND="app-emacs/dash"
+DEPEND=""
+RDEPEND=""

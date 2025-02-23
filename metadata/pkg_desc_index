@@ -305,7 +305,7 @@ app-emacs/plz-see 0.1: Interactive HTTP client
 app-emacs/poke 3.2: Emacs meets GNU poke!
 app-emacs/poke-mode 3.1: Major mode for editing Poke programs
 app-emacs/poker 0.2: Texas hold 'em poker
-app-emacs/popper 0.4.6: Summon and dismiss buffers as popups
+app-emacs/popper 0.4.8: Summon and dismiss buffers as popups
 app-emacs/posframe 1.4.4: Pop a posframe (just a frame) at point
 app-emacs/pq 0.2: libpq binding
 app-emacs/preview-auto 0.4: Automatic previews in AUCTeX

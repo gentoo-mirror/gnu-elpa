@@ -19,12 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/llm
-	app-emacs/spinner
 	app-emacs/transient
-	app-emacs/compat
-	app-emacs/posframe"
+	app-emacs/compat"
 RDEPEND="app-emacs/llm
-	app-emacs/spinner
 	app-emacs/transient
-	app-emacs/compat
-	app-emacs/posframe"
+	app-emacs/compat"

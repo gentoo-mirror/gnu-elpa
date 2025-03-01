@@ -300,7 +300,7 @@ app-emacs/phpinspect 2.1.0: PHP parsing and code intelligence package
 app-emacs/phps-mode 0.4.49: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation
 app-emacs/plz 0.9.1: HTTP library
-app-emacs/plz-event-source 0.1.1: Plz Event Source
+app-emacs/plz-event-source 0.1.2: Plz Event Source
 app-emacs/plz-media-type 0.2.3: Plz Media Types
 app-emacs/plz-see 0.1: Interactive HTTP client
 app-emacs/poke 3.2: Emacs meets GNU poke!

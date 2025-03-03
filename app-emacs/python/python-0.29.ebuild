@@ -18,5 +18,11 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat
+	app-emacs/seq
+	app-emacs/project
+	app-emacs/flymake"
+RDEPEND="app-emacs/compat
+	app-emacs/seq
+	app-emacs/project
+	app-emacs/flymake"

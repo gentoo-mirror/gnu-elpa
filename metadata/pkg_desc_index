@@ -88,7 +88,7 @@ app-emacs/dape 0.22.0: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
-app-emacs/debbugs 0.43: SOAP library to access debbugs servers
+app-emacs/debbugs 0.44: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
 app-emacs/denote 3.1.0: Simple notes with an efficient file-naming scheme
 app-emacs/denote-menu 1.3.0: View denote files in a tabulated list.

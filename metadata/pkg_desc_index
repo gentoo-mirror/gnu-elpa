@@ -127,7 +127,7 @@ app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisa 1.1.7: Emacs Lisp Information System Assistant
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 1.4.5: Tool for interacting with LLMs
+app-emacs/ellama 1.5.0: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
@@ -164,6 +164,7 @@ app-emacs/gited 0.6.0: Operate on Git branches like dired
 app-emacs/gle-mode 1.1: Major mode to edit Graphics Layout Engine files
 app-emacs/gnat-compiler 1.0.3: Support for running GNAT tools
 app-emacs/gnome-c-style 0.1: minor mode for editing GNOME-style C source code
+app-emacs/gnome-dark-style 0.1: Sync theme with GNOME color-scheme
 app-emacs/gnorb 1.6.11: Glue code between Gnus, Org, and BBDB
 app-emacs/gnu-elpa 1.1: Advertize GNU ELPA packages
 app-emacs/gnu-elpa-keyring-update 2022.12.1: Update Emacs's GPG keyring for GNU ELPA

@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-25.3:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
+DEPEND=app-emacs/seq
+DESCRIPTION=Manage Hugo posts like a barista
+EAPI=8
+HOMEPAGE=https://codeberg.org/c-alpha/hugoista
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/seq >=app-editors/emacs-25.3:*
+SLOT=0
+SRC_URI=https://elpa.gnu.org/packages/hugoista-0.2.0.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=2ec518ef49bc9590378d41cb57b6f334

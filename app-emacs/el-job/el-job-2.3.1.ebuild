@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="tex-parens"
+REALNAME="el-job"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="like lisp.el but for tex"
+DESCRIPTION="Contrived way to call a function using all CPU cores"
 
-HOMEPAGE="https://github.com/ultronozm/tex-parens.el"
+HOMEPAGE="https://github.com/meedstrom/el-job"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -133,7 +133,7 @@ app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisa 1.1.7: Emacs Lisp Information System Assistant
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 1.6.1: Tool for interacting with LLMs
+app-emacs/ellama 1.6.2: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
@@ -191,7 +191,7 @@ app-emacs/hiddenquote 1.2: Major mode for doing hidden quote puzzles
 app-emacs/highlight-escape-sequences 0.4: Highlight escape sequences
 app-emacs/hook-helpers 1.1.1: Anonymous, modifiable hook functions
 app-emacs/html5-schema 0.1: Add HTML5 schemas for use by nXML
-app-emacs/hugoista 0.2.0: Manage Hugo posts like a barista
+app-emacs/hugoista 0.2.1: Manage Hugo posts like a barista
 app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 9.0.1: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/idlwave 6.5.1: IDL editing mode for GNU Emacs

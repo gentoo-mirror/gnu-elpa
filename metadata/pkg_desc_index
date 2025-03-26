@@ -127,7 +127,7 @@ app-emacs/ediprolog 2.3: Emacs Does Interactive Prolog
 app-emacs/eev 20250216: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
 app-emacs/ef-themes 1.9.0: Colorful and legible themes
 app-emacs/eglot 1.18: The Emacs Client for LSP servers
-app-emacs/el-job 2.3.1: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.0: Contrived way to call a function using all CPU cores
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
@@ -171,7 +171,7 @@ app-emacs/gited 0.6.0: Operate on Git branches like dired
 app-emacs/gle-mode 1.1: Major mode to edit Graphics Layout Engine files
 app-emacs/gnat-compiler 1.0.3: Support for running GNAT tools
 app-emacs/gnome-c-style 0.1: minor mode for editing GNOME-style C source code
-app-emacs/gnome-dark-style 0.2.2: Sync theme with GNOME color-scheme
+app-emacs/gnome-dark-style 0.2.3: Sync theme with GNOME color-scheme
 app-emacs/gnorb 1.6.11: Glue code between Gnus, Org, and BBDB
 app-emacs/gnu-elpa 1.1: Advertize GNU ELPA packages
 app-emacs/gnu-elpa-keyring-update 2022.12.1: Update Emacs's GPG keyring for GNU ELPA

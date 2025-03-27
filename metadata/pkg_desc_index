@@ -127,7 +127,7 @@ app-emacs/ediprolog 2.3: Emacs Does Interactive Prolog
 app-emacs/eev 20250216: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
 app-emacs/ef-themes 1.9.0: Colorful and legible themes
 app-emacs/eglot 1.18: The Emacs Client for LSP servers
-app-emacs/el-job 2.4.0: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.3: Contrived way to call a function using all CPU cores
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
@@ -138,7 +138,7 @@ app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
 app-emacs/ement 0.16: Matrix client
-app-emacs/emms 21: The Emacs Multimedia System
+app-emacs/emms 22: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps

@@ -72,7 +72,7 @@ app-emacs/consult-denote 0.2.4: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.5.0: Hoogle frontend using consult
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
-app-emacs/corfu 1.7: COmpletion in Region FUnction
+app-emacs/corfu 2.0: COmpletion in Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
 app-emacs/counsel 0.15.0: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.
@@ -133,7 +133,7 @@ app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
 app-emacs/elisa 1.1.7: Emacs Lisp Information System Assistant
 app-emacs/elisp-benchmarks 1.16: elisp benchmarks collection
-app-emacs/ellama 1.6.2: Tool for interacting with LLMs
+app-emacs/ellama 1.7.2: Tool for interacting with LLMs
 app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark

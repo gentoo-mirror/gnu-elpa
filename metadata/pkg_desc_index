@@ -201,7 +201,7 @@ app-emacs/inspector 0.38: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.8: Control isearch from the minibuffer
 app-emacs/iterators 0.1.1: Functions for working with iterators
-app-emacs/ivy 0.15.0: Incremental Vertical completYon
+app-emacs/ivy 0.15.1: Incremental Vertical completYon
 app-emacs/ivy-avy 0.15.0: Avy integration for Ivy
 app-emacs/ivy-explorer 0.3.2: Dynamic file browsing grid using ivy
 app-emacs/ivy-hydra 0.15.0: Additional key bindings for Ivy
@@ -286,7 +286,7 @@ app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-gnosis 0.0.9: Roam-like Knowledge Management System
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.7.26: Outline-based notes management and organizer
+app-emacs/org-mode 9.7.27: Outline-based notes management and organizer
 app-emacs/org-modern 1.7: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.11: Keep track of real things as org-mode links

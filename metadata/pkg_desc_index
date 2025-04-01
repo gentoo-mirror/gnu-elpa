@@ -74,7 +74,7 @@ app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
 app-emacs/corfu 2.0: COmpletion in Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
-app-emacs/counsel 0.15.0: Various completion functions using Ivy
+app-emacs/counsel 0.15.1: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.
 app-emacs/cpupower 1.0.5: cpupower command interface
 app-emacs/crdt 0.3.5: Collaborative editing using Conflict-free Replicated Data Types

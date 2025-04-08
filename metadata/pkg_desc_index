@@ -254,7 +254,7 @@ app-emacs/mines 1.6: Minesweeper game
 app-emacs/minibuffer-header 0.5: Minibuffer header line
 app-emacs/minibuffer-line 0.1: Display status info in the minibuffer window
 app-emacs/minimap 1.4: Sidebar showing a "mini-map" of a buffer
-app-emacs/minuet 0.5.1: Code completion using LLM
+app-emacs/minuet 0.5.3: Code completion using LLM
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/modus-themes 4.6.0: Elegant, highly legible and customizable themes
 app-emacs/mpdired 3: A dired-like client for Music Player Daemon
@@ -410,7 +410,7 @@ app-emacs/tmr 1.0.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/track-changes 1.4: API to react to buffer modifications
-app-emacs/tramp 2.7.2.2: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.7.2.3.1: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.3: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

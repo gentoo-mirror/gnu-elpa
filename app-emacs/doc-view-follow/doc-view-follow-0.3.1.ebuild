@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="tmr"
+REALNAME="doc-view-follow"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Set timers using a convenient notation"
+DESCRIPTION="Synchronize windows showing the same document"
 
-HOMEPAGE="https://github.com/protesilaos/tmr"
+HOMEPAGE="https://github.com/ultronozm/doc-view-follow.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat"
-RDEPEND="app-emacs/compat"
+DEPEND=""
+RDEPEND=""

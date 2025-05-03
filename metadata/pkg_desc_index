@@ -1,4 +1,4 @@
-app-emacs/a68-mode 1.0: Major mode for editing Algol 68 code
+app-emacs/a68-mode 1.1: Major mode for editing Algol 68 code
 app-emacs/ace-window 0.10.0: Quickly switch windows.
 app-emacs/ack 1.11: interface to ack-like tools
 app-emacs/activities 0.7.2: Save/restore sets of windows, tabs/frames, and their buffers
@@ -128,7 +128,7 @@ app-emacs/ediprolog 2.3: Emacs Does Interactive Prolog
 app-emacs/eev 20250216: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
 app-emacs/ef-themes 1.10.0: Colorful and legible themes
 app-emacs/eglot 1.18: The Emacs Client for LSP servers
-app-emacs/el-job 2.4.4: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.5: Contrived way to call a function using all CPU cores
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
@@ -463,7 +463,7 @@ app-emacs/wisitoken-grammar-mode 1.3.0: Major mode for editing WisiToken grammar
 app-emacs/wpuzzle 1.1: find as many word in a given time
 app-emacs/wrap-search 4.17.6: wrapped, non-incremental search
 app-emacs/xclip 1.11.1: Copy&paste GUI clipboard from text terminal
-app-emacs/xeft 3.5: Deft feat. Xapian
+app-emacs/xeft 3.6: Deft feat. Xapian
 app-emacs/xelb 0.20: X protocol Emacs Lisp Binding
 app-emacs/xpm 1.0.5: edit XPM images
 app-emacs/xr 2.1: Convert string regexp to rx notation

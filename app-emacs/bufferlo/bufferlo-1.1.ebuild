@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Manage frame/tab-local buffer lists"
+DESCRIPTION="Frame/Tab Local Buffer Lists with Persistence"
 
 HOMEPAGE="https://github.com/florommel/bufferlo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

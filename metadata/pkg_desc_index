@@ -288,7 +288,6 @@ app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-gnosis 0.0.9: Roam-like Knowledge Management System
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mathsheet 1.0: Generate dynamic math worksheets
 app-emacs/org-mode 9.7.29: Outline-based notes management and organizer
 app-emacs/org-modern 1.7: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
@@ -420,7 +419,7 @@ app-emacs/transient 0.8.7: Transient commands
 app-emacs/transient-cycles 1.1: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure
-app-emacs/triples 0.5.1: A flexible triple-based database for use in apps
+app-emacs/triples 0.6.0: A flexible triple-based database for use in apps
 app-emacs/typo 1.0.1: Completion style using typo analysis
 app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree

@@ -22,7 +22,7 @@ app-emacs/auctex 14.0.9: Integrated environment for *TeX*
 app-emacs/auctex-cont-latexmk 0.3: run latexmk continuously, report errors via Flymake
 app-emacs/auctex-label-numbers 0.2: Numbering for LaTeX previews and folds
 app-emacs/aumix-mode 7: run the aumix program in a buffer
-app-emacs/auth-source-xoauth2-plugin 0.1.1: authentication source plugin for xoauth2
+app-emacs/auth-source-xoauth2-plugin 0.2: authentication source plugin for xoauth2
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-header 0.1.2: Automatically find the right C headers
 app-emacs/auto-overlays 0.10.10: Automatic regexp-delimited overlays
@@ -128,7 +128,7 @@ app-emacs/ediprolog 2.3: Emacs Does Interactive Prolog
 app-emacs/eev 20250216: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
 app-emacs/ef-themes 1.10.0: Colorful and legible themes
 app-emacs/eglot 1.18: The Emacs Client for LSP servers
-app-emacs/el-job 2.4.6: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.7: Contrived way to call a function using all CPU cores
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.15.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly

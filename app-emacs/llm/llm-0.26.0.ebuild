@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/plz
 	app-emacs/plz-event-source
-	app-emacs/plz-media-type"
+	app-emacs/plz-media-type
+	app-emacs/compat"
 RDEPEND="app-emacs/plz
 	app-emacs/plz-event-source
-	app-emacs/plz-media-type"
+	app-emacs/plz-media-type
+	app-emacs/compat"

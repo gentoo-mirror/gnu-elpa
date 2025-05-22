@@ -47,7 +47,7 @@ app-emacs/bufferlo 1.1: Frame/Tab Local Buffer Lists with Persistence
 app-emacs/bug-hunter 1.3.1: Hunt down errors by bisecting elisp files
 app-emacs/buildbot 0.0.1: A Buildbot client for emacs
 app-emacs/calibre 1.4.1: Interact with Calibre libraries from Emacs
-app-emacs/cape 2.0: Completion At Point Extensions
+app-emacs/cape 2.1: Completion At Point Extensions
 app-emacs/capf-autosuggest 0.3: History autosuggestions for comint and eshell
 app-emacs/caps-lock 1.0: Caps-lock as a minor mode
 app-emacs/captain 1.0.3: CAPiTalization is Automatic IN emacs
@@ -67,7 +67,7 @@ app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 30.1.0.0: Emacs Lisp Compatibility Library
 app-emacs/cond-star 1.0: Extended form of `cond' construct
 app-emacs/constants 2.11.1: Enter definition of constants into source code
-app-emacs/consult 2.3: Consulting completing-read
+app-emacs/consult 2.4: Consulting completing-read
 app-emacs/consult-denote 0.3.1: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.5.0: Hoogle frontend using consult
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
@@ -148,7 +148,7 @@ app-emacs/ergoemacs-mode 5.16.10.12: Emacs mode based on common modern interface
 app-emacs/ess 25.1.0: Emacs Speaks Statistics
 app-emacs/excorporate 1.1.2: Exchange Web Services (EWS) integration
 app-emacs/expand-region 1.0.0: Increase selected region by semantic units.
-app-emacs/expreg 1.3.1: Simple expand region
+app-emacs/expreg 1.4.1: Simple expand region
 app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.33: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces

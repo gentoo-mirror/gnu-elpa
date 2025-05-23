@@ -117,6 +117,7 @@ app-emacs/do-at-point 0.1.2: Generic context-sensitive action dispatcher.
 app-emacs/doc-toc 1.2: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/doc-view-follow 0.3.2: Synchronize windows showing the same document
 app-emacs/docbook 0.1: Info-like viewer for DocBook
+app-emacs/doric-themes 0.0.1: Minimalist themes
 app-emacs/drepl 0.3: REPL protocol for the dumb terminal
 app-emacs/dts-mode 1.0: Major mode for Device Tree source files
 app-emacs/easy-escape 0.2.1: Improve readability of escape characters in regular expressions

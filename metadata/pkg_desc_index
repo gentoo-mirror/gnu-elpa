@@ -72,7 +72,7 @@ app-emacs/consult-denote 0.3.1: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.5.0: Hoogle frontend using consult
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/context-coloring 8.1.0: Highlight by scope
-app-emacs/corfu 2.1: COmpletion in Region FUnction
+app-emacs/corfu 2.2: COmpletion in Region FUnction
 app-emacs/coterm 1.6: Terminal emulation for comint
 app-emacs/counsel 0.15.1: Various completion functions using Ivy
 app-emacs/cpio-mode 0.17: Handle cpio archives in the style of dired.
@@ -117,7 +117,7 @@ app-emacs/do-at-point 0.1.2: Generic context-sensitive action dispatcher.
 app-emacs/doc-toc 1.2: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/doc-view-follow 0.3.2: Synchronize windows showing the same document
 app-emacs/docbook 0.1: Info-like viewer for DocBook
-app-emacs/doric-themes 0.0.1: Minimalist themes
+app-emacs/doric-themes 0.1.0: Minimalist themes
 app-emacs/drepl 0.3: REPL protocol for the dumb terminal
 app-emacs/dts-mode 1.0: Major mode for Device Tree source files
 app-emacs/easy-escape 0.2.1: Improve readability of escape characters in regular expressions
@@ -212,7 +212,7 @@ app-emacs/jami-bot 0.0.4: An extendable chat bot for the private messenger GNU J
 app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
-app-emacs/jinx 2.1: Enchanted Spell Checker
+app-emacs/jinx 2.2: Enchanted Spell Checker
 app-emacs/jit-spell 0.4: Just-in-time spell checking
 app-emacs/js2-mode 20231224: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
@@ -290,7 +290,7 @@ app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-gnosis 0.0.9: Roam-like Knowledge Management System
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-mode 9.7.30: Outline-based notes management and organizer
-app-emacs/org-modern 1.7: Modern looks for Org
+app-emacs/org-modern 1.8: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.11: Keep track of real things as org-mode links
 app-emacs/org-remark 1.3.0: Highlight & annotate text, Info, EPUB, EWW
@@ -441,7 +441,7 @@ app-emacs/vcard 0.2.2: Package for handling vCard files
 app-emacs/vcl-mode 1.1: Major mode for Varnish Configuration Language
 app-emacs/vdiff 0.2.4: A diff tool similar to vimdiff
 app-emacs/verilog-mode 2025.1.1.100165202: major mode for editing verilog source in Emacs
-app-emacs/vertico 2.1: VERTical Interactive COmpletion
+app-emacs/vertico 2.2: VERTical Interactive COmpletion
 app-emacs/vertico-posframe 0.8.0: Using posframe to show Vertico
 app-emacs/vigenere 1.0: Run a vigenere cipher on a block of text ;
 app-emacs/visual-filename-abbrev 1.3: Visually abbreviate filenames

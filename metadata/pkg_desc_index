@@ -57,7 +57,7 @@ app-emacs/cl-lib 0.7.1: Forward cl-lib compatibility library for Emacs<24.3
 app-emacs/clipboard-collector 0.3: Collect clipboard entries according to regex rules
 app-emacs/cobol-mode 1.1: Mode for editing COBOL code
 app-emacs/code-cells 0.5: Lightweight notebooks with support for ipynb files
-app-emacs/colorful-mode 1.2.3: Preview any color in your buffer in real time
+app-emacs/colorful-mode 1.2.4: Preview any color in your buffer in real time
 app-emacs/comint-mime 0.7: Display content of various MIME types in comint buffers
 app-emacs/compact-docstrings 0.2: Shrink blank lines in docstrings and doc comments
 app-emacs/company 1.0.2: Modular text completion framework
@@ -412,7 +412,7 @@ app-emacs/tmr 1.1.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/track-changes 1.4: API to react to buffer modifications
-app-emacs/tramp 2.7.2.3.1: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.7.2.4: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.3: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

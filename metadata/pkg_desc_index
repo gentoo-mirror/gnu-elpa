@@ -470,7 +470,7 @@ app-emacs/xr 2.1: Convert string regexp to rx notation
 app-emacs/xref 1.7.0: Cross-referencing commands
 app-emacs/xref-union 0.2.0: Combine multiple Xref backends
 app-emacs/yaml 1.2.0: YAML parser for Elisp
-app-emacs/yasnippet 0.14.2: Yet another snippet extension for Emacs
+app-emacs/yasnippet 0.14.3: Yet another snippet extension for Emacs
 app-emacs/yasnippet-classic-snippets 1.0.2: "Classic" yasnippet snippets
 app-emacs/zones 2023.6.11: Zones of text - like multiple regions
 app-emacs/ztree 1.0.6: Text mode directory tree

@@ -436,7 +436,7 @@ app-emacs/valign 3.1.1: Visually align tables
 app-emacs/vc-backup 1.1.0: VC backend for versioned backups
 app-emacs/vc-got 1.2: VC backend for Game of Trees VCS
 app-emacs/vc-hgcmd 1.14.1: VC mercurial backend that uses hg command server
-app-emacs/vc-jj 0.2: VC backend for the Jujutsu version control system
+app-emacs/vc-jj 0.3: VC backend for the Jujutsu version control system
 app-emacs/vcard 0.2.2: Package for handling vCard files
 app-emacs/vcl-mode 1.1: Major mode for Varnish Configuration Language
 app-emacs/vdiff 0.2.4: A diff tool similar to vimdiff

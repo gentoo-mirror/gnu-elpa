@@ -401,7 +401,7 @@ app-emacs/tam 0.1: Manage use of slots in a fixed size table
 app-emacs/taxy 0.10.2: Programmable taxonomical grouping for arbitrary objects
 app-emacs/taxy-magit-section 0.14.3: View Taxy structs in a Magit Section buffer
 app-emacs/temp-buffer-browse 1.5: temp buffer browse mode
-app-emacs/tempel 1.4: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 1.5: Tempo templates/snippets with in-buffer field editing
 app-emacs/test-simple 1.3.0: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-item 0.1: Commands for working with tex items
 app-emacs/tex-parens 0.7: Like lisp.el, but for tex

@@ -64,7 +64,7 @@ app-emacs/company 1.0.2: Modular text completion framework
 app-emacs/company-ebdb 1.1: company-mode completion backend for EBDB in message-mode
 app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and latex tags
 app-emacs/company-statistics 0.2.3: Sort candidates using completion history
-app-emacs/compat 30.1.0.0: Emacs Lisp Compatibility Library
+app-emacs/compat 30.1.0.1: Emacs Lisp Compatibility Library
 app-emacs/cond-star 1.0: Extended form of `cond' construct
 app-emacs/constants 2.11.1: Enter definition of constants into source code
 app-emacs/consult 2.5: Consulting completing-read

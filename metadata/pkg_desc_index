@@ -183,7 +183,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpr-mode 1.0.5: Major mode for editing GNAT project files
 app-emacs/gpr-query 1.0.4: Minor mode for navigating sources using gpr_query
 app-emacs/graphql 0.1.2: GraphQL utilities
-app-emacs/greader 0.12.6: Gnamù reader, send buffer contents to a speech engine
+app-emacs/greader 0.12.7: Gnamù reader, send buffer contents to a speech engine
 app-emacs/greenbar 1.2: Mark comint output with "greenbar" background
 app-emacs/gtags-mode 1.9.3: GNU Global integration with xref, project and imenu.
 app-emacs/guess-language 0.0.1: Robust automatic language detection

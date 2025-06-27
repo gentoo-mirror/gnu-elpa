@@ -18,7 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/ntlm
-	app-emacs/nadvice"
-RDEPEND="app-emacs/ntlm
-	app-emacs/nadvice"
+DEPEND="app-emacs/ntlm"
+RDEPEND="app-emacs/ntlm"

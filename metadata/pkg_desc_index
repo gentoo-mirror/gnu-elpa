@@ -151,7 +151,7 @@ app-emacs/excorporate 1.1.2: Exchange Web Services (EWS) integration
 app-emacs/expand-region 1.0.0: Increase selected region by semantic units.
 app-emacs/expreg 1.4.1: Simple expand region
 app-emacs/external-completion 0.1: Let external tools control completion style
-app-emacs/exwm 0.33: Emacs X Window Manager
+app-emacs/exwm 0.34: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
 app-emacs/face-shift 0.2.1: Shift the colour of certain faces
 app-emacs/filechooser 0.2.3: An xdg-desktop-portal filechooser
@@ -464,7 +464,7 @@ app-emacs/wpuzzle 1.1: find as many word in a given time
 app-emacs/wrap-search 4.17.6: wrapped, non-incremental search
 app-emacs/xclip 1.11.1: Copy&paste GUI clipboard from text terminal
 app-emacs/xeft 3.6: Deft feat. Xapian
-app-emacs/xelb 0.20: X protocol Emacs Lisp Binding
+app-emacs/xelb 0.21: X protocol Emacs Lisp Binding
 app-emacs/xpm 1.0.5: edit XPM images
 app-emacs/xr 2.1: Convert string regexp to rx notation
 app-emacs/xref 1.7.0: Cross-referencing commands

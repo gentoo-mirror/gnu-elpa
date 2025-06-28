@@ -21,10 +21,8 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/fsm
 	app-emacs/soap-client
 	app-emacs/url-http-ntlm
-	app-emacs/nadvice
 	app-emacs/url-http-oauth"
 RDEPEND="app-emacs/fsm
 	app-emacs/soap-client
 	app-emacs/url-http-ntlm
-	app-emacs/nadvice
 	app-emacs/url-http-oauth"

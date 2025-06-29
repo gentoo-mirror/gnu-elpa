@@ -67,7 +67,7 @@ app-emacs/company-statistics 0.2.3: Sort candidates using completion history
 app-emacs/compat 30.1.0.1: Emacs Lisp Compatibility Library
 app-emacs/cond-star 1.0: Extended form of `cond' construct
 app-emacs/constants 2.11.1: Enter definition of constants into source code
-app-emacs/consult 2.5: Consulting completing-read
+app-emacs/consult 2.6: Consulting completing-read
 app-emacs/consult-denote 0.3.1: Use Consult in tandem with Denote
 app-emacs/consult-hoogle 0.5.0: Hoogle frontend using consult
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
@@ -412,7 +412,7 @@ app-emacs/tmr 1.1.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/track-changes 1.4: API to react to buffer modifications
-app-emacs/tramp 2.7.2.4: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.8.0: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.3: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

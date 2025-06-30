@@ -198,7 +198,7 @@ app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperbole 9.0.1: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/idlwave 6.5.1: IDL editing mode for GNU Emacs
 app-emacs/ilist 0.4: Display a list in an ibuffer way.
-app-emacs/indent-bars 0.8.5: Highlight indentation with bars
+app-emacs/indent-bars 0.9: Highlight indentation with bars
 app-emacs/inspector 0.38: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.8: Control isearch from the minibuffer

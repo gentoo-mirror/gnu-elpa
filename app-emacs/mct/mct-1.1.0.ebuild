@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://elpa.gnu.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="doric-themes"
+REALNAME="mct"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minimalist themes"
+DESCRIPTION="Minibuffer Confines Transcended"
 
-HOMEPAGE="https://github.com/protesilaos/doric-themes"
+HOMEPAGE="https://github.com/protesilaos/mct"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

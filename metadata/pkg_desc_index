@@ -140,7 +140,7 @@ app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
 app-emacs/ement 0.16: Matrix client
-app-emacs/emms 22: The Emacs Multimedia System
+app-emacs/emms 23: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps

@@ -290,7 +290,7 @@ app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
 app-emacs/org-gnosis 0.0.9: Roam-like Knowledge Management System
 app-emacs/org-jami-bot 0.0.5: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-mode 9.7.31: Outline-based notes management and organizer
+app-emacs/org-mode 9.7.32: Outline-based notes management and organizer
 app-emacs/org-modern 1.9: Modern looks for Org
 app-emacs/org-notify 0.1.1: Notifications for Org-mode
 app-emacs/org-real 1.0.11: Keep track of real things as org-mode links

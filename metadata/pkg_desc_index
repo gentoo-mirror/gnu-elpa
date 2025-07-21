@@ -441,6 +441,7 @@ app-emacs/vc-jj 0.3: VC backend for the Jujutsu version control system
 app-emacs/vcard 0.2.2: Package for handling vCard files
 app-emacs/vcl-mode 1.1: Major mode for Varnish Configuration Language
 app-emacs/vdiff 0.2.4: A diff tool similar to vimdiff
+app-emacs/vecdb 0.2: An interface to vector databases for embeddings
 app-emacs/verilog-mode 2025.1.1.100165202: major mode for editing verilog source in Emacs
 app-emacs/vertico 2.4: VERTical Interactive COmpletion
 app-emacs/vertico-posframe 0.8.0: Using posframe to show Vertico

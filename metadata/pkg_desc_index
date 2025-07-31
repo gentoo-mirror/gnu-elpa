@@ -24,7 +24,6 @@ app-emacs/auctex-label-numbers 0.2: Numbering for LaTeX previews and folds
 app-emacs/aumix-mode 7: run the aumix program in a buffer
 app-emacs/auth-source-xoauth2-plugin 0.2.1: authentication source plugin for xoauth2
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
-app-emacs/auto-header 0.1.2: Automatically find the right C headers
 app-emacs/auto-overlays 0.10.10: Automatic regexp-delimited overlays
 app-emacs/autocrypt 0.4.2: Autocrypt implementation
 app-emacs/autorevert-tail-truncate 1.0.1: auto-revert-tail your files with RAM control
@@ -153,7 +152,6 @@ app-emacs/expreg 1.4.1: Simple expand region
 app-emacs/external-completion 0.1: Let external tools control completion style
 app-emacs/exwm 0.34: Emacs X Window Manager
 app-emacs/f90-interface-browser 1.1: Parse and browse f90 interfaces
-app-emacs/face-shift 0.2.1: Shift the colour of certain faces
 app-emacs/filechooser 0.2.3: An xdg-desktop-portal filechooser
 app-emacs/filladapt 2.12.2: Adaptive fill
 app-emacs/firefox-javascript-repl 0.9.5: Jack into Firefox
@@ -284,7 +282,6 @@ app-emacs/ob-haxe 1.0: org-babel functions for haxe evaluation
 app-emacs/objed 0.8.3: Navigate and edit text objects.
 app-emacs/omn-mode 1.3: Support for OWL Manchester Notation
 app-emacs/on-screen 1.3.3: guide your eyes while scrolling
-app-emacs/openpgp 1.0.2: Client for keys.openpgp.org
 app-emacs/orderless 1.5: Completion style for matching regexps in any order
 app-emacs/org-contacts 1.1: Contacts management system for Org Mode
 app-emacs/org-edna 1.1.2: Extensible Dependencies 'N' Actions
@@ -413,7 +410,7 @@ app-emacs/tmr 1.1.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/track-changes 1.4: API to react to buffer modifications
-app-emacs/tramp 2.8.0: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.8.0.1: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.3: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
@@ -422,7 +419,6 @@ app-emacs/transient-cycles 2.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure
 app-emacs/triples 0.6.0: A flexible triple-based database for use in apps
-app-emacs/typo 1.0.1: Completion style using typo analysis
 app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table

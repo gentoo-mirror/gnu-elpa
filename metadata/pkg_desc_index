@@ -392,7 +392,7 @@ app-emacs/svg-lib 0.3: SVG tags, progress bars & icons
 app-emacs/svg-tag-mode 0.3.3: Replace keywords with SVG tags
 app-emacs/swiper 0.15.1: Isearch with an overview. Oh, man!
 app-emacs/switchy-window 1.3: A most-recently-used window switcher
-app-emacs/sxhkdrc-mode 1.1.0: Major mode for sxhkdrc files (Simple X Hot Key Daemon)
+app-emacs/sxhkdrc-mode 1.2.0: Major mode for sxhkdrc files (Simple X Hot Key Daemon)
 app-emacs/system-packages 1.0.13: functions to manage system packages
 app-emacs/tNFA 0.1.1: Tagged non-deterministic finite-state automata
 app-emacs/tam 0.1: Manage use of slots in a fixed size table

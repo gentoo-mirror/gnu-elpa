@@ -335,7 +335,7 @@ app-emacs/queue 0.2: Queue data structure
 app-emacs/rainbow-mode 1.0.6: Colorize color names in buffers
 app-emacs/rbit 0.1: Red-black persistent interval trees
 app-emacs/rcirc-color 0.4.5: color nicks
-app-emacs/rcirc-mentions 1.0.2: Log mentions of your nick or keywords in a separate buffer
+app-emacs/rcirc-mentions 1.0.3: Log mentions of your nick or keywords in a separate buffer
 app-emacs/rcirc-menu 1.1: A menu of all your rcirc connections
 app-emacs/rcirc-sqlite 1.0.4: rcirc logging in SQLite
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers

@@ -200,7 +200,7 @@ app-emacs/indent-bars 0.9.2: Highlight indentation with bars
 app-emacs/inspector 0.38: Tool for inspection of Emacs Lisp objects
 app-emacs/ioccur 2.6: Incremental occur
 app-emacs/isearch-mb 0.8: Control isearch from the minibuffer
-app-emacs/iso-date 1.1.0: Utilities for working with ISO dates
+app-emacs/iso-date 1.2.0: Utilities for working with ISO dates
 app-emacs/iterators 0.1.1: Functions for working with iterators
 app-emacs/ivy 0.15.1: Incremental Vertical completYon
 app-emacs/ivy-avy 0.15.1: Avy integration for Ivy

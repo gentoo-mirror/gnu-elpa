@@ -321,7 +321,7 @@ app-emacs/poker 0.2: Texas hold 'em poker
 app-emacs/popper 0.4.8: Summon and dismiss buffers as popups
 app-emacs/posframe 1.4.4: Pop a posframe (just a frame) at point
 app-emacs/pq 0.2: libpq binding
-app-emacs/preview-auto 0.4: Automatic previews in AUCTeX
+app-emacs/preview-auto 0.4.1: Automatic previews in AUCTeX
 app-emacs/preview-tailor 0.2: Tailor AUCTeX preview scale to monitor/text scale
 app-emacs/project 0.11.1: Operations on the current project
 app-emacs/psgml 1.3.5: SGML-editing mode with parsing support

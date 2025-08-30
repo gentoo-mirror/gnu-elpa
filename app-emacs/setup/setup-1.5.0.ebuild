@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helpful Configuration Macro"
 
-HOMEPAGE="https://git.sr.ht/~pkal/setup"
+HOMEPAGE="https://codeberg.org/pkal/setup.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

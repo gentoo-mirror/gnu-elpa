@@ -277,7 +277,7 @@ app-emacs/notes-mode 1.31: Indexing system for on-line note-taking
 app-emacs/notmuch-indicator 1.2.0: Display mode line indicator with notmuch-count(1) output
 app-emacs/ntlm 2.1.0: NTLM (NT LanManager) authentication support
 app-emacs/num3-mode 1.5: highlight groups of digits in long numbers
-app-emacs/oauth2 0.17: OAuth 2.0 Authorization Protocol
+app-emacs/oauth2 0.18: OAuth 2.0 Authorization Protocol
 app-emacs/ob-asymptote 1.0.2: Babel Functions for Asymptote
 app-emacs/ob-haxe 1.0: org-babel functions for haxe evaluation
 app-emacs/objed 0.8.3: Navigate and edit text objects.
@@ -416,7 +416,7 @@ app-emacs/tramp 2.8.0.2: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.3: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
-app-emacs/transient 0.9.4: Transient commands
+app-emacs/transient 0.10.0: Transient commands
 app-emacs/transient-cycles 2.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure

@@ -22,7 +22,7 @@ app-emacs/auctex 14.1.0: Integrated environment for *TeX*
 app-emacs/auctex-cont-latexmk 0.3: run latexmk continuously, report errors via Flymake
 app-emacs/auctex-label-numbers 0.2: Numbering for LaTeX previews and folds
 app-emacs/aumix-mode 7: run the aumix program in a buffer
-app-emacs/auth-source-xoauth2-plugin 0.2.1: authentication source plugin for xoauth2
+app-emacs/auth-source-xoauth2-plugin 0.3.1: Authentication source plugin for xoauth2
 app-emacs/auto-correct 1.1.4: Remembers and automatically fixes past corrections
 app-emacs/auto-overlays 0.10.10: Automatic regexp-delimited overlays
 app-emacs/autocrypt 0.4.2: Autocrypt implementation
@@ -277,7 +277,7 @@ app-emacs/notes-mode 1.31: Indexing system for on-line note-taking
 app-emacs/notmuch-indicator 1.2.0: Display mode line indicator with notmuch-count(1) output
 app-emacs/ntlm 2.1.0: NTLM (NT LanManager) authentication support
 app-emacs/num3-mode 1.5: highlight groups of digits in long numbers
-app-emacs/oauth2 0.18: OAuth 2.0 Authorization Protocol
+app-emacs/oauth2 0.18.2: OAuth 2.0 Authorization Protocol
 app-emacs/ob-asymptote 1.0.2: Babel Functions for Asymptote
 app-emacs/ob-haxe 1.0: org-babel functions for haxe evaluation
 app-emacs/objed 0.8.3: Navigate and edit text objects.

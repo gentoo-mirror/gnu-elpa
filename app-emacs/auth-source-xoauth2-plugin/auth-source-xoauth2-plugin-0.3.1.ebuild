@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="authentication source plugin for xoauth2"
+DESCRIPTION="Authentication source plugin for xoauth2"
 
-HOMEPAGE="https://elpa.gnu.org/packages/auth-source-xoauth2-plugin.html"
+HOMEPAGE="https://gitlab.com/manphiz/auth-source-xoauth2-plugin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

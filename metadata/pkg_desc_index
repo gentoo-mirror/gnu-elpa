@@ -367,7 +367,7 @@ app-emacs/shell-command+ 2.4.2: An extended shell-command
 app-emacs/shen-mode 0.1: A major mode for editing shen source code
 app-emacs/show-font 1.0.0: Show font features in a buffer
 app-emacs/sisu-mode 7.1.8: Major mode for SiSU markup text
-app-emacs/site-lisp 0.1.2: Manage site-lisp directories
+app-emacs/site-lisp 0.2.0: Manage site-lisp directories
 app-emacs/sketch-mode 1.0.4: Quickly create svg sketches using keyboard and mouse
 app-emacs/slime-volleyball 1.2.0: An SVG Slime Volleyball Game
 app-emacs/sm-c-mode 1.2: C major mode based on SMIE
@@ -396,7 +396,7 @@ app-emacs/svg-tag-mode 0.3.3: Replace keywords with SVG tags
 app-emacs/swiper 0.15.1: Isearch with an overview. Oh, man!
 app-emacs/switchy-window 1.3: A most-recently-used window switcher
 app-emacs/sxhkdrc-mode 1.2.0: Major mode for sxhkdrc files (Simple X Hot Key Daemon)
-app-emacs/system-packages 1.0.13: functions to manage system packages
+app-emacs/system-packages 1.1.1: functions to manage system packages
 app-emacs/tNFA 0.1.1: Tagged non-deterministic finite-state automata
 app-emacs/tam 0.1: Manage use of slots in a fixed size table
 app-emacs/taxy 0.10.2: Programmable taxonomical grouping for arbitrary objects
@@ -434,7 +434,7 @@ app-emacs/url-scgi 0.9: SCGI support for url.el
 app-emacs/use-package 2.4.6: A configuration macro for simplifying your .emacs
 app-emacs/validate 1.0.4: Schema validation for Emacs-lisp
 app-emacs/valign 3.1.1: Visually align tables
-app-emacs/vc-backup 1.1.0: VC backend for versioned backups
+app-emacs/vc-backup 1.1.1: VC backend for versioned backups
 app-emacs/vc-got 1.2: VC backend for Game of Trees VCS
 app-emacs/vc-hgcmd 1.14.1: VC mercurial backend that uses hg command server
 app-emacs/vc-jj 0.4: VC backend for the Jujutsu version control system

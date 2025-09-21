@@ -12,11 +12,11 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="VC backend for versioned backups"
 
-HOMEPAGE="https://git.sr.ht/~pkal/vc-backup"
+HOMEPAGE="https://codeberg.org/pkal/vc-backup.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage site-lisp directories"
 
-HOMEPAGE="https://git.sr.ht/~pkal/site-lisp"
+HOMEPAGE="https://codeberg.org/pkal/site-lisp.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

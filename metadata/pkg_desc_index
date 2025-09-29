@@ -88,7 +88,7 @@ app-emacs/dape 0.24.1: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.20.0: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
-app-emacs/debbugs 0.44: SOAP library to access debbugs servers
+app-emacs/debbugs 0.45: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
 app-emacs/denote 4.0.0: Simple notes with an efficient file-naming scheme
 app-emacs/denote-journal 0.1.1: Convenience functions for daily journaling with Denote
@@ -247,7 +247,7 @@ app-emacs/marginalia 2.3: Enrich existing commands with completion annotations
 app-emacs/markchars 0.2.2: Mark chars fitting certain characteristics
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
 app-emacs/mathjax 0.1: Render formulas using MathJax
-app-emacs/mathsheet 1.2: Generate dynamic math worksheets
+app-emacs/mathsheet 1.3: Generate dynamic math worksheets
 app-emacs/matlab-mode 6.3: major mode for MATLAB(R) dot-m files
 app-emacs/mct 1.1.0: Minibuffer Confines Transcended
 app-emacs/memory-usage 0.2: Analyze the memory usage of Emacs in various ways
@@ -414,7 +414,7 @@ app-emacs/tmr 1.1.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/track-changes 1.4: API to react to buffer modifications
-app-emacs/tramp 2.8.0.2: Transparent Remote Access, Multiple Protocol
+app-emacs/tramp 2.8.0.3: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.3: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions

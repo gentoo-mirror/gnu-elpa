@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for MATLAB(R) dot-m files"
+DESCRIPTION="Major mode for MATLAB(R) dot-m files"
 
 HOMEPAGE="https://github.com/mathworks/Emacs-MATLAB-Mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

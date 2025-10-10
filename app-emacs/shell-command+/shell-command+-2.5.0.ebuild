@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An extended shell-command"
 
-HOMEPAGE="https://git.sr.ht/~pkal/shell-command-plus"
+HOMEPAGE="https://codeberg.org/pkal/shell-command-plus.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -84,7 +84,7 @@ app-emacs/csv-mode 1.27: Major mode for editing comma/char separated values
 app-emacs/cursor-undo 1.1.5: Undo Cursor Movement
 app-emacs/cursory 1.2.0: Manage cursor styles using presets
 app-emacs/cycle-quotes 0.1: Cycle between quote styles
-app-emacs/dape 0.24.1: Debug Adapter Protocol for Emacs
+app-emacs/dape 0.25.0: Debug Adapter Protocol for Emacs
 app-emacs/darkroom 0.3: Remove visual distractions and focus on writing
 app-emacs/dash 2.20.0: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
@@ -129,7 +129,7 @@ app-emacs/ediprolog 2.3: Emacs Does Interactive Prolog
 app-emacs/eev 20250914: Support for e-scripts (eepitch blocks, elisp hyperlinks, etc)
 app-emacs/ef-themes 1.11.0: Colorful and legible themes
 app-emacs/eglot 1.18: The Emacs Client for LSP servers
-app-emacs/el-job 2.4.8: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.5.3: Contrived way to call a function using all CPU cores
 app-emacs/el-search 1.12.6.1: Expression based interactive search for Emacs Lisp
 app-emacs/eldoc 1.16.0: Show function arglist or variable docstring in echo area
 app-emacs/electric-spacing 5.0: Insert operators with surrounding spaces smartly
@@ -175,7 +175,7 @@ app-emacs/gnome-c-style 0.1: minor mode for editing GNOME-style C source code
 app-emacs/gnome-dark-style 0.2.3: Sync theme with GNOME color-scheme
 app-emacs/gnorb 1.6.11: Glue code between Gnus, Org, and BBDB
 app-emacs/gnu-elpa 1.1: Advertize GNU ELPA packages
-app-emacs/gnu-elpa-keyring-update 2022.12.1: Update Emacs's GPG keyring for GNU ELPA
+app-emacs/gnu-elpa-keyring-update 2025.10.1: Update Emacs's GPG keyring for GNU ELPA
 app-emacs/gnugo 3.1.2: play GNU Go in a buffer
 app-emacs/gnus-mock 0.5: Mock Gnus installation for testing
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
@@ -248,7 +248,7 @@ app-emacs/markchars 0.2.2: Mark chars fitting certain characteristics
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
 app-emacs/mathjax 0.1: Render formulas using MathJax
 app-emacs/mathsheet 1.3: Generate dynamic math worksheets
-app-emacs/matlab-mode 7.1.0: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 7.1.1: Major mode for MATLAB(R) dot-m files
 app-emacs/mct 1.1.0: Minibuffer Confines Transcended
 app-emacs/memory-usage 0.2: Analyze the memory usage of Emacs in various ways
 app-emacs/metar 0.3: Retrieve and decode METAR weather information
@@ -363,7 +363,7 @@ app-emacs/sed-mode 1.1: Major mode to edit sed scripts
 app-emacs/seq 2.24: Sequence manipulation functions
 app-emacs/setup 1.5.0: Helpful Configuration Macro
 app-emacs/shelisp 1.0.0: execute elisp in shell
-app-emacs/shell-command+ 2.4.2: An extended shell-command
+app-emacs/shell-command+ 2.5.0: An extended shell-command
 app-emacs/shen-mode 0.1: A major mode for editing shen source code
 app-emacs/show-font 1.0.0: Show font features in a buffer
 app-emacs/sisu-mode 7.1.8: Major mode for SiSU markup text
@@ -403,6 +403,7 @@ app-emacs/taxy 0.10.2: Programmable taxonomical grouping for arbitrary objects
 app-emacs/taxy-magit-section 0.14.3: View Taxy structs in a Magit Section buffer
 app-emacs/temp-buffer-browse 1.5: temp buffer browse mode
 app-emacs/tempel 1.6: Tempo templates/snippets with in-buffer field editing
+app-emacs/termint 0.1.1: Run REPLs in a terminal backend
 app-emacs/test-simple 1.3.0: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-item 0.1: Commands for working with tex items
 app-emacs/tex-parens 0.7: Like lisp.el, but for tex
@@ -410,7 +411,7 @@ app-emacs/theme-buffet 0.1.2: Time based theme switcher
 app-emacs/timeout 2.1: Throttle or debounce Elisp functions
 app-emacs/timerfunctions 1.4.2: Enhanced versions of some timer.el functions
 app-emacs/tiny 0.2.1: Quickly generate linear ranges in Emacs
-app-emacs/tmr 1.1.0: Set timers using a convenient notation
+app-emacs/tmr 1.2.0: Set timers using a convenient notation
 app-emacs/tomelr 0.4.3: Convert S-expressions to TOML
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/track-changes 1.4: API to react to buffer modifications
@@ -418,11 +419,11 @@ app-emacs/tramp 2.8.0.3: Transparent Remote Access, Multiple Protocol
 app-emacs/tramp-nspawn 1.0.1: Tramp integration for systemd-nspawn containers
 app-emacs/tramp-theme 0.3: Custom theme for remote buffers
 app-emacs/transcribe 1.5.2: Package for audio transcriptions
-app-emacs/transient 0.10.0: Transient commands
+app-emacs/transient 0.10.1: Transient commands
 app-emacs/transient-cycles 2.0: Define command variants with transient cycling
 app-emacs/tree-inspector 0.4: Inspector tool for Emacs Lisp object that uses a treeview
 app-emacs/trie 0.6: Trie data structure
-app-emacs/triples 0.6.0: A flexible triple-based database for use in apps
+app-emacs/triples 0.6.1: A flexible triple-based database for use in apps
 app-emacs/ulisp-repl 1.0.3: uLisp REPL
 app-emacs/undo-tree 0.8.2: Treat undo history as a tree
 app-emacs/uni-confusables 0.3: Unicode confusables table

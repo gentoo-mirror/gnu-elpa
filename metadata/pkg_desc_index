@@ -308,7 +308,7 @@ app-emacs/parser-generator 0.2.5: Parser Generator library
 app-emacs/path-iterator 1.0: An iterator for traversing a directory path.
 app-emacs/peg 1.0.1: Parsing Expression Grammars in Emacs Lisp
 app-emacs/perl-doc 0.82: Read Perl documentation
-app-emacs/persist 0.7: Persist Variables between Emacs Sessions
+app-emacs/persist 0.8: Persist Variables between Emacs Sessions
 app-emacs/phpinspect 3.0.1: PHP parsing and code intelligence package
 app-emacs/phps-mode 0.4.51: Major mode for PHP with code intelligence
 app-emacs/pinentry 0.1: GnuPG Pinentry server implementation

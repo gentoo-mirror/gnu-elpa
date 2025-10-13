@@ -140,7 +140,7 @@ app-emacs/emacs-gc-stats 1.4.2: Collect Emacs GC statistics
 app-emacs/embark 1.1: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.1: Consult integration for Embark
 app-emacs/ement 0.16: Matrix client
-app-emacs/emms 23: The Emacs Multimedia System
+app-emacs/emms 24: The Emacs Multimedia System
 app-emacs/engrave-faces 0.3.1: Convert font-lock faces to other formats
 app-emacs/enwc 2.0: The Emacs Network Client
 app-emacs/epoch-view 0.0.1: Minor mode to visualize epoch timestamps
@@ -213,7 +213,7 @@ app-emacs/jarchive 0.11.0: Open project dependencies in jar archives
 app-emacs/javaimp 0.9.1: Add and reorder Java import statements in Maven/Gradle projects
 app-emacs/jgraph-mode 1.1: Major mode for Jgraph files
 app-emacs/jinx 2.3: Enchanted Spell Checker
-app-emacs/jit-spell 0.4: Just-in-time spell checking
+app-emacs/jit-spell 0.5: Just-in-time spell checking
 app-emacs/js2-mode 20231224: Improved JavaScript editing mode
 app-emacs/json-mode 0.2: Major mode for editing JSON files
 app-emacs/jsonrpc 1.0.25: JSON-RPC library
@@ -256,6 +256,7 @@ app-emacs/midi-kbd 0.2: Create keyboard events from Midi input
 app-emacs/mines 1.6: Minesweeper game
 app-emacs/minibuffer-header 0.5: Minibuffer header line
 app-emacs/minibuffer-line 0.1: Display status info in the minibuffer window
+app-emacs/minimail 0.1.1: Simple, non-blocking IMAP email client
 app-emacs/minimap 1.4: Sidebar showing a "mini-map" of a buffer
 app-emacs/minuet 0.6.0: Code completion using LLM
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer

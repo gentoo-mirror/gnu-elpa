@@ -90,7 +90,7 @@ app-emacs/dash 2.20.0: A modern list library for Emacs
 app-emacs/dbus-codegen 0.1: Lisp code generation for D-Bus.
 app-emacs/debbugs 0.45: SOAP library to access debbugs servers
 app-emacs/delight 1.7: A dimmer switch for your lighter text
-app-emacs/denote 4.1.0: Simple notes with an efficient file-naming scheme
+app-emacs/denote 4.1.1: Simple notes with an efficient file-naming scheme
 app-emacs/denote-journal 0.2.0: Convenience functions for daily journaling with Denote
 app-emacs/denote-markdown 0.2.0: Extensions that better integrate Denote with Markdown
 app-emacs/denote-menu 1.4.0: View denote files in a tabulated list.

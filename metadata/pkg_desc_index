@@ -99,7 +99,7 @@ app-emacs/denote-search 1.0.3: Search the contents of your notes
 app-emacs/denote-sequence 0.2.0: Sequence notes or Folgezettel with Denote
 app-emacs/denote-silo 0.2.0: Convenience functions for using Denote in multiple silos
 app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
-app-emacs/devdocs 0.6.1: Emacs viewer for DevDocs
+app-emacs/devdocs 0.7: Emacs viewer for DevDocs
 app-emacs/devicetree-ts-mode 0.3: Tree-sitter support for DTS
 app-emacs/dicom 1.1: DICOM viewer - Digital Imaging & Communications in Medicine
 app-emacs/dict-tree 0.17: Dictionary data structure
